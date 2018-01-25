@@ -1,0 +1,1424 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TringSport 4"  group-title="shanes tv",TringSport 4
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/11.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TringSport 3"  group-title="shanes tv",TringSport 3
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/10.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TringSport 2"  group-title="shanes tv",TringSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/9.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TringSport 1"  group-title="shanes tv",TringSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/8.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport Kosova 2"  group-title="shanes tv",SuperSport Kosova 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/7.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport Kosova 1"  group-title="shanes tv",SuperSport Kosova 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/6.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport 4"  group-title="shanes tv",SuperSport 4
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/5.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport 3"  group-title="shanes tv",SuperSport 3
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/4.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport 2"  group-title="shanes tv",SuperSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/3.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport 1"  group-title="shanes tv",SuperSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/2.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SkySport 2"  group-title="shanes tv",SkySport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/17.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SkySport 1"  group-title="shanes tv",SkySport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/16.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundersliga 2"  group-title="shanes tv",Sky Bundersliga 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/19.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundersliga 1"  group-title="shanes tv",Sky Bundersliga 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/18.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KujtesaSport 4"  group-title="shanes tv",KujtesaSport 4
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/15.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KujtesaSport 3"  group-title="shanes tv",KujtesaSport 3
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/14.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KujtesaSport 2"  group-title="shanes tv",KujtesaSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/13.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KujtesaSport 1"  group-title="shanes tv",KujtesaSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/12.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 5"  group-title="shanes tv",BeinSport 5
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/26.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 4"  group-title="shanes tv",BeinSport 4
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/25.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 3"  group-title="shanes tv",BeinSport 3
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/24.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 2"  group-title="shanes tv",BeinSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/23.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 1"  group-title="shanes tv",BeinSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/22.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ArenaSport 2"  group-title="shanes tv",ArenaSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/21.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ArenaSport 1"  group-title="shanes tv",ArenaSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100/20.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ANTENNA"  group-title="shanes tv",USA | ANTENNA
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17154.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | BUZZER"  group-title="shanes tv",USA | BUZZER
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17153.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Cozi"  group-title="shanes tv",USA | Cozi
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17152.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | H&I"  group-title="shanes tv",USA | H&I
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17143.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ION"  group-title="shanes tv",USA | ION
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17144.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ION LIFE"  group-title="shanes tv",USA | ION LIFE
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17145.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | KTLA5"  group-title="shanes tv",USA | KTLA5
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17146.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Lifetime Movies HD"  group-title="shanes tv",USA | Lifetime Movies HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17140.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MAX E"  group-title="shanes tv",USA | MAX E
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17147.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Movies"  group-title="shanes tv",USA | Movies
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17148.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | QUBO"  group-title="shanes tv",USA | QUBO
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17149.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | TBS"  group-title="shanes tv",USA | TBS
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17150.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | THIS TV"  group-title="shanes tv",USA | THIS TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17151.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | VH1"  group-title="shanes tv",USA | VH1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17141.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | VICELAND"  group-title="shanes tv",USA | VICELAND
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17142.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CC HD LOCAL"  group-title="shanes tv",USA | CC HD LOCAL
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14500.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | FXX HD LOCAL"  group-title="shanes tv",USA | FXX HD LOCAL
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14506.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ID HD LOCAL"  group-title="shanes tv",USA | ID HD LOCAL
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14504.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Nat Geo Wild HD LOCAL"  group-title="shanes tv",USA | Nat Geo Wild HD LOCAL
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14499.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NBA HD LOCAL"  group-title="shanes tv",USA | NBA HD LOCAL
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14502.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | TruTv HD LOCAL"  group-title="shanes tv",USA | TruTv HD LOCAL
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14503.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | USA HD LOCAL"  group-title="shanes tv",USA | USA HD LOCAL
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14501.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ABC HD"  group-title="shanes tv",USA | ABC HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10088.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | H2 HD"  group-title="shanes tv",USA | H2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11798.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | FreeForm HD"  group-title="shanes tv",USA | FreeForm HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11796.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | SEC NETWORK HD"  group-title="shanes tv",USA | SEC NETWORK HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11489.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB HD"  group-title="shanes tv",USA | MLB HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11490.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Telemundo HD"  group-title="shanes tv",USA | Telemundo HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11352.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CA | TCM local"  group-title="shanes tv",CA | TCM local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10981.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ESPN NEWS HD"  group-title="shanes tv",USA | ESPN NEWS HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13904.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MY5"  group-title="shanes tv",USA | MY5
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13901.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Oxygen HD"  group-title="shanes tv",USA | Oxygen HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13896.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CMT"  group-title="shanes tv",USA | CMT
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13903.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ABC West"  group-title="shanes tv",USA | ABC West
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13900.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | WEATHERNATION"  group-title="shanes tv",USA | WEATHERNATION
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13902.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Showtime Next HD"  group-title="shanes tv",USA | Showtime Next HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12623.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ID HD"  group-title="shanes tv",USA | ID HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12625.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | FOX 29"  group-title="shanes tv",USA | FOX 29
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12628.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Cinemax ThrillerMax"  group-title="shanes tv",USA | Cinemax ThrillerMax
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13893.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CI"  group-title="shanes tv",USA | CI
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12556.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CA | Boomerang HD"  group-title="shanes tv",CA | Boomerang HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12558.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | HBO Signature HD"  group-title="shanes tv",USA | HBO Signature HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12560.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | FYI"  group-title="shanes tv",USA | FYI
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12561.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | BET HD"  group-title="shanes tv",USA | BET HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12567.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | American Heroes HD"  group-title="shanes tv",USA | American Heroes HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13657.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Showtime HD"  group-title="shanes tv",USA | Showtime HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13656.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Cinemax HD L"  group-title="shanes tv",USA | Cinemax HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13654.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Starz Edge"  group-title="shanes tv",USA | Starz Edge
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13655.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Cooking Channel HD L"  group-title="shanes tv",USA | Cooking Channel HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13653.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Disney XD HD L"  group-title="shanes tv",USA | Disney XD HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13660.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Epix HD L"  group-title="shanes tv",USA | Epix HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13651.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Escape HD L"  group-title="shanes tv",USA | Escape HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13652.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | HBO Comedy HD L"  group-title="shanes tv",USA | HBO Comedy HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13650.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | HBO Zone HD L"  group-title="shanes tv",USA | HBO Zone HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13649.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | IFC HD L"  group-title="shanes tv",USA | IFC HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13661.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Fine Living"  group-title="shanes tv",USA | Fine Living
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13648.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | BBC AMERICA HD L"  group-title="shanes tv",USA | BBC AMERICA HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13647.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MoreMax HD L"  group-title="shanes tv",USA | MoreMax HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13646.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Nat Geo Wild HD L"  group-title="shanes tv",USA | Nat Geo Wild HD L
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13662.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Nicktoons"  group-title="shanes tv",USA | Nicktoons
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12564.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | PBS HD"  group-title="shanes tv",USA | PBS HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12563.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | PAC-12 Arizona"  group-title="shanes tv",USA | PAC-12 Arizona
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12643.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | PAC-12 Bay Arena"  group-title="shanes tv",USA | PAC-12 Bay Arena
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12642.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | PAC-12 Los Angeles"  group-title="shanes tv",USA | PAC-12 Los Angeles
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12641.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | PAC-12 Oregon"  group-title="shanes tv",USA | PAC-12 Oregon
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12640.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | PAC-12 Washington"  group-title="shanes tv",USA | PAC-12 Washington
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12639.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | FOX NEWS"  group-title="shanes tv",USA | FOX NEWS
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10904.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | my9"  group-title="shanes tv",USA | my9
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10905.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Showtime Showcase"  group-title="shanes tv",USA | Showtime Showcase
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10901.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Disney XD HD"  group-title="shanes tv",USA | Disney XD HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10769.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Animal Planet Local"  group-title="shanes tv",USA | Animal Planet Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10768.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MSNBC HD"  group-title="shanes tv",USA | MSNBC HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13174.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | FOOD HD"  group-title="shanes tv",USA | FOOD HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13175.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Nat Geo HD"  group-title="shanes tv",USA | Nat Geo HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13264.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | TBS HD"  group-title="shanes tv",USA | TBS HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13149.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Investigation Discovery HD"  group-title="shanes tv",USA | Investigation Discovery HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13147.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Destination America HD"  group-title="shanes tv",USA | Destination America HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13457.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | TLC HD"  group-title="shanes tv",USA | TLC HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13155.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Travel Channel HD"  group-title="shanes tv",USA | Travel Channel HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13156.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | TNT"  group-title="shanes tv",USA | TNT
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13133.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Tennis HD"  group-title="shanes tv",USA | Tennis HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13090.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Disney XD"  group-title="shanes tv",USA | Disney XD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13123.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Grit"  group-title="shanes tv",USA | Grit
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13122.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Nick HD"  group-title="shanes tv",USA | Nick HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13120.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Hifi"  group-title="shanes tv",USA | Hifi
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13118.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 1"  group-title="shanes tv",USA | (SD)NFL: 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11011.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 2"  group-title="shanes tv",USA | (SD)NFL: 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11012.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 3"  group-title="shanes tv",USA | (SD)NFL: 3
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11013.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 4"  group-title="shanes tv",USA | (SD)NFL: 4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11014.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 5"  group-title="shanes tv",USA | (SD)NFL: 5
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11015.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 6"  group-title="shanes tv",USA | (SD)NFL: 6
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11016.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 7"  group-title="shanes tv",USA | (SD)NFL: 7
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11017.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 8"  group-title="shanes tv",USA | (SD)NFL: 8
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11019.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | (SD)NFL: 9"  group-title="Group N/A",USA | (SD)NFL: 9
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11018.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL  10"  group-title="Group N/A",NFL  10
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15198.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CBS SPORTS"  group-title="Group N/A",USA | CBS SPORTS
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12452.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Reelz HD"  group-title="Group N/A",USA | Reelz HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12493.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | OWN HD"  group-title="Group N/A",USA | OWN HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12502.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | DIY HD"  group-title="Group N/A",USA | DIY HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13091.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Cooking HD"  group-title="Group N/A",USA | Cooking HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13095.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | DOG"  group-title="Group N/A",USA | DOG
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13093.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | WE HD"  group-title="Group N/A",USA | WE HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13094.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CW HD"  group-title="Group N/A",USA | CW HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10091.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CN HD"  group-title="Group N/A",USA | CN HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10090.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CA | SN PACIFIC HD"  group-title="Group N/A",CA | SN PACIFIC HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8881.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CA | SN ONTARIO HD"  group-title="Group N/A",CA | SN ONTARIO HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8882.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CA | SN ONE HD"  group-title="Group N/A",CA | SN ONE HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8883.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CA | SN EAST HD"  group-title="Group N/A",CA | SN EAST HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8884.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CA | SN WL HD"  group-title="Group N/A",CA | SN WL HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8885.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA VIP | AFN Movie"  group-title="Group N/A",USA VIP | AFN Movie
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15857.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA VIP | AFN News"  group-title="Group N/A",USA VIP | AFN News
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15856.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA VIP | AFN Pulse"  group-title="Group N/A",USA VIP | AFN Pulse
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15859.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA VIP | AFN Spectrum"  group-title="Group N/A",USA VIP | AFN Spectrum
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15858.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA VIP | AFN Sports 2"  group-title="Group N/A",USA VIP | AFN Sports 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15855.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | HBO East"  group-title="Group N/A",USA | HBO East
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12135.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | HBO FAMILY"  group-title="Group N/A",USA | HBO FAMILY
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12176.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Starz Cinema HD"  group-title="Group N/A",USA | Starz Cinema HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12172.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Starz Comedy"  group-title="Group N/A",USA | Starz Comedy
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12171.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LEAFS TV"  group-title="Group N/A",USA | LEAFS TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15502.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | SKY CINEMA ACTION & ADVENTURE"  group-title="Group N/A",USA | SKY CINEMA ACTION & ADVENTURE
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15499.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Showtime West HD"  group-title="Group N/A",USA | Showtime West HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8702.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CBS HD*"  group-title="Group N/A",USA | CBS HD*
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9266.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | WFTV CH9 HD"  group-title="Group N/A",USA | WFTV CH9 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9237.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Cinemax HD"  group-title="Group N/A",USA | Cinemax HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9161.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | EL REY NETWORK HD"  group-title="Group N/A",USA | EL REY NETWORK HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9014.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Lifetime HD"  group-title="Group N/A",USA | Lifetime HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8707.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NBA TV HD"  group-title="Group N/A",USA | NBA TV HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7638.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | WWE HD"  group-title="Group N/A",USA | WWE HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3946.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | The Blaze"  group-title="Group N/A",USA | The Blaze
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6135.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | EPIX 2 HD"  group-title="Group N/A",USA | EPIX 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6178.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | AFN Spectrum"  group-title="Group N/A",USA | AFN Spectrum
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6180.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Buzzr"  group-title="Group N/A",USA | Buzzr
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6181.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ESPN U HD"  group-title="Group N/A",USA | ESPN U HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6182.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NFL RED ZONE(Match Time)"  group-title="Group N/A",USA | NFL RED ZONE(Match Time)
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15549.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Pursuit HD"  group-title="Group N/A",USA | Pursuit HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6122.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | VH1 HD"  group-title="Group N/A",USA | VH1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6195.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CNN HD"  group-title="Group N/A",USA | CNN HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6113.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NFL Network HD"  group-title="Group N/A",USA | NFL Network HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5895.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NDTV"  group-title="Group N/A",USA | NDTV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1717.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 1*"  group-title="Group N/A",USA:CA | TSN 1*
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6232.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 1 HD"  group-title="Group N/A",USA:CA | TSN 1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/462.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 2*"  group-title="Group N/A",USA:CA | TSN 2*
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6233.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 2 HD"  group-title="Group N/A",USA:CA | TSN 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/463.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 3*"  group-title="Group N/A",USA:CA | TSN 3*
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6235.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 3 HD"  group-title="Group N/A",USA:CA | TSN 3 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2371.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 4 HD"  group-title="Group N/A",USA:CA | TSN 4 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2372.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 5*"  group-title="Group N/A",USA:CA | TSN 5*
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6239.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA:CA | TSN 5 HD"  group-title="Group N/A",USA:CA | TSN 5 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2373.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CA | SN 360 SD/HD"  group-title="Group N/A",CA | SN 360 SD/HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6133.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NBCSN HD"  group-title="Group N/A",USA | NBCSN HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/4593.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NBC Golf HD"  group-title="Group N/A",USA | NBC Golf HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5732.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Velocity HD"  group-title="Group N/A",USA | Velocity HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5977.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CBS HD"  group-title="Group N/A",USA | CBS HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6222.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Bravo CA"  group-title="Group N/A",USA | Bravo CA
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6211.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | BC"  group-title="Group N/A",USA | BC
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5982.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | HGTV HD"  group-title="Group N/A",USA | HGTV HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5890.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | HBO Est HD"  group-title="Group N/A",USA | HBO Est HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5888.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NBC Golf*"  group-title="Group N/A",USA | NBC Golf*
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6120.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Fox Sports 2 HD"  group-title="Group N/A",USA | Fox Sports 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1025.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Fox Sports 1 HD"  group-title="Group N/A",USA | Fox Sports 1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1024.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ESPN 2"  group-title="Group N/A",USA | ESPN 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3173.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ESPN Local"  group-title="Group N/A",USA | ESPN Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3172.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NHL NETWORK HD"  group-title="Group N/A",USA | NHL NETWORK HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14360.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | E! HD"  group-title="Group N/A",USA | E! HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5683.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Hallmark HD"  group-title="Group N/A",USA | Hallmark HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5855.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | DIY NETWORK"  group-title="Group N/A",USA | DIY NETWORK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6177.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | WGN 9"  group-title="Group N/A",USA | WGN 9
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6194.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | CBSN HD"  group-title="Group N/A",USA | CBSN HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/4596.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Cinemax MoreMax HD"  group-title="Group N/A",USA | Cinemax MoreMax HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6104.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Nicktoons HD"  group-title="Group N/A",USA | Nicktoons HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6193.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Bein Sports HD"  group-title="Group N/A",USA | Bein Sports HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/189.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NBC West Local"  group-title="Group N/A",USA | NBC West Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6227.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | Discovery Science"  group-title="Group N/A",USA | Discovery Science
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6102.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA USA HD Local"  group-title="Group N/A",USA USA HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7985.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA TNT HD Local"  group-title="Group N/A",USA TNT HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7986.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA TBS HD Local"  group-title="Group N/A",USA TBS HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7987.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA SYFY HD Local"  group-title="Group N/A",USA SYFY HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7988.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA SPIKE HD Local"  group-title="Group N/A",USA SPIKE HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7989.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA Discovery HD Local"  group-title="Group N/A",USA Discovery HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7990.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA NICKELODEN HD Local"  group-title="Group N/A",USA NICKELODEN HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7991.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA NBC HD Local"  group-title="Group N/A",USA NBC HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7992.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA Tennis HD Local"  group-title="Group N/A",USA Tennis HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7993.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA Bravo Local"  group-title="Group N/A",USA Bravo Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7994.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA LIFETIME HD Local"  group-title="Group N/A",USA LIFETIME HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7995.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA HISTORY HD Local"  group-title="Group N/A",USA HISTORY HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7996.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA FX HD Local"  group-title="Group N/A",USA FX HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7997.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA COMEDY CENTRAL HD Local"  group-title="Group N/A",USA COMEDY CENTRAL HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8003.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA Velocity HD Local"  group-title="Group N/A",USA Velocity HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8004.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA History Local"  group-title="Group N/A",USA History Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8005.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA CNBC HD Local"  group-title="Group N/A",USA CNBC HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8007.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA AMC HD Local"  group-title="Group N/A",USA AMC HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8009.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | A&E HD Local"  group-title="Group N/A",USA | A&E HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8011.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | ABC NEWS HD Local"  group-title="Group N/A",USA | ABC NEWS HD Local
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8012.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | A&E HD"  group-title="Group N/A",USA | A&E HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/5905.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | NFL NOW HD"  group-title="Group N/A",USA | NFL NOW HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13401.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | AFN Sports"  group-title="Group N/A",USA | AFN Sports
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13425.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 1 HD"  group-title="Group N/A",USA | LIVE NHL 1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12036.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 2 HD"  group-title="Group N/A",USA | LIVE NHL 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12037.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 3 HD"  group-title="Group N/A",USA | LIVE NHL 3 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12038.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 4 HD"  group-title="Group N/A",USA | LIVE NHL 4 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12039.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 5 HD"  group-title="Group N/A",USA | LIVE NHL 5 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12040.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 6 HD"  group-title="Group N/A",USA | LIVE NHL 6 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12041.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 7 HD"  group-title="Group N/A",USA | LIVE NHL 7 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12042.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 8 HD"  group-title="Group N/A",USA | LIVE NHL 8 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12043.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 9 HD"  group-title="Group N/A",USA | LIVE NHL 9 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12044.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 10 HD"  group-title="Group N/A",USA | LIVE NHL 10 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12045.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 11 HD"  group-title="Group N/A",USA | LIVE NHL 11 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12046.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | LIVE NHL 12 HD"  group-title="Group N/A",USA | LIVE NHL 12 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12047.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 1 HD"  group-title="Group N/A",USA | MLB League Pass 1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13467.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 2 HD"  group-title="Group N/A",USA | MLB League Pass 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13466.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 3 HD"  group-title="Group N/A",USA | MLB League Pass 3 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13465.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 4 HD"  group-title="Group N/A",USA | MLB League Pass 4 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13464.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 5 HD"  group-title="Group N/A",USA | MLB League Pass 5 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13463.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 6 HD"  group-title="Group N/A",USA | MLB League Pass 6 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13462.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 7 HD"  group-title="Group N/A",USA | MLB League Pass 7 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13461.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 8 HD"  group-title="Group N/A",USA | MLB League Pass 8 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13460.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 9 HD"  group-title="Group N/A",USA | MLB League Pass 9 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13459.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA | MLB League Pass 10 HD"  group-title="Group N/A",USA | MLB League Pass 10 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13458.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="============ ENGLAND | Sky UK ============"  group-title="Group N/A",============ ENGLAND | Sky UK ============
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6899.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCO-SPL | Aberdeen FC TV"  group-title="Group N/A",SCO-SPL | Aberdeen FC TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12900.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCO-SPL | Celtic FC TV HD"  group-title="Group N/A",SCO-SPL | Celtic FC TV HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12899.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCO-SPL | Red FC TV"  group-title="Group N/A",SCO-SPL | Red FC TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12901.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCO-SPL | Hibs FC TV"  group-title="Group N/A",SCO-SPL | Hibs FC TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12902.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCO-SPL | Rangers FC TV"  group-title="Group N/A",SCO-SPL | Rangers FC TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12898.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | UTV Ireland"  group-title="Group N/A",UK | UTV Ireland
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14100.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | FILM 4"  group-title="Group N/A",UK | FILM 4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13888.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Dave HD"  group-title="Group N/A",UK | Dave HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12878.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC Ireland"  group-title="shanes tv",UK | BBC Ireland
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12884.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Atlantic HD"  group-title="shanes tv",UK | Sky Atlantic HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12881.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Cinema Comedy HD X"  group-title="shanes tv",UK | Sky Cinema Comedy HD X
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12871.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Cinema Drama & Romance HD X"  group-title="shanes tv",UK | Sky Cinema Drama & Romance HD X
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12874.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Cinema Family HD X"  group-title="Group N/A",UK | Sky Cinema Family HD X
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12869.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Cinema Sci-Fi & Horror HD X"  group-title="Group N/A",UK | Sky Cinema Sci-Fi & Horror HD X
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12872.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Cinema Select HD X"  group-title="Group N/A",UK | Sky Cinema Select HD X
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12876.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Living HD"  group-title="Group N/A",UK | Sky Living HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12880.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC Two SD"  group-title="Group N/A",UK | BBC Two SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12814.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Nick Toons"  group-title="Group N/A",UK | Nick Toons
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12812.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC Three SD"  group-title="Group N/A",UK | BBC Three SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12817.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC Four SD"  group-title="Group N/A",UK | BBC Four SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12815.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BIKE"  group-title="Group N/A",UK | BIKE
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12828.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Good Food"  group-title="Group N/A",UK | Good Food
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12822.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Quest"  group-title="Group N/A",UK | Quest
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12826.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | RTE News"  group-title="Group N/A",UK | RTE News
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12829.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC one SD"  group-title="Group N/A",UK | BBC one SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12813.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Movies 24"  group-title="Group N/A",UK | Movies 24
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12825.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | S4C"  group-title="Group N/A",UK | S4C
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12824.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Yesterday"  group-title="Group N/A",UK | Yesterday
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2673.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Watch"  group-title="Group N/A",UK | Watch
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1891.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC World NEWS"  group-title="Group N/A",UK | BBC World NEWS
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6690.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Universal"  group-title="Group N/A",UK | Universal
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6670.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | True Movies 1"  group-title="Group N/A",UK | True Movies 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/395.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | True Movies 2"  group-title="Group N/A",UK | True Movies 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8676.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport 3 HD"  group-title="Group N/A",UK | BT Sport 3 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9271.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Cinema Premiere HD"  group-title="Group N/A",UK | Sky Cinema Premiere HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15245.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | SKY MOVIES ACTION&ADVENTURE HD"  group-title="Group N/A",UK | SKY MOVIES ACTION&ADVENTURE HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8920.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | SKY CINEMA SELECT HD"  group-title="Group N/A",UK | SKY CINEMA SELECT HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8921.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | SKY CINEMA SCI-FI/HORROR HD"  group-title="Group N/A",UK | SKY CINEMA SCI-FI/HORROR HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8919.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | SKY CINEMA DRAMA&ROMANCE HD"  group-title="Group N/A",UK | SKY CINEMA DRAMA&ROMANCE HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8917.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | SKY CINEMA COMEDY HD"  group-title="Group N/A",UK | SKY CINEMA COMEDY HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8916.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Mix SD/HD"  group-title="Group N/A",UK | Sky Sport Mix SD/HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10655.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Cinema Action & Adventure HD"  group-title="Group N/A",UK | Sky Cinema Action & Adventure HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11511.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BET:BlackEntTv"  group-title="Group N/A",UK | BET:BlackEntTv
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11483.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | TLC +1"  group-title="Group N/A",UK | TLC +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10104.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Nick Jr  +1"  group-title="Group N/A",UK | Nick Jr  +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10098.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | MTV +1"  group-title="Group N/A",UK | MTV +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10107.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Horror Channel  +1"  group-title="Group N/A",UK | Horror Channel  +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10123.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Nick Jr Two"  group-title="Group N/A",UK | Nick Jr Two
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10115.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sony Movies +1"  group-title="Group N/A",UK | Sony Movies +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10116.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Food Network  +1"  group-title="Group N/A",UK | Food Network  +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10112.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | True Movies"  group-title="Group N/A",UK | True Movies
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10119.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | True Crime +1"  group-title="Group N/A",UK | True Crime +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10121.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Comedy Central  +1"  group-title="Group N/A",UK | Comedy Central  +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10110.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Animal Planet  +1"  group-title="Group N/A",UK | Animal Planet  +1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10117.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | 3E"  group-title="Group N/A",UK | 3E
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8864.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | UTV FHD"  group-title="Group N/A",UK | UTV FHD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8752.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Eir Sport 2"  group-title="Group N/A",UK | Eir Sport 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8659.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Eir Sport 1"  group-title="Group N/A",UK | Eir Sport 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8658.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport Extra 5"  group-title="Group N/A",UK | BT Sport Extra 5
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8664.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport Extra 4"  group-title="Group N/A",UK | BT Sport Extra 4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8663.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport Extra 3"  group-title="Group N/A",UK | BT Sport Extra 3
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8662.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport Extra 2"  group-title="Group N/A",UK | BT Sport Extra 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8661.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport Extra 1"  group-title="Group N/A",UK | BT Sport Extra 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8660.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | TG4"  group-title="Group N/A",UK | TG4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/4760.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Syfy"  group-title="Group N/A",UK | Syfy
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6667.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | H2"  group-title="Group N/A",UK | H2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/96.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | TLC"  group-title="Group N/A",UK | TLC
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6695.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Arena FHD"  group-title="shanes tv",UK | Sky Sport Arena FHD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14257.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Arena HD"  group-title="shanes tv",UK | Sky Sport Arena HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14256.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Arena SD"  group-title="shanes tv",UK | Sky Sport Arena SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14255.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Football FHD"  group-title="shanes tv",UK | Sky Sport Football FHD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14254.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Football HD"  group-title="shanes tv",UK | Sky Sport Football HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14253.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Football SD"  group-title="shanes tv",UK | Sky Sport Football SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14252.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport News HQ"  group-title="shanes tv",UK | Sky Sport News HQ
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/47.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sports Premier League SD"  group-title="shanes tv",UK | Sky Sports Premier League SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/18.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Premiere League HD"  group-title="shanes tv",UK | Sky Sport Premiere League HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/10.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport 4 SD"  group-title="Group N/A",UK | Sky Sport 4 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport The Open HD"  group-title="Group N/A",UK | Sky Sport The Open HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Action SD"  group-title="Group N/A",UK | Sky Sport Action SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/16.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Action HD"  group-title="Group N/A",UK | Sky Sport Action HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport 2 SD"  group-title="Group N/A",UK | Sky Sport 2 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport Cricket HD"  group-title="Group N/A",UK | Sky Sport Cricket HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sport 1 SD"  group-title="Group N/A",UK | Sky Sport 1 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Sports Main Event HD"  group-title="Group N/A",UK | Sky Sports Main Event HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky One"  group-title="Group N/A",UK | Sky One
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/52.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Two"  group-title="Group N/A",UK | Sky Two
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8045.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky News"  group-title="Group N/A",UK | Sky News
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2650.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Thriller"  group-title="Group N/A",UK | Sky Movies Thriller
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/26.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Showcase"  group-title="Group N/A",UK | Sky Movies Showcase
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3255.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Select"  group-title="Group N/A",UK | Sky Movies Select
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/20.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Premiere"  group-title="Group N/A",UK | Sky Movies Premiere
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/24.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Greats"  group-title="Group N/A",UK | Sky Movies Greats
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/30.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Family"  group-title="Group N/A",UK | Sky Movies Family
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/28.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Disney"  group-title="Group N/A",UK | Sky Movies Disney
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/27.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Comedy"  group-title="Group N/A",UK | Sky Movies Comedy
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/23.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movies Action"  group-title="Group N/A",UK | Sky Movies Action
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/22.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Movie Sci-Fi"  group-title="Group N/A",UK | Sky Movie Sci-Fi
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/21.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Living"  group-title="Group N/A",UK | Sky Living
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/31.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Drama & Romance"  group-title="Group N/A",UK | Sky Drama & Romance
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/29.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Atlantic"  group-title="Group N/A",UK | Sky Atlantic
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/48.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sky Arts 1"  group-title="Group N/A",UK | Sky Arts 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1895.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Movies 4 Man"  group-title="Group N/A",UK | Movies 4 Man
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/69.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | SBO PPV {LIVE BOX OFFICE}"  group-title="Group N/A",UK | SBO PPV {LIVE BOX OFFICE}
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6611.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | RTE 2"  group-title="Group N/A",UK | RTE 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/56.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | RTE 1"  group-title="Group N/A",UK | RTE 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/55.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV Encore"  group-title="Group N/A",UK | ITV Encore
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2672.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Real Lives"  group-title="Group N/A",UK | Real Lives
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/75.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Racing"  group-title="Group N/A",UK | Racing
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2878.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Premier Sport"  group-title="Group N/A",UK | Premier Sport
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3496.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Amc"  group-title="Group N/A",UK | Amc
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6680.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Pick"  group-title="Group N/A",UK | Pick
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/99.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Nickloedon"  group-title="Group N/A",UK | Nickloedon
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/57.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Nick JR"  group-title="Group N/A",UK | Nick JR
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6060.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | National Geographic"  group-title="Group N/A",UK | National Geographic
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/59.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Nat Geo Wild HD"  group-title="Group N/A",UK | Nat Geo Wild HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/86.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | MUTV"  group-title="Group N/A",UK | MUTV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2783.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Motors"  group-title="Group N/A",UK | Motors
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3341.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | More 4"  group-title="Group N/A",UK | More 4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2670.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Movies4Men"  group-title="Group N/A",UK | Movies4Men
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2680.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | VH1"  group-title="Group N/A",UK | VH1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6675.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | LFCTV"  group-title="Group N/A",UK | LFCTV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2877.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Movies 4 Men"  group-title="Group N/A",UK | Movies 4 Men
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6691.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Cbeebies"  group-title="Group N/A",UK | Cbeebies
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/84.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV Be"  group-title="Group N/A",UK | ITV Be
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2694.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV 4 SD"  group-title="Group N/A",UK | ITV 4 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/74.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV 4"  group-title="Group N/A",UK | ITV 4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2631.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV 3 SD"  group-title="Group N/A",UK | ITV 3 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/73.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV 2 SD"  group-title="Group N/A",UK | ITV 2 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/72.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV 2 HD"  group-title="Group N/A",UK | ITV 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2633.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV 1 SD"  group-title="Group N/A",UK | ITV 1 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/71.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ITV 1 HD"  group-title="Group N/A",UK | ITV 1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2634.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | ID"  group-title="Group N/A",UK | ID
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1884.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Horror"  group-title="Group N/A",UK | Horror
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6676.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Home"  group-title="Group N/A",UK | Home
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3374.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | History"  group-title="Group N/A",UK | History
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/98.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Baby TV"  group-title="Group N/A",UK | Baby TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/766.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Gold"  group-title="Group N/A",UK | Gold
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2635.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Fox"  group-title="Group N/A",UK | Fox
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/396.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Food"  group-title="Group N/A",UK | Food
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/100.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | W"  group-title="Group N/A",UK | W
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6665.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | F1 HD"  group-title="Group N/A",UK | F1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/19.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Eurosport 2 HD"  group-title="Group N/A",UK | Eurosport 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2638.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Eurosport"  group-title="Group N/A",UK | Eurosport
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/64.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | E4"  group-title="Group N/A",UK | E4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/764.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | E!"  group-title="Group N/A",UK | E!
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/95.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Drama"  group-title="Group N/A",UK | Drama
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/89.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Eden"  group-title="Group N/A",UK | Eden
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/16614.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | DMax"  group-title="Group N/A",UK | DMax
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2669.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Disney XD"  group-title="Group N/A",UK | Disney XD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/67.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Disney Junior"  group-title="Group N/A",UK | Disney Junior
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/50.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Disney"  group-title="Group N/A",UK | Disney
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/87.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Discovery Turbo"  group-title="Group N/A",UK | Discovery Turbo
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/83.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Discovery Shed"  group-title="Group N/A",UK | Discovery Shed
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6677.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Discovery Science"  group-title="Group N/A",UK | Discovery Science
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1894.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Discovery History"  group-title="Group N/A",UK | Discovery History
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/82.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | DISCOVERY"  group-title="Group N/A",UK | DISCOVERY
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1896.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Dave"  group-title="Group N/A",UK | Dave
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2632.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | CN"  group-title="Group N/A",UK | CN
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/93.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Chelsea TV"  group-title="Group N/A",UK | Chelsea TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/63.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Channel 5 HD"  group-title="Group N/A",UK | Channel 5 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1885.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Channel 4 HD"  group-title="Group N/A",UK | Channel 4 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1886.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Challange"  group-title="Group N/A",UK | Challange
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6666.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Cartoonito"  group-title="Group N/A",UK | Cartoonito
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2123.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | CC"  group-title="Group N/A",UK | CC
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2671.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | CBS Reality"  group-title="Group N/A",UK | CBS Reality
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2696.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | CBS Action"  group-title="Group N/A",UK | CBS Action
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3016.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT ESPN SD"  group-title="Group N/A",UK | BT ESPN SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/11795.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport 3 SD"  group-title="Group N/A",UK | BT Sport 3 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3502.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport ESPN"  group-title="Group N/A",UK | BT Sport ESPN
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2781.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport 2 SD"  group-title="Group N/A",UK | BT Sport 2 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport 2 HD"  group-title="Group N/A",UK | BT Sport 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3373.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport 1 SD"  group-title="Group N/A",UK | BT Sport 1 SD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6696.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BT Sport 1 HD"  group-title="Group N/A",UK | BT Sport 1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Boxnation"  group-title="Group N/A",UK | Boxnation
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/60.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Boomerang"  group-title="Group N/A",UK | Boomerang
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/1887.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC NEWS 24"  group-title="Group N/A",UK | BBC NEWS 24
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6662.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | TCM"  group-title="Group N/A",UK | TCM
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2642.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC 4 HD"  group-title="Group N/A",UK | BBC 4 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2648.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC 3 HD"  group-title="Group N/A",UK | BBC 3 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/765.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC 2 HD"  group-title="Group N/A",UK | BBC 2 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/76.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC 1 HD"  group-title="Group N/A",UK | BBC 1 HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/763.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC One Northern Ireland UK"  group-title="Group N/A",UK | BBC One Northern Ireland UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13862.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC One Scotland UK"  group-title="Group N/A",UK | BBC One Scotland UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13859.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC Two Scotland UK"  group-title="Group N/A",UK | BBC Two Scotland UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13863.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | At The Races"  group-title="Group N/A",UK | At The Races
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2643.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Animal Planet"  group-title="Group N/A",UK | Animal Planet
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/49.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Alibi"  group-title="Group N/A",UK | Alibi
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2117.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | 5 USA"  group-title="Group N/A",UK | 5 USA
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2637.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | 5 Star"  group-title="Group N/A",UK | 5 Star
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/33.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | CI"  group-title="Group N/A",UK | CI
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/2628.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | TruTV"  group-title="Group N/A",UK | TruTV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13421.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | True Ent"  group-title="Group N/A",UK | True Ent
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13420.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Heart"  group-title="Group N/A",UK | Heart
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13408.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Citv"  group-title="Group N/A",UK | Citv
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13407.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | True Crime"  group-title="Group N/A",UK | True Crime
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13423.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Kix"  group-title="Group N/A",UK | Kix
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13403.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | POP"  group-title="Group N/A",UK | POP
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13404.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Clubland"  group-title="Group N/A",UK | Clubland
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13411.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Viceland"  group-title="Group N/A",UK | Viceland
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13414.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Tiny Pop"  group-title="Group N/A",UK | Tiny Pop
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13405.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | 4Seven"  group-title="Group N/A",UK | 4Seven
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15984.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC One Oxford"  group-title="Group N/A",UK | BBC One Oxford
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15988.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC One Wales"  group-title="Group N/A",UK | BBC One Wales
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15987.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC One Yorks"  group-title="Group N/A",UK | BBC One Yorks
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15986.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | BBC Parliament"  group-title="Group N/A",UK | BBC Parliament
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15985.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | CBS Drama"  group-title="Group N/A",UK | CBS Drama
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15991.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Channel AKA"  group-title="Group N/A",UK | Channel AKA
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15994.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Dave ja vu"  group-title="Group N/A",UK | Dave ja vu
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15995.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Flava"  group-title="Group N/A",UK | Flava
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15996.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | KISS"  group-title="Group N/A",UK | KISS
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15997.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Really"  group-title="Group N/A",UK | Really
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15999.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | RT? Jr"  group-title="Group N/A",UK | RT? Jr
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15998.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Scuzz"  group-title="Group N/A",UK | Scuzz
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/16000.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | The Vault"  group-title="Group N/A",UK | The Vault
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/16001.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | CHristmas24"  group-title="Group N/A",UK | CHristmas24
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/16005.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Bike UK"  group-title="Group N/A",UK | Bike UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17173.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Blaze UK"  group-title="Group N/A",UK | Blaze UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17172.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Box Hits UK"  group-title="Group N/A",UK | Box Hits UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17171.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Chart Show TV UK"  group-title="Group N/A",UK | Chart Show TV UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17185.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Chartshow Hits UK"  group-title="Group N/A",UK | Chartshow Hits UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17184.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Chilled TV UK"  group-title="Group N/A",UK | Chilled TV UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17183.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | CITV UK"  group-title="Group N/A",UK | CITV UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17182.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Clubland TV UK"  group-title="Group N/A",UK | Clubland TV UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17181.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Kerrang TV UK"  group-title="Group N/A",UK | Kerrang TV UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17180.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Kiss UK"  group-title="Group N/A",UK | Kiss UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17179.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Magic UK"  group-title="Group N/A",UK | Magic UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17178.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Sangat UK"  group-title="Group N/A",UK | Sangat UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17177.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Scuzz UK"  group-title="Group N/A",UK | Scuzz UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17176.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | Spike UK"  group-title="Group N/A",UK | Spike UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17175.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK | The Box UK"  group-title="Group N/A",UK | The Box UK
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/17174.ts
+
