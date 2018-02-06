@@ -1,4 +1,2 @@
-﻿#EXTM3U
-
-#EXTINF:0, tvg-id="BBC1.uk" tvg-logo="http://tv.sky.com/logo/248/60/skychb2076.png" tvg-name="BBC One UK"  group-title="|ENG|",BBC One UK
+﻿#EXTM3U#EXTINF:0, tvg-id="BBC1.uk" tvg-logo="http://tv.sky.com/logo/248/60/skychb2076.png" tvg-name="BBC One UK"  group-title="|ENG|",BBC One UK
 http://ivue.co:5999/live/shane1/shane1/2563.ts
