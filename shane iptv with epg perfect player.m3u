@@ -1,2 +1,4497 @@
-﻿#EXTM3U#EXTINF:0, tvg-id="BBC1.uk" tvg-logo="http://tv.sky.com/logo/248/60/skychb2076.png" tvg-name="BBC One UK"  group-title="|ENG|",BBC One UK
+﻿#EXTM3U
+#EXTINF:-1,-----:UK-CHANNELS:-----
+http://ivue.co:5999/live/shane1/shane1/2710.ts
+#EXTINF:-1,UK:RT News HD
+http://ivue.co:5999/live/shane1/shane1/2454.ts
+#EXTINF:-1,UK:RTE 1
+http://ivue.co:5999/live/shane1/shane1/2453.ts
+#EXTINF:-1,UK:RTE 2
+http://ivue.co:5999/live/shane1/shane1/2452.ts
+#EXTINF:-1,UK:TG4
+http://ivue.co:5999/live/shane1/shane1/2418.ts
+#EXTINF:-1,UK:TV3
+http://ivue.co:5999/live/shane1/shane1/5659.ts
+#EXTINF:-1,UK:BBC 1
 http://ivue.co:5999/live/shane1/shane1/2563.ts
+#EXTINF:-1,BBC One  (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4545.ts
+#EXTINF:-1,UK:BBC 2
+http://ivue.co:5999/live/shane1/shane1/2562.ts
+#EXTINF:-1,BBC Two (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4481.ts
+#EXTINF:-1,UK:BBC 4
+http://ivue.co:5999/live/shane1/shane1/2560.ts
+#EXTINF:-1,BBC Four (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4482.ts
+#EXTINF:-1,UK:BBC Entertainment
+http://ivue.co:5999/live/shane1/shane1/2559.ts
+#EXTINF:-1,UK:ITV
+http://ivue.co:5999/live/shane1/shane1/2483.ts
+#EXTINF:-1,ITV (Filmon)
+http://ivue.co:5999/live/shane1/shane1/9029.ts
+#EXTINF:-1,ITV1+ (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4698.ts
+#EXTINF:-1,UK:ITV 2
+http://ivue.co:5999/live/shane1/shane1/2488.ts
+#EXTINF:-1,ITV2 (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4485.ts
+#EXTINF:-1,UK:ITV 3
+http://ivue.co:5999/live/shane1/shane1/2487.ts
+#EXTINF:-1,ITV3 (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4486.ts
+#EXTINF:-1,UK:ITV 4
+http://ivue.co:5999/live/shane1/shane1/2486.ts
+#EXTINF:-1,ITV4 (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4487.ts
+#EXTINF:-1,UK:ITV Be
+http://ivue.co:5999/live/shane1/shane1/2485.ts
+#EXTINF:-1,UK:ITV Encore
+http://ivue.co:5999/live/shane1/shane1/2484.ts
+#EXTINF:-1,UK:Channel 4
+http://ivue.co:5999/live/shane1/shane1/2538.ts
+#EXTINF:-1,Channel 4 (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4488.ts
+#EXTINF:-1,UK:Channel 5
+http://ivue.co:5999/live/shane1/shane1/2537.ts
+#EXTINF:-1,Channel 5 (Filmon)
+http://ivue.co:5999/live/shane1/shane1/4489.ts
+#EXTINF:-1,UK:CBS Action
+http://ivue.co:5999/live/shane1/shane1/2543.ts
+#EXTINF:-1,UK:CBS Drama
+http://ivue.co:5999/live/shane1/shane1/2542.ts
+#EXTINF:-1,UK:CBS Reality
+http://ivue.co:5999/live/shane1/shane1/2541.ts
+#EXTINF:-1,UK:Dave
+http://ivue.co:5999/live/shane1/shane1/2531.ts
+#EXTINF:-1,UK:SyFy
+http://ivue.co:5999/live/shane1/shane1/2420.ts
+#EXTINF:-1,UK:Good Food
+http://ivue.co:5999/live/shane1/shane1/2501.ts
+#EXTINF:-1,UK:Food Network
+http://ivue.co:5999/live/shane1/shane1/2506.ts
+#EXTINF:-1,UK:Heart TV
+http://ivue.co:5999/live/shane1/shane1/2500.ts
+#EXTINF:-1,UK:Dmax
+http://ivue.co:5999/live/shane1/shane1/2521.ts
+#EXTINF:-1,UK:Drama
+http://ivue.co:5999/live/shane1/shane1/2520.ts
+#EXTINF:-1,UK:E!
+http://ivue.co:5999/live/shane1/shane1/2518.ts
+#EXTINF:-1,UK:E4
+http://ivue.co:5999/live/shane1/shane1/2517.ts
+#EXTINF:-1,UK:Eden
+http://ivue.co:5999/live/shane1/shane1/2516.ts
+#EXTINF:-1,UK:Cbeebies
+http://ivue.co:5999/live/shane1/shane1/2544.ts
+#EXTINF:-1,UK:Challenge
+http://ivue.co:5999/live/shane1/shane1/2539.ts
+#EXTINF:-1,UK:3e
+http://ivue.co:5999/live/shane1/shane1/2574.ts
+#EXTINF:-1,UK:4 Seven
+http://ivue.co:5999/live/shane1/shane1/2572.ts
+#EXTINF:-1,UK:5 Star
+http://ivue.co:5999/live/shane1/shane1/2571.ts
+#EXTINF:-1,UK:5 USA
+http://ivue.co:5999/live/shane1/shane1/2570.ts
+#EXTINF:-1,UK:Alibi
+http://ivue.co:5999/live/shane1/shane1/2568.ts
+#EXTINF:-1,UK:AMC
+http://ivue.co:5999/live/shane1/shane1/2567.ts
+#EXTINF:-1,UK:Horror Channel
+http://ivue.co:5999/live/shane1/shane1/2494.ts
+#EXTINF:-1,UK:Horror Channel (filmon)
+http://ivue.co:5999/live/shane1/shane1/9028.ts
+#EXTINF:-1,UK:More 4
+http://ivue.co:5999/live/shane1/shane1/2478.ts
+#EXTINF:-1,UK:Nickelodeon
+http://ivue.co:5999/live/shane1/shane1/2461.ts
+#EXTINF:-1,UK:Quest
+http://ivue.co:5999/live/shane1/shane1/2458.ts
+#EXTINF:-1,UK Quest
+http://ivue.co:5999/live/shane1/shane1/9042.ts
+#EXTINF:-1,UK:Pick
+http://ivue.co:5999/live/shane1/shane1/2460.ts
+#EXTINF:-1,UK:PICK (backup)
+http://ivue.co:5999/live/shane1/shane1/9027.ts
+#EXTINF:-1,UK:Real Lives
+http://ivue.co:5999/live/shane1/shane1/2456.ts
+#EXTINF:-1,UK:Really
+http://ivue.co:5999/live/shane1/shane1/2455.ts
+#EXTINF:-1,UK:Spike
+http://ivue.co:5999/live/shane1/shane1/2421.ts
+#EXTINF:-1,UK:TCM
+http://ivue.co:5999/live/shane1/shane1/2419.ts
+#EXTINF:-1,UK:TLC
+http://ivue.co:5999/live/shane1/shane1/2415.ts
+#EXTINF:-1,Tlc
+http://ivue.co:5999/live/shane1/shane1/667.ts
+#EXTINF:-1,UK:Travel Channel
+http://ivue.co:5999/live/shane1/shane1/2414.ts
+#EXTINF:-1,UK:Watch
+http://ivue.co:5999/live/shane1/shane1/2403.ts
+#EXTINF:-1,UK:Yesterday
+http://ivue.co:5999/live/shane1/shane1/2402.ts
+#EXTINF:-1,UK:LIfetime
+http://ivue.co:5999/live/shane1/shane1/8131.ts
+#EXTINF:-1,UK:Universal Channel
+http://ivue.co:5999/live/shane1/shane1/8132.ts
+#EXTINF:-1,-----:SKY-UK:-----
+http://ivue.co:5999/live/shane1/shane1/2748.ts
+#EXTINF:-1,UK:Sky Living
+http://ivue.co:5999/live/shane1/shane1/2444.ts
+#EXTINF:-1,Sky ScFi/HorHD
+http://ivue.co:5999/live/shane1/shane1/715.ts
+#EXTINF:-1,Sky Arts 1
+http://ivue.co:5999/live/shane1/shane1/705.ts
+#EXTINF:-1,Sky Select HD
+http://ivue.co:5999/live/shane1/shane1/706.ts
+#EXTINF:-1,UK:Sky 2
+http://ivue.co:5999/live/shane1/shane1/2447.ts
+#EXTINF:-1,UK:CI crime Investigation
+http://ivue.co:5999/live/shane1/shane1/2532.ts
+#EXTINF:-1,UK:Nat Geo Wild
+http://ivue.co:5999/live/shane1/shane1/730.ts
+#EXTINF:-1,Uk:AnimalPlanet
+http://ivue.co:5999/live/shane1/shane1/737.ts
+#EXTINF:-1,UK:Gold
+http://ivue.co:5999/live/shane1/shane1/2502.ts
+#EXTINF:-1,UK:National Geographic
+http://ivue.co:5999/live/shane1/shane1/2465.ts
+#EXTINF:-1,UK:ID
+http://ivue.co:5999/live/shane1/shane1/2492.ts
+#EXTINF:-1,UK:History
+http://ivue.co:5999/live/shane1/shane1/2499.ts
+#EXTINF:-1,UK History
+http://ivue.co:5999/live/shane1/shane1/9049.ts
+#EXTINF:-1,UK:History 2
+http://ivue.co:5999/live/shane1/shane1/2498.ts
+#EXTINF:-1,UK History 2
+http://ivue.co:5999/live/shane1/shane1/9040.ts
+#EXTINF:-1,Home
+http://ivue.co:5999/live/shane1/shane1/684.ts
+#EXTINF:-1,UK:Home  1
+http://ivue.co:5999/live/shane1/shane1/2495.ts
+#EXTINF:-1,UK:Discovery
+http://ivue.co:5999/live/shane1/shane1/2530.ts
+#EXTINF:-1,UK:Discovery History
+http://ivue.co:5999/live/shane1/shane1/2528.ts
+#EXTINF:-1,UK:Discovery Science
+http://ivue.co:5999/live/shane1/shane1/2527.ts
+#EXTINF:-1,UK:Discovery Shed
+http://ivue.co:5999/live/shane1/shane1/2526.ts
+#EXTINF:-1,UK:Discovery Turbo
+http://ivue.co:5999/live/shane1/shane1/2525.ts
+#EXTINF:-1,UK:Comedy Central
+http://ivue.co:5999/live/shane1/shane1/2534.ts
+#EXTINF:-1,UK:Comedy Central Extra
+http://ivue.co:5999/live/shane1/shane1/2533.ts
+#EXTINF:-1,UK:Sky 1
+http://ivue.co:5999/live/shane1/shane1/2448.ts
+#EXTINF:-1,Sky2
+http://ivue.co:5999/live/shane1/shane1/703.ts
+#EXTINF:-1,UK:Sky Arts
+http://ivue.co:5999/live/shane1/shane1/2446.ts
+#EXTINF:-1,UK:Sky Atlantic
+http://ivue.co:5999/live/shane1/shane1/2445.ts
+#EXTINF:-1,UK:Animal Planet
+http://ivue.co:5999/live/shane1/shane1/2566.ts
+#EXTINF:-1,UK:Fox
+http://ivue.co:5999/live/shane1/shane1/2505.ts
+#EXTINF:-1,UK Fox
+http://ivue.co:5999/live/shane1/shane1/9041.ts
+#EXTINF:-1,-----:MOVIES-UK:-----
+http://ivue.co:5999/live/shane1/shane1/2711.ts
+#EXTINF:-1,UK:Film 4
+http://ivue.co:5999/live/shane1/shane1/2508.ts
+#EXTINF:-1,UK:Movies4men
+http://ivue.co:5999/live/shane1/shane1/2476.ts
+#EXTINF:-1,UK:Sky Movies Action
+http://ivue.co:5999/live/shane1/shane1/2443.ts
+#EXTINF:-1,UK:Sky Movies Disney
+http://ivue.co:5999/live/shane1/shane1/2441.ts
+#EXTINF:-1,UK:Sky Movies Family
+http://ivue.co:5999/live/shane1/shane1/2439.ts
+#EXTINF:-1,UK:Sky Movies Greats
+http://ivue.co:5999/live/shane1/shane1/2438.ts
+#EXTINF:-1,UK:Sky Movies Premiere
+http://ivue.co:5999/live/shane1/shane1/2437.ts
+#EXTINF:-1,UK:Sky Movies ScFi/Horror HD
+http://ivue.co:5999/live/shane1/shane1/2436.ts
+#EXTINF:-1,UK:Sky Movies Select HD
+http://ivue.co:5999/live/shane1/shane1/2435.ts
+#EXTINF:-1,UK:Sky Movies Showcase HD
+http://ivue.co:5999/live/shane1/shane1/2434.ts
+#EXTINF:-1,UK:Sky movies Chrismas
+http://ivue.co:5999/live/shane1/shane1/8100.ts
+#EXTINF:-1,UK:Sky Movies Thriller
+http://ivue.co:5999/live/shane1/shane1/2433.ts
+#EXTINF:-1,UK:Sky Movies Comedy HD
+http://ivue.co:5999/live/shane1/shane1/2442.ts
+#EXTINF:-1,UK:Sony Entertainment TV
+http://ivue.co:5999/live/shane1/shane1/2423.ts
+#EXTINF:-1,UK:Sony Movie
+http://ivue.co:5999/live/shane1/shane1/2422.ts
+#EXTINF:-1,UK:True Entertainment
+http://ivue.co:5999/live/shane1/shane1/2412.ts
+#EXTINF:-1,UK:True Movies
+http://ivue.co:5999/live/shane1/shane1/2411.ts
+#EXTINF:-1,UK:True Movies 2
+http://ivue.co:5999/live/shane1/shane1/2410.ts
+#EXTINF:-1,Sky Moveis Drama
+http://ivue.co:5999/live/shane1/shane1/710.ts
+#EXTINF:-1,beinHD MOVIES 1HD
+http://ivue.co:5999/live/shane1/shane1/40.ts
+#EXTINF:-1,beinHD MOVIES 2HD
+http://ivue.co:5999/live/shane1/shane1/41.ts
+#EXTINF:-1,beinHD MOVIES 3HD
+http://ivue.co:5999/live/shane1/shane1/42.ts
+#EXTINF:-1,beinHD MOVIES 4HD
+http://ivue.co:5999/live/shane1/shane1/43.ts
+#EXTINF:-1,OSN:Movies
+http://ivue.co:5999/live/shane1/shane1/2604.ts
+#EXTINF:-1,OSN:Movies_2
+http://ivue.co:5999/live/shane1/shane1/2605.ts
+#EXTINF:-1,OSN:Movies_Action
+http://ivue.co:5999/live/shane1/shane1/2609.ts
+#EXTINF:-1,OSN:Movies Action +2
+http://ivue.co:5999/live/shane1/shane1/2632.ts
+#EXTINF:-1,OSN:Movies_Drama
+http://ivue.co:5999/live/shane1/shane1/2606.ts
+#EXTINF:-1,OSN:Movies Drama +2
+http://ivue.co:5999/live/shane1/shane1/2633.ts
+#EXTINF:-1,OSN:Movies_Premiere
+http://ivue.co:5999/live/shane1/shane1/2608.ts
+#EXTINF:-1,OSN:Movies Comedy
+http://ivue.co:5999/live/shane1/shane1/2634.ts
+#EXTINF:-1,OSN:Movies Family
+http://ivue.co:5999/live/shane1/shane1/2635.ts
+#EXTINF:-1,OSN:Movies Kids
+http://ivue.co:5999/live/shane1/shane1/2636.ts
+#EXTINF:-1,OSN:BoxOffice-1
+http://ivue.co:5999/live/shane1/shane1/2601.ts
+#EXTINF:-1,OSN:BoxOffice-2
+http://ivue.co:5999/live/shane1/shane1/2602.ts
+#EXTINF:-1,OSN:BoxOffice-3
+http://ivue.co:5999/live/shane1/shane1/2603.ts
+#EXTINF:-1,-----:KIDS-UK:-----
+http://ivue.co:5999/live/shane1/shane1/2712.ts
+#EXTINF:-1,UK:Baby TV
+http://ivue.co:5999/live/shane1/shane1/2564.ts
+#EXTINF:-1,UK:RTE Jr
+http://ivue.co:5999/live/shane1/shane1/2451.ts
+#EXTINF:-1,UK:Nick Jr
+http://ivue.co:5999/live/shane1/shane1/2463.ts
+#EXTINF:-1,UK:Nick Jr Too
+http://ivue.co:5999/live/shane1/shane1/2462.ts
+#EXTINF:-1,UK:Disney Channel
+http://ivue.co:5999/live/shane1/shane1/2524.ts
+#EXTINF:-1,UK:Disney Junior
+http://ivue.co:5999/live/shane1/shane1/2523.ts
+#EXTINF:-1,UK:Disney XD
+http://ivue.co:5999/live/shane1/shane1/2522.ts
+#EXTINF:-1,Nicktoons
+http://ivue.co:5999/live/shane1/shane1/740.ts
+#EXTINF:-1,nickelodeon
+http://ivue.co:5999/live/shane1/shane1/741.ts
+#EXTINF:-1,Cartoon Netwrk
+http://ivue.co:5999/live/shane1/shane1/743.ts
+#EXTINF:-1,UK:Cartoon Network
+http://ivue.co:5999/live/shane1/shane1/2546.ts
+#EXTINF:-1,UK:Cartoonito
+http://ivue.co:5999/live/shane1/shane1/2545.ts
+#EXTINF:-1,UK:Tiny Pop
+http://ivue.co:5999/live/shane1/shane1/2416.ts
+#EXTINF:-1,UK:Bloomberg
+http://ivue.co:5999/live/shane1/shane1/2555.ts
+#EXTINF:-1,-----:UK-NEWS:-----
+http://ivue.co:5999/live/shane1/shane1/2713.ts
+#EXTINF:-1,UK:BBC News
+http://ivue.co:5999/live/shane1/shane1/2558.ts
+#EXTINF:-1,UK:UTV
+http://ivue.co:5999/live/shane1/shane1/2408.ts
+#EXTINF:-1,UK:Fox News
+http://ivue.co:5999/live/shane1/shane1/2504.ts
+#EXTINF:-1,UK:France 24
+http://ivue.co:5999/live/shane1/shane1/2503.ts
+#EXTINF:-1,UK:Al Jazeera English
+http://ivue.co:5999/live/shane1/shane1/2569.ts
+#EXTINF:-1,UK:Euronews
+http://ivue.co:5999/live/shane1/shane1/2511.ts
+#EXTINF:-1,UK:Sky News
+http://ivue.co:5999/live/shane1/shane1/2432.ts
+#EXTINF:-1,UK:BBC World News
+http://ivue.co:5999/live/shane1/shane1/2556.ts
+#EXTINF:-1,UK:RTE News
+http://ivue.co:5999/live/shane1/shane1/2450.ts
+#EXTINF:-1,UK:Boomerang
+http://ivue.co:5999/live/shane1/shane1/2554.ts
+#EXTINF:-1,UK:CNN International Europe
+http://ivue.co:5999/live/shane1/shane1/2535.ts
+#EXTINF:-1,-----:UK-MUSIC:-----
+http://ivue.co:5999/live/shane1/shane1/2714.ts
+#EXTINF:-1,UK:VH1
+http://ivue.co:5999/live/shane1/shane1/2407.ts
+#EXTINF:-1,UK:VH1 Classic
+http://ivue.co:5999/live/shane1/shane1/2406.ts
+#EXTINF:-1,UK:Viva
+http://ivue.co:5999/live/shane1/shane1/2404.ts
+#EXTINF:-1,UK:Vintage TV
+http://ivue.co:5999/live/shane1/shane1/2405.ts
+#EXTINF:-1,UK:The Vault
+http://ivue.co:5999/live/shane1/shane1/2417.ts
+#EXTINF:-1,UK:4 Music
+http://ivue.co:5999/live/shane1/shane1/2573.ts
+#EXTINF:-1,UK:MTV
+http://ivue.co:5999/live/shane1/shane1/2475.ts
+#EXTINF:-1,UK:MTV Base
+http://ivue.co:5999/live/shane1/shane1/2474.ts
+#EXTINF:-1,UK:MTV Classic
+http://ivue.co:5999/live/shane1/shane1/2473.ts
+#EXTINF:-1,UK:MTV Dance
+http://ivue.co:5999/live/shane1/shane1/2472.ts
+#EXTINF:-1,UK:MTV Hits
+http://ivue.co:5999/live/shane1/shane1/2471.ts
+#EXTINF:-1,UK:MTV Live HD
+http://ivue.co:5999/live/shane1/shane1/2470.ts
+#EXTINF:-1,UK:MTV Music
+http://ivue.co:5999/live/shane1/shane1/2469.ts
+#EXTINF:-1,UK:MTV Rocks
+http://ivue.co:5999/live/shane1/shane1/2468.ts
+#EXTINF:-1,-----:UK-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2715.ts
+#EXTINF:-1,UK:Motors TV
+http://ivue.co:5999/live/shane1/shane1/2477.ts
+#EXTINF:-1,UK:MUTV
+http://ivue.co:5999/live/shane1/shane1/2467.ts
+#EXTINF:-1,UK:Racing UK
+http://ivue.co:5999/live/shane1/shane1/2457.ts
+#EXTINF:-1,UK Racing UK
+http://ivue.co:5999/live/shane1/shane1/9039.ts
+#EXTINF:-1,UK:LFC
+http://ivue.co:5999/live/shane1/shane1/2480.ts
+#EXTINF:-1,UK:Eir Sports 1
+http://ivue.co:5999/live/shane1/shane1/2515.ts
+#EXTINF:-1,UK: British Eurosport 1
+http://ivue.co:5999/live/shane1/shane1/2510.ts
+#EXTINF:-1,UK British Eurosport 1
+http://ivue.co:5999/live/shane1/shane1/9043.ts
+#EXTINF:-1,UK:British Eurosport 2
+http://ivue.co:5999/live/shane1/shane1/2509.ts
+#EXTINF:-1,UK British Eurosport 2
+http://ivue.co:5999/live/shane1/shane1/9044.ts
+#EXTINF:-1,UK:EirSports 2
+http://ivue.co:5999/live/shane1/shane1/2514.ts
+#EXTINF:-1,UK:Chelsea TV
+http://ivue.co:5999/live/shane1/shane1/2536.ts
+#EXTINF:-1,UK:Setanta Ireland
+http://ivue.co:5999/live/shane1/shane1/2449.ts
+#EXTINF:-1,UK:Box Nation
+http://ivue.co:5999/live/shane1/shane1/2553.ts
+#EXTINF:-1,UK:BT Sport 3
+http://ivue.co:5999/live/shane1/shane1/2550.ts
+#EXTINF:-1,UK BT Sport 3
+http://ivue.co:5999/live/shane1/shane1/9032.ts
+#EXTINF:-1,UK:BT Sport ESPN
+http://ivue.co:5999/live/shane1/shane1/2549.ts
+#EXTINF:-1,UK:Sky Sports Cricket
+http://ivue.co:5999/live/shane1/shane1/2430.ts
+#EXTINF:-1,UK Sky Sports Cricket
+http://ivue.co:5999/live/shane1/shane1/692.ts
+#EXTINF:-1,UK:Sky Sports Action
+http://ivue.co:5999/live/shane1/shane1/2429.ts
+#EXTINF:-1,UK Sky Sports Action
+http://ivue.co:5999/live/shane1/shane1/693.ts
+#EXTINF:-1,UK:Sky Sports Golf
+http://ivue.co:5999/live/shane1/shane1/2428.ts
+#EXTINF:-1,UK Sky Sports Golf
+http://ivue.co:5999/live/shane1/shane1/694.ts
+#EXTINF:-1,UK:Sky Sports F1
+http://ivue.co:5999/live/shane1/shane1/2426.ts
+#EXTINF:-1,UK Sky Sports F1
+http://ivue.co:5999/live/shane1/shane1/696.ts
+#EXTINF:-1,UK:Sky Sports Arena
+http://ivue.co:5999/live/shane1/shane1/4526.ts
+#EXTINF:-1,UK Sky Sports Arena
+http://ivue.co:5999/live/shane1/shane1/9030.ts
+#EXTINF:-1,UK:Sky Sports Mix
+http://ivue.co:5999/live/shane1/shane1/2425.ts
+#EXTINF:-1,UK Sky Sports Mix
+http://ivue.co:5999/live/shane1/shane1/9034.ts
+#EXTINF:-1,UK:Sky Sports News HQ
+http://ivue.co:5999/live/shane1/shane1/2424.ts
+#EXTINF:-1,UK Sky Sports News
+http://ivue.co:5999/live/shane1/shane1/9033.ts
+#EXTINF:-1,UK:At The Races
+http://ivue.co:5999/live/shane1/shane1/2565.ts
+#EXTINF:-1,UK At The Races
+http://ivue.co:5999/live/shane1/shane1/9038.ts
+#EXTINF:-1,-----FOOTBALL---------
+http://ivue.co:5999/live/shane1/shane1/4552.ts
+#EXTINF:-1,UK:Sky Sports Premier League
+http://ivue.co:5999/live/shane1/shane1/2427.ts
+#EXTINF:-1,UK Sky Sports Premier League
+http://ivue.co:5999/live/shane1/shane1/695.ts
+#EXTINF:-1,UK:Sky Sports Main Event
+http://ivue.co:5999/live/shane1/shane1/2431.ts
+#EXTINF:-1,UK Sky Sports Main Event
+http://ivue.co:5999/live/shane1/shane1/691.ts
+#EXTINF:-1,UK:Sky Sports Football
+http://ivue.co:5999/live/shane1/shane1/4525.ts
+#EXTINF:-1,UK Sky Sports Football
+http://ivue.co:5999/live/shane1/shane1/9031.ts
+#EXTINF:-1,UK:BT Sport 1
+http://ivue.co:5999/live/shane1/shane1/2552.ts
+#EXTINF:-1,UK BT Sport 1
+http://ivue.co:5999/live/shane1/shane1/687.ts
+#EXTINF:-1,UK:BT Sport 2
+http://ivue.co:5999/live/shane1/shane1/2551.ts
+#EXTINF:-1,UK BT Sport 2
+http://ivue.co:5999/live/shane1/shane1/688.ts
+#EXTINF:-1,us TSN 1
+http://ivue.co:5999/live/shane1/shane1/1073.ts
+#EXTINF:-1,US:TSN 1
+http://ivue.co:5999/live/shane1/shane1/2286.ts
+#EXTINF:-1,US:TSN 2
+http://ivue.co:5999/live/shane1/shane1/2285.ts
+#EXTINF:-1,US TSN 2
+http://ivue.co:5999/live/shane1/shane1/1074.ts
+#EXTINF:-1,US:TSN 3
+http://ivue.co:5999/live/shane1/shane1/2284.ts
+#EXTINF:-1,US TSN 3
+http://ivue.co:5999/live/shane1/shane1/1075.ts
+#EXTINF:-1,US:TSN 4
+http://ivue.co:5999/live/shane1/shane1/2283.ts
+#EXTINF:-1,US TSN 4
+http://ivue.co:5999/live/shane1/shane1/1076.ts
+#EXTINF:-1,US:TSN 5
+http://ivue.co:5999/live/shane1/shane1/2282.ts
+#EXTINF:-1,US TSN 5
+http://ivue.co:5999/live/shane1/shane1/1077.ts
+#EXTINF:-1,US:SportsNet Ontario
+http://ivue.co:5999/live/shane1/shane1/2300.ts
+#EXTINF:-1,US:SportsNet One HD
+http://ivue.co:5999/live/shane1/shane1/2301.ts
+#EXTINF:-1,US:SportsNet World HD
+http://ivue.co:5999/live/shane1/shane1/2299.ts
+#EXTINF:-1,US:Fox Sport 1 HD
+http://ivue.co:5999/live/shane1/shane1/2353.ts
+#EXTINF:-1,US:Fox Sport 2 HD
+http://ivue.co:5999/live/shane1/shane1/2352.ts
+#EXTINF:-1,------:BEIN SPORT:------
+http://ivue.co:5999/live/shane1/shane1/3089.ts
+#EXTINF:-1,beinHD Sports 1FHD
+http://ivue.co:5999/live/shane1/shane1/3.ts
+#EXTINF:-1,beIN SPORTS 1HD
+http://ivue.co:5999/live/shane1/shane1/4.ts
+#EXTINF:-1,BEINSPORTS 1HD
+http://ivue.co:5999/live/shane1/shane1/2660.ts
+#EXTINF:-1,Bein Sport 1SD
+http://ivue.co:5999/live/shane1/shane1/5.ts
+#EXTINF:-1,BeinHD Sports 2FHD
+http://ivue.co:5999/live/shane1/shane1/6.ts
+#EXTINF:-1,beIN SPORTS 2HD
+http://ivue.co:5999/live/shane1/shane1/7.ts
+#EXTINF:-1,BEINSPORTS 2HD
+http://ivue.co:5999/live/shane1/shane1/2661.ts
+#EXTINF:-1,Bein Sport 2SD
+http://ivue.co:5999/live/shane1/shane1/8.ts
+#EXTINF:-1,beinHD Sports 3FHD
+http://ivue.co:5999/live/shane1/shane1/9.ts
+#EXTINF:-1,beIN SPORTS 3HD
+http://ivue.co:5999/live/shane1/shane1/10.ts
+#EXTINF:-1,BEINSPORTS 3HD
+http://ivue.co:5999/live/shane1/shane1/2662.ts
+#EXTINF:-1,Bein Sport 3SD
+http://ivue.co:5999/live/shane1/shane1/11.ts
+#EXTINF:-1,beinHD Sports 4FHD
+http://ivue.co:5999/live/shane1/shane1/12.ts
+#EXTINF:-1,beIN SPORTS 4HD
+http://ivue.co:5999/live/shane1/shane1/13.ts
+#EXTINF:-1,BEINSPORTS 4HD
+http://ivue.co:5999/live/shane1/shane1/2663.ts
+#EXTINF:-1,Bein Sport 4SD
+http://ivue.co:5999/live/shane1/shane1/14.ts
+#EXTINF:-1,beinHD Sports 5FHD
+http://ivue.co:5999/live/shane1/shane1/15.ts
+#EXTINF:-1,beIN SPORTS 5HD
+http://ivue.co:5999/live/shane1/shane1/16.ts
+#EXTINF:-1,BEINSPORTS 5HD
+http://ivue.co:5999/live/shane1/shane1/2664.ts
+#EXTINF:-1,Bein Sport 5SD
+http://ivue.co:5999/live/shane1/shane1/17.ts
+#EXTINF:-1,beinHD Sports 6FHD
+http://ivue.co:5999/live/shane1/shane1/18.ts
+#EXTINF:-1,beIN SPORTS 6HD
+http://ivue.co:5999/live/shane1/shane1/19.ts
+#EXTINF:-1,BEINSPORTS 6HD
+http://ivue.co:5999/live/shane1/shane1/2665.ts
+#EXTINF:-1,Bein Sport 6SD
+http://ivue.co:5999/live/shane1/shane1/20.ts
+#EXTINF:-1,beinHD Sports 7FHD
+http://ivue.co:5999/live/shane1/shane1/21.ts
+#EXTINF:-1,beIN SPORTS 7HD
+http://ivue.co:5999/live/shane1/shane1/22.ts
+#EXTINF:-1,BEINSPORTS 7HD
+http://ivue.co:5999/live/shane1/shane1/2666.ts
+#EXTINF:-1,Bein Sport 7SD
+http://ivue.co:5999/live/shane1/shane1/23.ts
+#EXTINF:-1,beinHD Sports 8FHD
+http://ivue.co:5999/live/shane1/shane1/24.ts
+#EXTINF:-1,beIN SPORTS 8HD
+http://ivue.co:5999/live/shane1/shane1/25.ts
+#EXTINF:-1,BEINSPORTS 8HD
+http://ivue.co:5999/live/shane1/shane1/2667.ts
+#EXTINF:-1,Bein Sport 8SD
+http://ivue.co:5999/live/shane1/shane1/26.ts
+#EXTINF:-1,beinHD Sports 9FHD
+http://ivue.co:5999/live/shane1/shane1/27.ts
+#EXTINF:-1,beIN SPORTS 9HD
+http://ivue.co:5999/live/shane1/shane1/28.ts
+#EXTINF:-1,BEINSPORTS 9HD
+http://ivue.co:5999/live/shane1/shane1/2668.ts
+#EXTINF:-1,Bein Sport 9SD
+http://ivue.co:5999/live/shane1/shane1/29.ts
+#EXTINF:-1,beinHD Sports 10FHD
+http://ivue.co:5999/live/shane1/shane1/30.ts
+#EXTINF:-1,beIN SPORTS 10HD
+http://ivue.co:5999/live/shane1/shane1/31.ts
+#EXTINF:-1,BEINSPORTS 10HD
+http://ivue.co:5999/live/shane1/shane1/2669.ts
+#EXTINF:-1,Bein Sport 10SD
+http://ivue.co:5999/live/shane1/shane1/32.ts
+#EXTINF:-1,beinHD Sports HD11
+http://ivue.co:5999/live/shane1/shane1/1514.ts
+#EXTINF:-1,beIN SPORTS 11HD
+http://ivue.co:5999/live/shane1/shane1/33.ts
+#EXTINF:-1,beinHD Sports HD12
+http://ivue.co:5999/live/shane1/shane1/1515.ts
+#EXTINF:-1,beIN SPORTS 12HD
+http://ivue.co:5999/live/shane1/shane1/34.ts
+#EXTINF:-1,beinHD SPORTS News
+http://ivue.co:5999/live/shane1/shane1/1.ts
+#EXTINF:-1,beinHD SPORTS HD
+http://ivue.co:5999/live/shane1/shane1/2.ts
+#EXTINF:-1,Arena Sports 1
+http://ivue.co:5999/live/shane1/shane1/1009.ts
+#EXTINF:-1,Arena Sports 2
+http://ivue.co:5999/live/shane1/shane1/1010.ts
+#EXTINF:-1,Arena Sports 4
+http://ivue.co:5999/live/shane1/shane1/1012.ts
+#EXTINF:-1,Arena Sports 3
+http://ivue.co:5999/live/shane1/shane1/1011.ts
+#EXTINF:-1,SPFL : RANGERS FC TV ( LIVE ON MATCHES )
+http://ivue.co:5999/live/shane1/shane1/8090.ts
+#EXTINF:-1,SPFL : DUNDEE FC TV ( LIVE ON MATCHES )
+http://ivue.co:5999/live/shane1/shane1/8094.ts
+#EXTINF:-1,Sports : CELTIC FC TV ( LIVE ON MATCHES )
+http://ivue.co:5999/live/shane1/shane1/8092.ts
+#EXTINF:-1,Sports : ABERDEEN FC TV ( LIVE ON MATCHES )
+http://ivue.co:5999/live/shane1/shane1/8091.ts
+#EXTINF:-1,Sports : RED FC TV ( LIVE ON MATCHES )
+http://ivue.co:5999/live/shane1/shane1/8093.ts
+#EXTINF:-1,-----:USA-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2732.ts
+#EXTINF:-1,US:Bein Sports USA HD
+http://ivue.co:5999/live/shane1/shane1/2387.ts
+#EXTINF:-1,US:AFN SPORTS 2
+http://ivue.co:5999/live/shane1/shane1/2393.ts
+#EXTINF:-1,US:ESPN 2 HD
+http://ivue.co:5999/live/shane1/shane1/2362.ts
+#EXTINF:-1,US:ESPN HD
+http://ivue.co:5999/live/shane1/shane1/2361.ts
+#EXTINF:-1,US:NBC HD
+http://ivue.co:5999/live/shane1/shane1/2319.ts
+#EXTINF:-1,US:Fox HD
+http://ivue.co:5999/live/shane1/shane1/2354.ts
+#EXTINF:-1,US:Freeform HD
+http://ivue.co:5999/live/shane1/shane1/2350.ts
+#EXTINF:-1,US:NFL NETWORK HD
+http://ivue.co:5999/live/shane1/shane1/2315.ts
+#EXTINF:-1,US:Sports Net World
+http://ivue.co:5999/live/shane1/shane1/2303.ts
+#EXTINF:-1,US:NBCSN
+http://ivue.co:5999/live/shane1/shane1/2317.ts
+#EXTINF:-1,US:WWE
+http://ivue.co:5999/live/shane1/shane1/2274.ts
+#EXTINF:-1,US:NBA HD
+http://ivue.co:5999/live/shane1/shane1/2321.ts
+#EXTINF:-1,----------------PPV----------------
+http://ivue.co:5999/live/shane1/shane1/576.ts
+#EXTINF:-1,ITV BOXOFFICE (Live Only)
+http://ivue.co:5999/live/shane1/shane1/4818.ts
+#EXTINF:-1,SKY SPORTS BOX OFFICE PPV (When live Only)
+http://ivue.co:5999/live/shane1/shane1/3541.ts
+#EXTINF:-1,PPV HD 1 (When live Only)
+http://ivue.co:5999/live/shane1/shane1/3353.ts
+#EXTINF:-1,PPV HD 2 (When live Only)
+http://ivue.co:5999/live/shane1/shane1/4055.ts
+#EXTINF:-1,-----:HUNGARY SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2716.ts
+#EXTINF:-1,HU:Eurosport 1
+http://ivue.co:5999/live/shane1/shane1/2057.ts
+#EXTINF:-1,HU:Eurosport 2
+http://ivue.co:5999/live/shane1/shane1/8135.ts
+#EXTINF:-1,HU:M4 Sport
+http://ivue.co:5999/live/shane1/shane1/2048.ts
+#EXTINF:-1,HU:Sport 2 Mai
+http://ivue.co:5999/live/shane1/shane1/2044.ts
+#EXTINF:-1,HU:Sport M
+http://ivue.co:5999/live/shane1/shane1/8136.ts
+#EXTINF:-1,-----:SPANISH-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2726.ts
+#EXTINF:-1,ES:Barça TV
+http://ivue.co:5999/live/shane1/shane1/487.ts
+#EXTINF:-1,ES:Bein La Liga
+http://ivue.co:5999/live/shane1/shane1/480.ts
+#EXTINF:-1,ES:Bein Sports
+http://ivue.co:5999/live/shane1/shane1/479.ts
+#EXTINF:-1,ES:BEIN SPORTS HD
+http://ivue.co:5999/live/shane1/shane1/478.ts
+#EXTINF:-1,ES:LALIGATV
+http://ivue.co:5999/live/shane1/shane1/481.ts
+#EXTINF:-1,ES:GOL TV
+http://ivue.co:5999/live/shane1/shane1/486.ts
+#EXTINF:-1,ES:M.Deportes
+http://ivue.co:5999/live/shane1/shane1/484.ts
+#EXTINF:-1,ES:M.Deportes 2
+http://ivue.co:5999/live/shane1/shane1/485.ts
+#EXTINF:-1,ES:MOVISTAR FUTBOL
+http://ivue.co:5999/live/shane1/shane1/482.ts
+#EXTINF:-1,ES:REAL MADRID
+http://ivue.co:5999/live/shane1/shane1/488.ts
+#EXTINF:-1,ES:TOROS HD
+http://ivue.co:5999/live/shane1/shane1/493.ts
+#EXTINF:-1,ES:MOVISTAR GOLF
+http://ivue.co:5999/live/shane1/shane1/492.ts
+#EXTINF:-1,ES:MOVISTAR F1
+http://ivue.co:5999/live/shane1/shane1/490.ts
+#EXTINF:-1,ES:MOVIESTAR MOTOGP HD
+http://ivue.co:5999/live/shane1/shane1/491.ts
+#EXTINF:-1,ES:teledeporte
+http://ivue.co:5999/live/shane1/shane1/489.ts
+#EXTINF:-1,-----:PORTUGAL-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2720.ts
+#EXTINF:-1,PT:Canal Porto
+http://ivue.co:5999/live/shane1/shane1/895.ts
+#EXTINF:-1,PT:Abola TV
+http://ivue.co:5999/live/shane1/shane1/896.ts
+#EXTINF:-1,PT:Sporting TV
+http://ivue.co:5999/live/shane1/shane1/897.ts
+#EXTINF:-1,PT:BTV 1 HD
+http://ivue.co:5999/live/shane1/shane1/898.ts
+#EXTINF:-1,PT:Sport TV 1 HD
+http://ivue.co:5999/live/shane1/shane1/900.ts
+#EXTINF:-1,PT:Sport TV 2 HD
+http://ivue.co:5999/live/shane1/shane1/901.ts
+#EXTINF:-1,PT:Sport TV 3 HD
+http://ivue.co:5999/live/shane1/shane1/902.ts
+#EXTINF:-1,PT:Sport TV 4 HD
+http://ivue.co:5999/live/shane1/shane1/903.ts
+#EXTINF:-1,PT:Sport TV 5 HD
+http://ivue.co:5999/live/shane1/shane1/904.ts
+#EXTINF:-1,-----:ROMANIA-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2721.ts
+#EXTINF:-1,RO:Digi Sport 1
+http://ivue.co:5999/live/shane1/shane1/2216.ts
+#EXTINF:-1,RO:Digi Sport 2
+http://ivue.co:5999/live/shane1/shane1/2215.ts
+#EXTINF:-1,RO:Digi Sport 3
+http://ivue.co:5999/live/shane1/shane1/2214.ts
+#EXTINF:-1,RO:Digi Sport 4
+http://ivue.co:5999/live/shane1/shane1/2213.ts
+#EXTINF:-1,RO:Digi World
+http://ivue.co:5999/live/shane1/shane1/2212.ts
+#EXTINF:-1,RO:Eurosport 1
+http://ivue.co:5999/live/shane1/shane1/2209.ts
+#EXTINF:-1,RO:Eurosport 2
+http://ivue.co:5999/live/shane1/shane1/2208.ts
+#EXTINF:-1,RO:Sport.RO
+http://ivue.co:5999/live/shane1/shane1/2183.ts
+#EXTINF:-1,-----:ALBANIAN-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2722.ts
+#EXTINF:-1,ALB:Super Sport Kosova 1
+http://ivue.co:5999/live/shane1/shane1/919.ts
+#EXTINF:-1,ALB:Super Sport Kosova 2
+http://ivue.co:5999/live/shane1/shane1/920.ts
+#EXTINF:-1,ALB:Super Sports 1
+http://ivue.co:5999/live/shane1/shane1/921.ts
+#EXTINF:-1,ALB:Super Sports 2
+http://ivue.co:5999/live/shane1/shane1/922.ts
+#EXTINF:-1,ALB:Super Sports 3
+http://ivue.co:5999/live/shane1/shane1/923.ts
+#EXTINF:-1,ALB:Super sports 4
+http://ivue.co:5999/live/shane1/shane1/924.ts
+#EXTINF:-1,--------------------italia Sports--------------------
+http://ivue.co:5999/live/shane1/shane1/786.ts
+#EXTINF:-1,IT:Sky Sport 1 HD
+http://ivue.co:5999/live/shane1/shane1/788.ts
+#EXTINF:-1,IT:Sky Sport 2 HD
+http://ivue.co:5999/live/shane1/shane1/789.ts
+#EXTINF:-1,IT:Sky Sport 24 HD
+http://ivue.co:5999/live/shane1/shane1/791.ts
+#EXTINF:-1,IT:Sky Sport 3 HD
+http://ivue.co:5999/live/shane1/shane1/790.ts
+#EXTINF:-1,IT:Sky Sport F1 HD
+http://ivue.co:5999/live/shane1/shane1/792.ts
+#EXTINF:-1,IT:Super Tennis HD
+http://ivue.co:5999/live/shane1/shane1/795.ts
+#EXTINF:-1,IT:Sky Moto Gp HD
+http://ivue.co:5999/live/shane1/shane1/797.ts
+#EXTINF:-1,-----:GERMAN-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2731.ts
+#EXTINF:-1,DE:Sky BundesLiga HD 1
+http://ivue.co:5999/live/shane1/shane1/593.ts
+#EXTINF:-1,DE:Sky BundesLiga HD 2
+http://ivue.co:5999/live/shane1/shane1/594.ts
+#EXTINF:-1,DE:Sky BundesLiga HD 3
+http://ivue.co:5999/live/shane1/shane1/595.ts
+#EXTINF:-1,DE:Sky BundesLiga HD 4
+http://ivue.co:5999/live/shane1/shane1/596.ts
+#EXTINF:-1,DE:Sky BundesLiga HD 5
+http://ivue.co:5999/live/shane1/shane1/597.ts
+#EXTINF:-1,DE:Sky Sport HD 1
+http://ivue.co:5999/live/shane1/shane1/591.ts
+#EXTINF:-1,DE:Sky Sport HD 2
+http://ivue.co:5999/live/shane1/shane1/592.ts
+#EXTINF:-1,DE:Sport Digital
+http://ivue.co:5999/live/shane1/shane1/588.ts
+#EXTINF:-1,DE:Sport1  HD
+http://ivue.co:5999/live/shane1/shane1/589.ts
+#EXTINF:-1,DE:Sport1 US HD
+http://ivue.co:5999/live/shane1/shane1/590.ts
+#EXTINF:-1,-----:DUTCH-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2723.ts
+#EXTINF:-1,[VIP-NL]Ziggo Sport
+http://ivue.co:5999/live/shane1/shane1/551.ts
+#EXTINF:-1,[VIP-NL]Fox Sports 1
+http://ivue.co:5999/live/shane1/shane1/552.ts
+#EXTINF:-1,[VIP-NL]Fox Sports 2
+http://ivue.co:5999/live/shane1/shane1/553.ts
+#EXTINF:-1,[VIP-NL]Fox Sports 3
+http://ivue.co:5999/live/shane1/shane1/554.ts
+#EXTINF:-1,[VIP-NL]Fox Sports 4
+http://ivue.co:5999/live/shane1/shane1/555.ts
+#EXTINF:-1,[VIP-NL]Fox Sports 5
+http://ivue.co:5999/live/shane1/shane1/556.ts
+#EXTINF:-1,[VIP-NL]Fox Sports 6
+http://ivue.co:5999/live/shane1/shane1/557.ts
+#EXTINF:-1,NL:Ziggo Sport Golf
+http://ivue.co:5999/live/shane1/shane1/1938.ts
+#EXTINF:-1,NL:Ziggo Sport Racing
+http://ivue.co:5999/live/shane1/shane1/1937.ts
+#EXTINF:-1,NL:Ziggo Sport Select HD
+http://ivue.co:5999/live/shane1/shane1/1936.ts
+#EXTINF:-1,NL:Ziggo Sport Voetbal
+http://ivue.co:5999/live/shane1/shane1/1935.ts
+#EXTINF:-1,------:DENMARK-SPORTS:-----
+http://ivue.co:5999/live/shane1/shane1/2724.ts
+#EXTINF:-1,DK:Viasat sport
+http://ivue.co:5999/live/shane1/shane1/8137.ts
+#EXTINF:-1,DK:TV2 Sport
+http://ivue.co:5999/live/shane1/shane1/1856.ts
+#EXTINF:-1,DK:TV3 Sport 1
+http://ivue.co:5999/live/shane1/shane1/1852.ts
+#EXTINF:-1,DK:TV3 Sport 2
+http://ivue.co:5999/live/shane1/shane1/1851.ts
+#EXTINF:-1,DK:Viasat Fotball HD
+http://ivue.co:5999/live/shane1/shane1/1848.ts
+#EXTINF:-1,-----:ARABIC-SPORT:-----
+http://ivue.co:5999/live/shane1/shane1/2736.ts
+#EXTINF:-1,Abu Dhabi Sports 1
+http://ivue.co:5999/live/shane1/shane1/242.ts
+#EXTINF:-1,Abu Dhabi Sports 2
+http://ivue.co:5999/live/shane1/shane1/243.ts
+#EXTINF:-1,Abu Dhabi Sports 3
+http://ivue.co:5999/live/shane1/shane1/244.ts
+#EXTINF:-1,Abu Dhabi Sports 4
+http://ivue.co:5999/live/shane1/shane1/245.ts
+#EXTINF:-1,Abu Dhabi Sports 5
+http://ivue.co:5999/live/shane1/shane1/246.ts
+#EXTINF:-1,AR:MBC 1 HD
+http://ivue.co:5999/live/shane1/shane1/86.ts
+#EXTINF:-1,AR:MBC 2 HD
+http://ivue.co:5999/live/shane1/shane1/88.ts
+#EXTINF:-1,AR:MBC 3 HD
+http://ivue.co:5999/live/shane1/shane1/90.ts
+#EXTINF:-1,AR:MBC 4 HD
+http://ivue.co:5999/live/shane1/shane1/92.ts
+#EXTINF:-1,AR:MBC Pro Sport 1HD
+http://ivue.co:5999/live/shane1/shane1/154.ts
+#EXTINF:-1,AR:MBC Pro Sport 2HD
+http://ivue.co:5999/live/shane1/shane1/155.ts
+#EXTINF:-1,AR:MBC Pro Sport 3HD
+http://ivue.co:5999/live/shane1/shane1/156.ts
+#EXTINF:-1,AR:Al Kass One
+http://ivue.co:5999/live/shane1/shane1/157.ts
+#EXTINF:-1,AR:Al Kass Two
+http://ivue.co:5999/live/shane1/shane1/158.ts
+#EXTINF:-1,AR:Al Kass Four
+http://ivue.co:5999/live/shane1/shane1/159.ts
+#EXTINF:-1,AR:Al Kass Five
+http://ivue.co:5999/live/shane1/shane1/160.ts
+#EXTINF:-1,AR:Dubai Sport
+http://ivue.co:5999/live/shane1/shane1/161.ts
+#EXTINF:-1,AR:Dubai Sport 3
+http://ivue.co:5999/live/shane1/shane1/162.ts
+#EXTINF:-1,AR:Dubai Racing
+http://ivue.co:5999/live/shane1/shane1/163.ts
+#EXTINF:-1,AR:Sharjah Sport HD
+http://ivue.co:5999/live/shane1/shane1/164.ts
+#EXTINF:-1,AR:Oman tv 2
+http://ivue.co:5999/live/shane1/shane1/166.ts
+#EXTINF:-1,AR:KTV Sport
+http://ivue.co:5999/live/shane1/shane1/168.ts
+#EXTINF:-1,AR:KTV Sport Plus
+http://ivue.co:5999/live/shane1/shane1/169.ts
+#EXTINF:-1,AR:Saudi Sports
+http://ivue.co:5999/live/shane1/shane1/207.ts
+#EXTINF:-1,-----:SPORT-FRANCE:-----
+http://ivue.co:5999/live/shane1/shane1/2737.ts
+#EXTINF:-1,FR:FHD:beIN SPORTS HD1
+http://ivue.co:5999/live/shane1/shane1/296.ts
+#EXTINF:-1,FR:HD:beINSport1
+http://ivue.co:5999/live/shane1/shane1/297.ts
+#EXTINF:-1,FR:FHD:beIN SPORTS HD2
+http://ivue.co:5999/live/shane1/shane1/298.ts
+#EXTINF:-1,FR:HD:beINSport2
+http://ivue.co:5999/live/shane1/shane1/299.ts
+#EXTINF:-1,FR:HD:beINSport3
+http://ivue.co:5999/live/shane1/shane1/300.ts
+#EXTINF:-1,FR:HD:BeIN Sports MAX 4
+http://ivue.co:5999/live/shane1/shane1/301.ts
+#EXTINF:-1,FR:HD:BeIN Sports MAX 5
+http://ivue.co:5999/live/shane1/shane1/302.ts
+#EXTINF:-1,FR:HD:BeIN Sports MAX 6
+http://ivue.co:5999/live/shane1/shane1/303.ts
+#EXTINF:-1,FR:HD:BeIN Sports MAX 7
+http://ivue.co:5999/live/shane1/shane1/304.ts
+#EXTINF:-1,FR:FHD:CANAL SPORT HD
+http://ivue.co:5999/live/shane1/shane1/306.ts
+#EXTINF:-1,FR:HD:CANAL SPORT
+http://ivue.co:5999/live/shane1/shane1/307.ts
+#EXTINF:-1,FR:HD:Sfr Sport 1
+http://ivue.co:5999/live/shane1/shane1/1402.ts
+#EXTINF:-1,FR:HD:Sfr Sport 2
+http://ivue.co:5999/live/shane1/shane1/308.ts
+#EXTINF:-1,FR:HD:Sfr Sport 3
+http://ivue.co:5999/live/shane1/shane1/1403.ts
+#EXTINF:-1,FR:HD:Foot  24/24
+http://ivue.co:5999/live/shane1/shane1/309.ts
+#EXTINF:-1,FR:HD:GOLF HD
+http://ivue.co:5999/live/shane1/shane1/310.ts
+#EXTINF:-1,FR:HD:INFOSPORT
+http://ivue.co:5999/live/shane1/shane1/311.ts
+#EXTINF:-1,FR:HD:Eurosport HD
+http://ivue.co:5999/live/shane1/shane1/312.ts
+#EXTINF:-1,FR:HD:Eurosport 2 HD
+http://ivue.co:5999/live/shane1/shane1/313.ts
+#EXTINF:-1,FR:HD:L EQUIPE 21
+http://ivue.co:5999/live/shane1/shane1/314.ts
+#EXTINF:-1,FR:HD:Equidia Live
+http://ivue.co:5999/live/shane1/shane1/315.ts
+#EXTINF:-1,-----:USA-CHANNELS:-----
+http://ivue.co:5999/live/shane1/shane1/2738.ts
+#EXTINF:-1,US:A & E
+http://ivue.co:5999/live/shane1/shane1/2399.ts
+#EXTINF:-1,US:ABC HD
+http://ivue.co:5999/live/shane1/shane1/2398.ts
+#EXTINF:-1,US:ABC News HD
+http://ivue.co:5999/live/shane1/shane1/2397.ts
+#EXTINF:-1,US:AMC HD
+http://ivue.co:5999/live/shane1/shane1/2390.ts
+#EXTINF:-1,US:Animal Planet
+http://ivue.co:5999/live/shane1/shane1/2388.ts
+#EXTINF:-1,US:Bloomberg
+http://ivue.co:5999/live/shane1/shane1/2386.ts
+#EXTINF:-1,US:Bravo HD
+http://ivue.co:5999/live/shane1/shane1/2384.ts
+#EXTINF:-1,US:CBSN HD
+http://ivue.co:5999/live/shane1/shane1/2377.ts
+#EXTINF:-1,US:CNBC
+http://ivue.co:5999/live/shane1/shane1/2374.ts
+#EXTINF:-1,US:CNN HD
+http://ivue.co:5999/live/shane1/shane1/2372.ts
+#EXTINF:-1,US:Comedy Central HD
+http://ivue.co:5999/live/shane1/shane1/2371.ts
+#EXTINF:-1,US:Discovery Channel HD
+http://ivue.co:5999/live/shane1/shane1/2368.ts
+#EXTINF:-1,US:Discovery Science HD
+http://ivue.co:5999/live/shane1/shane1/2367.ts
+#EXTINF:-1,US:Discovery Showcase HD
+http://ivue.co:5999/live/shane1/shane1/2366.ts
+#EXTINF:-1,US:Diy Network
+http://ivue.co:5999/live/shane1/shane1/2364.ts
+#EXTINF:-1,US:E!
+http://ivue.co:5999/live/shane1/shane1/2363.ts
+#EXTINF:-1,US:Food Network
+http://ivue.co:5999/live/shane1/shane1/2358.ts
+#EXTINF:-1,US:Fox 59 News
+http://ivue.co:5999/live/shane1/shane1/2356.ts
+#EXTINF:-1,US:FX HD
+http://ivue.co:5999/live/shane1/shane1/2349.ts
+#EXTINF:-1,US:Hallmark
+http://ivue.co:5999/live/shane1/shane1/2343.ts
+#EXTINF:-1,US:HGTV
+http://ivue.co:5999/live/shane1/shane1/2337.ts
+#EXTINF:-1,US HGTV
+http://ivue.co:5999/live/shane1/shane1/9036.ts
+#EXTINF:-1,US:Investigation Discovery
+http://ivue.co:5999/live/shane1/shane1/9037.ts
+#EXTINF:-1,US:Crime+Investigation
+http://ivue.co:5999/live/shane1/shane1/2332.ts
+#EXTINF:-1,US:Real Lives
+http://ivue.co:5999/live/shane1/shane1/2330.ts
+#EXTINF:-1,US:National Geographic
+http://ivue.co:5999/live/shane1/shane1/2322.ts
+#EXTINF:-1,US:O.W.N HD (oprah winfrey network)
+http://ivue.co:5999/live/shane1/shane1/2313.ts
+#EXTINF:-1,US:Showtime HD
+http://ivue.co:5999/live/shane1/shane1/2306.ts
+#EXTINF:-1,US:TBS HD
+http://ivue.co:5999/live/shane1/shane1/2295.ts
+#EXTINF:-1,US:TLC
+http://ivue.co:5999/live/shane1/shane1/2291.ts
+#EXTINF:-1,US:TNT HD
+http://ivue.co:5999/live/shane1/shane1/2290.ts
+#EXTINF:-1,US:Travel Channel HD
+http://ivue.co:5999/live/shane1/shane1/2288.ts
+#EXTINF:-1,US:USA Network
+http://ivue.co:5999/live/shane1/shane1/2280.ts
+#EXTINF:-1,US:WGN News Chicago
+http://ivue.co:5999/live/shane1/shane1/2277.ts
+#EXTINF:-1,US:HBO
+http://ivue.co:5999/live/shane1/shane1/2342.ts
+#EXTINF:-1,US:HBO Comedy
+http://ivue.co:5999/live/shane1/shane1/2341.ts
+#EXTINF:-1,US:HBO Family
+http://ivue.co:5999/live/shane1/shane1/2340.ts
+#EXTINF:-1,US:HBO SIGNATURE
+http://ivue.co:5999/live/shane1/shane1/2339.ts
+#EXTINF:-1,US:HBO ZONE
+http://ivue.co:5999/live/shane1/shane1/2338.ts
+#EXTINF:-1,------:France-Divertisse:------
+http://ivue.co:5999/live/shane1/shane1/346.ts
+#EXTINF:-1,FR:HD:13EME RUE HD
+http://ivue.co:5999/live/shane1/shane1/360.ts
+#EXTINF:-1,FR:HD:6ter
+http://ivue.co:5999/live/shane1/shane1/286.ts
+#EXTINF:-1,FR:HD:AB1 HD
+http://ivue.co:5999/live/shane1/shane1/347.ts
+#EXTINF:-1,FR:HD:AB3
+http://ivue.co:5999/live/shane1/shane1/4504.ts
+#EXTINF:-1,FR:HD:ACTION HD
+http://ivue.co:5999/live/shane1/shane1/359.ts
+#EXTINF:-1,FR:HD:Animaux
+http://ivue.co:5999/live/shane1/shane1/395.ts
+#EXTINF:-1,FR:HD:Arte
+http://ivue.co:5999/live/shane1/shane1/366.ts
+#EXTINF:-1,FR:HD:bfm
+http://ivue.co:5999/live/shane1/shane1/292.ts
+#EXTINF:-1,FR:HD:BFM Business
+http://ivue.co:5999/live/shane1/shane1/291.ts
+#EXTINF:-1,FR:HD:Boing
+http://ivue.co:5999/live/shane1/shane1/4505.ts
+#EXTINF:-1,FR:HD:Boomerang
+http://ivue.co:5999/live/shane1/shane1/412.ts
+#EXTINF:-1,FR:HD:C News
+http://ivue.co:5999/live/shane1/shane1/4506.ts
+#EXTINF:-1,FR:HD:C8
+http://ivue.co:5999/live/shane1/shane1/283.ts
+#EXTINF:-1,FR:HD:CANAL
+http://ivue.co:5999/live/shane1/shane1/318.ts
+#EXTINF:-1,FR:HD:CANAL  DECALE
+http://ivue.co:5999/live/shane1/shane1/335.ts
+#EXTINF:-1,FR:HD:Canal  family
+http://ivue.co:5999/live/shane1/shane1/326.ts
+#EXTINF:-1,FR:HD:CANAL  SERIE
+http://ivue.co:5999/live/shane1/shane1/322.ts
+#EXTINF:-1,FR:HD:Canal cinema
+http://ivue.co:5999/live/shane1/shane1/324.ts
+#EXTINF:-1,FR:HD:Canal J
+http://ivue.co:5999/live/shane1/shane1/413.ts
+#EXTINF:-1,FR:HD:CARTOON NETWORK
+http://ivue.co:5999/live/shane1/shane1/411.ts
+#EXTINF:-1,FR:HD:Chasse et Pêche
+http://ivue.co:5999/live/shane1/shane1/393.ts
+#EXTINF:-1,FR:HD:Cherie 25
+http://ivue.co:5999/live/shane1/shane1/363.ts
+#EXTINF:-1,FR:HD:CINE  CLASSIC
+http://ivue.co:5999/live/shane1/shane1/332.ts
+#EXTINF:-1,FR:HD:CINE  EMOTION
+http://ivue.co:5999/live/shane1/shane1/329.ts
+#EXTINF:-1,FR:HD:CINE  FRISSON HD
+http://ivue.co:5999/live/shane1/shane1/334.ts
+#EXTINF:-1,FR:HD:Ciné cinéma Famiz
+http://ivue.co:5999/live/shane1/shane1/333.ts
+#EXTINF:-1,FR:HD:CINÉ FX
+http://ivue.co:5999/live/shane1/shane1/331.ts
+#EXTINF:-1,FR:HD:CINÉ POLAR
+http://ivue.co:5999/live/shane1/shane1/330.ts
+#EXTINF:-1,FR:HD:cine premier
+http://ivue.co:5999/live/shane1/shane1/328.ts
+#EXTINF:-1,FR:HD:COMEDIE
+http://ivue.co:5999/live/shane1/shane1/364.ts
+#EXTINF:-1,FR:HD:CRIME DISTRICT
+http://ivue.co:5999/live/shane1/shane1/4520.ts
+#EXTINF:-1,FR:HD:CSTAR
+http://ivue.co:5999/live/shane1/shane1/4507.ts
+#EXTINF:-1,FR:HD:Discovery HD
+http://ivue.co:5999/live/shane1/shane1/383.ts
+#EXTINF:-1,FR:HD:Discovery Science
+http://ivue.co:5999/live/shane1/shane1/384.ts
+#EXTINF:-1,FR:HD:DISNEY CHANNEL
+http://ivue.co:5999/live/shane1/shane1/408.ts
+#EXTINF:-1,FR:HD:DISNEY CINEMA
+http://ivue.co:5999/live/shane1/shane1/409.ts
+#EXTINF:-1,FR:HD:Disney Junior
+http://ivue.co:5999/live/shane1/shane1/407.ts
+#EXTINF:-1,FR:HD:DISNEY XD
+http://ivue.co:5999/live/shane1/shane1/4513.ts
+#EXTINF:-1,FR:HD:E! HD
+http://ivue.co:5999/live/shane1/shane1/354.ts
+#EXTINF:-1,FR:HD:ELLE GIRL
+http://ivue.co:5999/live/shane1/shane1/4521.ts
+#EXTINF:-1,FR:HD:EQUIDIA LIFE
+http://ivue.co:5999/live/shane1/shane1/4508.ts
+#EXTINF:-1,FR:HD:Euronews
+http://ivue.co:5999/live/shane1/shane1/293.ts
+#EXTINF:-1,FR:HD:EXTREME SPORTS
+http://ivue.co:5999/live/shane1/shane1/4515.ts
+#EXTINF:-1,FR:HD:France 2
+http://ivue.co:5999/live/shane1/shane1/273.ts
+#EXTINF:-1,FR:HD:France 3
+http://ivue.co:5999/live/shane1/shane1/275.ts
+#EXTINF:-1,FR:HD:France 4
+http://ivue.co:5999/live/shane1/shane1/276.ts
+#EXTINF:-1,FR:HD:France 5
+http://ivue.co:5999/live/shane1/shane1/277.ts
+#EXTINF:-1,FR:HD:France INFO
+http://ivue.co:5999/live/shane1/shane1/4026.ts
+#EXTINF:-1,FR:HD:France O
+http://ivue.co:5999/live/shane1/shane1/278.ts
+#EXTINF:-1,FR:HD:France24
+http://ivue.co:5999/live/shane1/shane1/294.ts
+#EXTINF:-1,FR:HD:GameOne
+http://ivue.co:5999/live/shane1/shane1/401.ts
+#EXTINF:-1,FR:HD:GOLF CHANNEL
+http://ivue.co:5999/live/shane1/shane1/4511.ts
+#EXTINF:-1,FR:HD:Gulli
+http://ivue.co:5999/live/shane1/shane1/404.ts
+#EXTINF:-1,FR:HD:HD 1
+http://ivue.co:5999/live/shane1/shane1/348.ts
+#EXTINF:-1,FR:HD:HISTOIRE
+http://ivue.co:5999/live/shane1/shane1/4509.ts
+#EXTINF:-1,FR:HD:I-tele
+http://ivue.co:5999/live/shane1/shane1/290.ts
+#EXTINF:-1,FR:HD:LCI
+http://ivue.co:5999/live/shane1/shane1/4025.ts
+#EXTINF:-1,FR:HD:M6
+http://ivue.co:5999/live/shane1/shane1/280.ts
+#EXTINF:-1,FR:HD:M6 MUSIC
+http://ivue.co:5999/live/shane1/shane1/375.ts
+#EXTINF:-1,FR:HD:MANGAS
+http://ivue.co:5999/live/shane1/shane1/405.ts
+#EXTINF:-1,FR:HD:MCM
+http://ivue.co:5999/live/shane1/shane1/4516.ts
+#EXTINF:-1,FR:HD:MCM TOP
+http://ivue.co:5999/live/shane1/shane1/4517.ts
+#EXTINF:-1,FR:HD:MEZZO
+http://ivue.co:5999/live/shane1/shane1/4522.ts
+#EXTINF:-1,FR:HD:MEZZO LIVE
+http://ivue.co:5999/live/shane1/shane1/4523.ts
+#EXTINF:-1,FR:HD:MOTORSPORT TV
+http://ivue.co:5999/live/shane1/shane1/4514.ts
+#EXTINF:-1,FR:HD:MTV
+http://ivue.co:5999/live/shane1/shane1/372.ts
+#EXTINF:-1,FR:HD:NAT GEO WILD HD
+http://ivue.co:5999/live/shane1/shane1/390.ts
+#EXTINF:-1,FR:HD:National Geo HD
+http://ivue.co:5999/live/shane1/shane1/392.ts
+#EXTINF:-1,FR:HD:NICKELODEON
+http://ivue.co:5999/live/shane1/shane1/403.ts
+#EXTINF:-1,FR:HD:NICKELODEON JUNIOR
+http://ivue.co:5999/live/shane1/shane1/4512.ts
+#EXTINF:-1,FR:HD:NRJ12
+http://ivue.co:5999/live/shane1/shane1/374.ts
+#EXTINF:-1,FR:HD:nt1
+http://ivue.co:5999/live/shane1/shane1/352.ts
+#EXTINF:-1,FR:HD:Numero 23
+http://ivue.co:5999/live/shane1/shane1/357.ts
+#EXTINF:-1,FR:HD:OCS CHOC
+http://ivue.co:5999/live/shane1/shane1/339.ts
+#EXTINF:-1,FR:HD:OCS CITY
+http://ivue.co:5999/live/shane1/shane1/340.ts
+#EXTINF:-1,FR:HD:OCS GEANTS
+http://ivue.co:5999/live/shane1/shane1/338.ts
+#EXTINF:-1,FR:HD:OCS MAX
+http://ivue.co:5999/live/shane1/shane1/337.ts
+#EXTINF:-1,FR:HD:Paramount Channel
+http://ivue.co:5999/live/shane1/shane1/362.ts
+#EXTINF:-1,FR:HD:PARIS PREMIERE
+http://ivue.co:5999/live/shane1/shane1/361.ts
+#EXTINF:-1,FR:HD:PIWI+
+http://ivue.co:5999/live/shane1/shane1/410.ts
+#EXTINF:-1,FR:HD:PLANETE
+http://ivue.co:5999/live/shane1/shane1/377.ts
+#EXTINF:-1,FR:HD:PLANETE A&E
+http://ivue.co:5999/live/shane1/shane1/380.ts
+#EXTINF:-1,FR:HD:Planete ci HD
+http://ivue.co:5999/live/shane1/shane1/379.ts
+#EXTINF:-1,FR:HD:RFM TV
+http://ivue.co:5999/live/shane1/shane1/4519.ts
+#EXTINF:-1,FR:HD:RMC Decouverte HD
+http://ivue.co:5999/live/shane1/shane1/397.ts
+#EXTINF:-1,FR:HD:Rtl9
+http://ivue.co:5999/live/shane1/shane1/355.ts
+#EXTINF:-1,FR:HD:RTS Deux
+http://ivue.co:5999/live/shane1/shane1/288.ts
+#EXTINF:-1,FR:HD:RTS Un
+http://ivue.co:5999/live/shane1/shane1/287.ts
+#EXTINF:-1,FR:HD:Science et Vie
+http://ivue.co:5999/live/shane1/shane1/389.ts
+#EXTINF:-1,FR:HD:SEASON HD
+http://ivue.co:5999/live/shane1/shane1/387.ts
+#EXTINF:-1,FR:HD:serie club
+http://ivue.co:5999/live/shane1/shane1/320.ts
+#EXTINF:-1,FR:HD:SFR SPORT 5
+http://ivue.co:5999/live/shane1/shane1/4510.ts
+#EXTINF:-1,FR:HD:Syfy HD
+http://ivue.co:5999/live/shane1/shane1/358.ts
+#EXTINF:-1,FR:HD:TCM Cinema
+http://ivue.co:5999/live/shane1/shane1/336.ts
+#EXTINF:-1,FR:HD:TéléTOON
+http://ivue.co:5999/live/shane1/shane1/406.ts
+#EXTINF:-1,FR:HD:Teva
+http://ivue.co:5999/live/shane1/shane1/353.ts
+#EXTINF:-1,FR:HD:Tf1
+http://ivue.co:5999/live/shane1/shane1/271.ts
+#EXTINF:-1,FR:HD:Tiji
+http://ivue.co:5999/live/shane1/shane1/414.ts
+#EXTINF:-1,FR:HD:tmc
+http://ivue.co:5999/live/shane1/shane1/350.ts
+#EXTINF:-1,FR:HD:toute l'histoire
+http://ivue.co:5999/live/shane1/shane1/398.ts
+#EXTINF:-1,FR:HD:TRACE URBAN
+http://ivue.co:5999/live/shane1/shane1/4524.ts
+#EXTINF:-1,FR:HD:TREK HD
+http://ivue.co:5999/live/shane1/shane1/386.ts
+#EXTINF:-1,FR:HD:TV BREIZH
+http://ivue.co:5999/live/shane1/shane1/356.ts
+#EXTINF:-1,FR:HD:TV5_MONDE
+http://ivue.co:5999/live/shane1/shane1/3647.ts
+#EXTINF:-1,FR:HD:USHUAIA TV
+http://ivue.co:5999/live/shane1/shane1/396.ts
+#EXTINF:-1,FR:HD:Virgin
+http://ivue.co:5999/live/shane1/shane1/373.ts
+#EXTINF:-1,FR:HD:VIVOLTA
+http://ivue.co:5999/live/shane1/shane1/4518.ts
+#EXTINF:-1,FR:HD:VOYAGE HD
+http://ivue.co:5999/live/shane1/shane1/381.ts
+#EXTINF:-1,FR:HD:W9
+http://ivue.co:5999/live/shane1/shane1/282.ts
+#EXTINF:-1,FR:HD:Wéo HD
+http://ivue.co:5999/live/shane1/shane1/368.ts
+#EXTINF:-1,FR:HD:Zouzous
+http://ivue.co:5999/live/shane1/shane1/400.ts
+#EXTINF:-1,FR:OCS ACTION
+http://ivue.co:5999/live/shane1/shane1/343.ts
+#EXTINF:-1,FR:OCS AVENTURE
+http://ivue.co:5999/live/shane1/shane1/342.ts
+#EXTINF:-1,FR:OCS DOCUMENTAIRE
+http://ivue.co:5999/live/shane1/shane1/345.ts
+#EXTINF:-1,FR:OCS GO COMEDIE
+http://ivue.co:5999/live/shane1/shane1/344.ts
+#EXTINF:-1,FR:OCS HORREUR
+http://ivue.co:5999/live/shane1/shane1/341.ts
+#EXTINF:-1,FR:SD:13EME RUE
+http://ivue.co:5999/live/shane1/shane1/4607.ts
+#EXTINF:-1,FR:SD:6ter
+http://ivue.co:5999/live/shane1/shane1/4674.ts
+#EXTINF:-1,FR:SD:AB1
+http://ivue.co:5999/live/shane1/shane1/4618.ts
+#EXTINF:-1,FR:SD:AB3
+http://ivue.co:5999/live/shane1/shane1/4617.ts
+#EXTINF:-1,FR:SD:ACTION
+http://ivue.co:5999/live/shane1/shane1/4608.ts
+#EXTINF:-1,FR:SD:Animaux
+http://ivue.co:5999/live/shane1/shane1/4576.ts
+#EXTINF:-1,FR:SD:Arte
+http://ivue.co:5999/live/shane1/shane1/4603.ts
+#EXTINF:-1,FR:SD:BeIN Sports MAX 10
+http://ivue.co:5999/live/shane1/shane1/4697.ts
+#EXTINF:-1,FR:SD:BeIN Sports MAX 4
+http://ivue.co:5999/live/shane1/shane1/4658.ts
+#EXTINF:-1,FR:SD:BeIN Sports MAX 5
+http://ivue.co:5999/live/shane1/shane1/4657.ts
+#EXTINF:-1,FR:SD:BeIN Sports MAX 6
+http://ivue.co:5999/live/shane1/shane1/4656.ts
+#EXTINF:-1,FR:SD:BeIN Sports MAX 7
+http://ivue.co:5999/live/shane1/shane1/4655.ts
+#EXTINF:-1,FR:SD:BeIN Sports MAX 8
+http://ivue.co:5999/live/shane1/shane1/4695.ts
+#EXTINF:-1,FR:SD:BeIN Sports MAX 9
+http://ivue.co:5999/live/shane1/shane1/4696.ts
+#EXTINF:-1,FR:SD:beINSport1
+http://ivue.co:5999/live/shane1/shane1/4661.ts
+#EXTINF:-1,FR:SD:beINSport2
+http://ivue.co:5999/live/shane1/shane1/4660.ts
+#EXTINF:-1,FR:SD:beINSport3
+http://ivue.co:5999/live/shane1/shane1/4659.ts
+#EXTINF:-1,FR:SD:bfm
+http://ivue.co:5999/live/shane1/shane1/4668.ts
+#EXTINF:-1,FR:SD:BFM Business
+http://ivue.co:5999/live/shane1/shane1/4669.ts
+#EXTINF:-1,FR:SD:Boing
+http://ivue.co:5999/live/shane1/shane1/4557.ts
+#EXTINF:-1,FR:SD:Boomerang
+http://ivue.co:5999/live/shane1/shane1/4558.ts
+#EXTINF:-1,FR:SD:C News
+http://ivue.co:5999/live/shane1/shane1/4662.ts
+#EXTINF:-1,FR:SD:C8
+http://ivue.co:5999/live/shane1/shane1/4676.ts
+#EXTINF:-1,FR:SD:CANAL
+http://ivue.co:5999/live/shane1/shane1/4638.ts
+#EXTINF:-1,FR:SD:Canal cinema
+http://ivue.co:5999/live/shane1/shane1/4635.ts
+#EXTINF:-1,FR:SD:CANAL DECALE
+http://ivue.co:5999/live/shane1/shane1/4626.ts
+#EXTINF:-1,FR:SD:Canal family
+http://ivue.co:5999/live/shane1/shane1/4634.ts
+#EXTINF:-1,FR:SD:Canal J
+http://ivue.co:5999/live/shane1/shane1/4556.ts
+#EXTINF:-1,FR:SD:CANAL SERIE
+http://ivue.co:5999/live/shane1/shane1/4636.ts
+#EXTINF:-1,FR:SD:CANAL SPORT
+http://ivue.co:5999/live/shane1/shane1/4654.ts
+#EXTINF:-1,FR:SD:CARTOON NETWORK
+http://ivue.co:5999/live/shane1/shane1/4559.ts
+#EXTINF:-1,FR:SD:Chasse et Pêche
+http://ivue.co:5999/live/shane1/shane1/4577.ts
+#EXTINF:-1,FR:SD:Cherie 25
+http://ivue.co:5999/live/shane1/shane1/4605.ts
+#EXTINF:-1,FR:SD:Ciné cinéma Famiz
+http://ivue.co:5999/live/shane1/shane1/4628.ts
+#EXTINF:-1,FR:SD:CINE CLASSIC
+http://ivue.co:5999/live/shane1/shane1/4629.ts
+#EXTINF:-1,FR:SD:CINE EMOTION
+http://ivue.co:5999/live/shane1/shane1/4632.ts
+#EXTINF:-1,FR:SD:CINE FRISSON
+http://ivue.co:5999/live/shane1/shane1/4627.ts
+#EXTINF:-1,FR:SD:CINÉ FX
+http://ivue.co:5999/live/shane1/shane1/4630.ts
+#EXTINF:-1,FR:SD:CINÉ POLAR
+http://ivue.co:5999/live/shane1/shane1/4631.ts
+#EXTINF:-1,FR:SD:cine premier
+http://ivue.co:5999/live/shane1/shane1/4633.ts
+#EXTINF:-1,FR:SD:COMEDIE
+http://ivue.co:5999/live/shane1/shane1/4604.ts
+#EXTINF:-1,FR:SD:CSTAR
+http://ivue.co:5999/live/shane1/shane1/4600.ts
+#EXTINF:-1,FR:SD:DISCOVERY
+http://ivue.co:5999/live/shane1/shane1/4583.ts
+#EXTINF:-1,FR:SD:Discovery Science
+http://ivue.co:5999/live/shane1/shane1/4582.ts
+#EXTINF:-1,FR:SD:DISNEY CHANNEL
+http://ivue.co:5999/live/shane1/shane1/4563.ts
+#EXTINF:-1,FR:SD:DISNEY CINEMA
+http://ivue.co:5999/live/shane1/shane1/4562.ts
+#EXTINF:-1,FR:SD:Disney Junior
+http://ivue.co:5999/live/shane1/shane1/4564.ts
+#EXTINF:-1,FR:SD:DISNEY XD
+http://ivue.co:5999/live/shane1/shane1/4561.ts
+#EXTINF:-1,FR:SD:E! HD
+http://ivue.co:5999/live/shane1/shane1/4612.ts
+#EXTINF:-1,FR:SD:ELLE GIRL
+http://ivue.co:5999/live/shane1/shane1/4599.ts
+#EXTINF:-1,FR:SD:EQUIDIA LIFE
+http://ivue.co:5999/live/shane1/shane1/4639.ts
+#EXTINF:-1,FR:SD:Equidia Live
+http://ivue.co:5999/live/shane1/shane1/4640.ts
+#EXTINF:-1,FR:SD:Euronews
+http://ivue.co:5999/live/shane1/shane1/4667.ts
+#EXTINF:-1,FR:SD:Eurosport
+http://ivue.co:5999/live/shane1/shane1/4643.ts
+#EXTINF:-1,FR:SD:Eurosport 2
+http://ivue.co:5999/live/shane1/shane1/4642.ts
+#EXTINF:-1,FR:SD:EXTREME SPORTS
+http://ivue.co:5999/live/shane1/shane1/4648.ts
+#EXTINF:-1,FR:SD:Foot  24/24
+http://ivue.co:5999/live/shane1/shane1/4649.ts
+#EXTINF:-1,FR:SD:France 2
+http://ivue.co:5999/live/shane1/shane1/4683.ts
+#EXTINF:-1,FR:SD:France 3
+http://ivue.co:5999/live/shane1/shane1/4682.ts
+#EXTINF:-1,FR:SD:France 4
+http://ivue.co:5999/live/shane1/shane1/4681.ts
+#EXTINF:-1,FR:SD:France 5
+http://ivue.co:5999/live/shane1/shane1/4680.ts
+#EXTINF:-1,FR:SD:France INFO
+http://ivue.co:5999/live/shane1/shane1/4664.ts
+#EXTINF:-1,FR:SD:France O
+http://ivue.co:5999/live/shane1/shane1/4679.ts
+#EXTINF:-1,FR:SD:France24
+http://ivue.co:5999/live/shane1/shane1/4666.ts
+#EXTINF:-1,FR:SD:GameOne
+http://ivue.co:5999/live/shane1/shane1/4567.ts
+#EXTINF:-1,FR:SD:GOLF CHANNEL
+http://ivue.co:5999/live/shane1/shane1/4645.ts
+#EXTINF:-1,FR:SD:GOLF HD
+http://ivue.co:5999/live/shane1/shane1/4646.ts
+#EXTINF:-1,FR:SD:Gulli
+http://ivue.co:5999/live/shane1/shane1/4568.ts
+#EXTINF:-1,FR:SD:HD 1
+http://ivue.co:5999/live/shane1/shane1/4616.ts
+#EXTINF:-1,FR:SD:HISTOIRE
+http://ivue.co:5999/live/shane1/shane1/4572.ts
+#EXTINF:-1,FR:SD:I-tele
+http://ivue.co:5999/live/shane1/shane1/4670.ts
+#EXTINF:-1,FR:SD:INFOSPORT
+http://ivue.co:5999/live/shane1/shane1/4644.ts
+#EXTINF:-1,FR:SD:L EQUIPE 21
+http://ivue.co:5999/live/shane1/shane1/4641.ts
+#EXTINF:-1,FR:SD:LCI
+http://ivue.co:5999/live/shane1/shane1/4665.ts
+#EXTINF:-1,FR:SD:M6
+http://ivue.co:5999/live/shane1/shane1/4678.ts
+#EXTINF:-1,FR:SD:M6 MUSIC
+http://ivue.co:5999/live/shane1/shane1/4592.ts
+#EXTINF:-1,FR:SD:MANGAS
+http://ivue.co:5999/live/shane1/shane1/4566.ts
+#EXTINF:-1,FR:SD:MCM
+http://ivue.co:5999/live/shane1/shane1/4591.ts
+#EXTINF:-1,FR:SD:MCM TOP
+http://ivue.co:5999/live/shane1/shane1/4590.ts
+#EXTINF:-1,FR:SD:MEZZO
+http://ivue.co:5999/live/shane1/shane1/4589.ts
+#EXTINF:-1,FR:SD:MEZZO LIVE
+http://ivue.co:5999/live/shane1/shane1/4588.ts
+#EXTINF:-1,FR:SD:MOTORSPORT TV
+http://ivue.co:5999/live/shane1/shane1/4647.ts
+#EXTINF:-1,FR:SD:MTV
+http://ivue.co:5999/live/shane1/shane1/4595.ts
+#EXTINF:-1,FR:SD:NAT GEO WILD
+http://ivue.co:5999/live/shane1/shane1/4579.ts
+#EXTINF:-1,FR:SD:NATIONAL GEOGRAPHIC
+http://ivue.co:5999/live/shane1/shane1/4578.ts
+#EXTINF:-1,FR:SD:NICKELODEON
+http://ivue.co:5999/live/shane1/shane1/4570.ts
+#EXTINF:-1,FR:SD:NICKELODEON JUNIOR
+http://ivue.co:5999/live/shane1/shane1/4569.ts
+#EXTINF:-1,FR:SD:NRJ12
+http://ivue.co:5999/live/shane1/shane1/4593.ts
+#EXTINF:-1,FR:SD:nt1
+http://ivue.co:5999/live/shane1/shane1/4614.ts
+#EXTINF:-1,FR:SD:Numero 23
+http://ivue.co:5999/live/shane1/shane1/4610.ts
+#EXTINF:-1,FR:SD:OCS CHOC
+http://ivue.co:5999/live/shane1/shane1/4620.ts
+#EXTINF:-1,FR:SD:OCS CITY
+http://ivue.co:5999/live/shane1/shane1/4619.ts
+#EXTINF:-1,FR:SD:OCS GEANTS
+http://ivue.co:5999/live/shane1/shane1/4621.ts
+#EXTINF:-1,FR:SD:OCS MAX
+http://ivue.co:5999/live/shane1/shane1/4622.ts
+#EXTINF:-1,FR:SD:Paramount Channel
+http://ivue.co:5999/live/shane1/shane1/4623.ts
+#EXTINF:-1,FR:SD:PARIS PREMIERE
+http://ivue.co:5999/live/shane1/shane1/4606.ts
+#EXTINF:-1,FR:SD:PIWI
+http://ivue.co:5999/live/shane1/shane1/4560.ts
+#EXTINF:-1,FR:SD:PLANETE
+http://ivue.co:5999/live/shane1/shane1/4587.ts
+#EXTINF:-1,FR:SD:PLANETE A&E
+http://ivue.co:5999/live/shane1/shane1/4585.ts
+#EXTINF:-1,FR:SD:Planete ci
+http://ivue.co:5999/live/shane1/shane1/4586.ts
+#EXTINF:-1,FR:SD:RFM TV
+http://ivue.co:5999/live/shane1/shane1/4598.ts
+#EXTINF:-1,FR:SD:RMC Decouverte
+http://ivue.co:5999/live/shane1/shane1/4574.ts
+#EXTINF:-1,FR:SD:Rtl9
+http://ivue.co:5999/live/shane1/shane1/4624.ts
+#EXTINF:-1,FR:SD:RTS Deux
+http://ivue.co:5999/live/shane1/shane1/4672.ts
+#EXTINF:-1,FR:SD:RTS Un
+http://ivue.co:5999/live/shane1/shane1/4673.ts
+#EXTINF:-1,FR:SD:Science et Vie
+http://ivue.co:5999/live/shane1/shane1/4580.ts
+#EXTINF:-1,FR:SD:SEASON
+http://ivue.co:5999/live/shane1/shane1/4581.ts
+#EXTINF:-1,FR:SD:serie club
+http://ivue.co:5999/live/shane1/shane1/4637.ts
+#EXTINF:-1,FR:SD:Sfr Sport 1
+http://ivue.co:5999/live/shane1/shane1/4653.ts
+#EXTINF:-1,FR:SD:Sfr Sport 2
+http://ivue.co:5999/live/shane1/shane1/4652.ts
+#EXTINF:-1,FR:SD:Sfr Sport 3
+http://ivue.co:5999/live/shane1/shane1/4651.ts
+#EXTINF:-1,FR:SD:SFR SPORT 5
+http://ivue.co:5999/live/shane1/shane1/4650.ts
+#EXTINF:-1,FR:SD:Syfy
+http://ivue.co:5999/live/shane1/shane1/4609.ts
+#EXTINF:-1,FR:SD:TCM Cinema
+http://ivue.co:5999/live/shane1/shane1/4625.ts
+#EXTINF:-1,FR:SD:TéléTOON
+http://ivue.co:5999/live/shane1/shane1/4565.ts
+#EXTINF:-1,FR:SD:Teva
+http://ivue.co:5999/live/shane1/shane1/4613.ts
+#EXTINF:-1,FR:SD:Tf1
+http://ivue.co:5999/live/shane1/shane1/4684.ts
+#EXTINF:-1,FR:SD:Tiji
+http://ivue.co:5999/live/shane1/shane1/4555.ts
+#EXTINF:-1,FR:SD:tmc
+http://ivue.co:5999/live/shane1/shane1/4615.ts
+#EXTINF:-1,FR:SD:toute l'histoire
+http://ivue.co:5999/live/shane1/shane1/4573.ts
+#EXTINF:-1,FR:SD:TRACE URBAN
+http://ivue.co:5999/live/shane1/shane1/4597.ts
+#EXTINF:-1,FR:SD:TREK
+http://ivue.co:5999/live/shane1/shane1/4601.ts
+#EXTINF:-1,FR:SD:TV BREIZH
+http://ivue.co:5999/live/shane1/shane1/4611.ts
+#EXTINF:-1,FR:SD:TV5_MONDE
+http://ivue.co:5999/live/shane1/shane1/4671.ts
+#EXTINF:-1,FR:SD:USHUAIA TV
+http://ivue.co:5999/live/shane1/shane1/4575.ts
+#EXTINF:-1,FR:SD:Virgin
+http://ivue.co:5999/live/shane1/shane1/4594.ts
+#EXTINF:-1,FR:SD:VIVOLTA
+http://ivue.co:5999/live/shane1/shane1/4596.ts
+#EXTINF:-1,FR:SD:VOYAGE
+http://ivue.co:5999/live/shane1/shane1/4584.ts
+#EXTINF:-1,FR:SD:W9
+http://ivue.co:5999/live/shane1/shane1/4677.ts
+#EXTINF:-1,FR:SD:Wéo
+http://ivue.co:5999/live/shane1/shane1/4602.ts
+#EXTINF:-1,FR:SD:Zouzous
+http://ivue.co:5999/live/shane1/shane1/4571.ts
+#EXTINF:-1,-----:SPANISH-CHANNELS:-----
+http://ivue.co:5999/live/shane1/shane1/2739.ts
+#EXTINF:-1,ES:La 1 HD
+http://ivue.co:5999/live/shane1/shane1/447.ts
+#EXTINF:-1,ES:LA 1
+http://ivue.co:5999/live/shane1/shane1/448.ts
+#EXTINF:-1,ES:LA 2
+http://ivue.co:5999/live/shane1/shane1/449.ts
+#EXTINF:-1,ES:ANTENA 3
+http://ivue.co:5999/live/shane1/shane1/450.ts
+#EXTINF:-1,ES:Cuatro
+http://ivue.co:5999/live/shane1/shane1/452.ts
+#EXTINF:-1,ES:TELECINCO
+http://ivue.co:5999/live/shane1/shane1/453.ts
+#EXTINF:-1,ES:LA SEXTA HD
+http://ivue.co:5999/live/shane1/shane1/454.ts
+#EXTINF:-1,ES:la sexta
+http://ivue.co:5999/live/shane1/shane1/455.ts
+#EXTINF:-1,ES:FDF
+http://ivue.co:5999/live/shane1/shane1/456.ts
+#EXTINF:-1,ES:Neox
+http://ivue.co:5999/live/shane1/shane1/458.ts
+#EXTINF:-1,ES:Nova
+http://ivue.co:5999/live/shane1/shane1/459.ts
+#EXTINF:-1,ES:ENERGY
+http://ivue.co:5999/live/shane1/shane1/460.ts
+#EXTINF:-1,ES:DIVINITY
+http://ivue.co:5999/live/shane1/shane1/461.ts
+#EXTINF:-1,ES:MTV
+http://ivue.co:5999/live/shane1/shane1/462.ts
+#EXTINF:-1,ES:Clan TVE
+http://ivue.co:5999/live/shane1/shane1/463.ts
+#EXTINF:-1,ES:Mega
+http://ivue.co:5999/live/shane1/shane1/464.ts
+#EXTINF:-1,ES:24 horas
+http://ivue.co:5999/live/shane1/shane1/472.ts
+#EXTINF:-1,ES:13 TV
+http://ivue.co:5999/live/shane1/shane1/475.ts
+#EXTINF:-1,ES:#0 HD
+http://ivue.co:5999/live/shane1/shane1/495.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS
+http://ivue.co:5999/live/shane1/shane1/497.ts
+#EXTINF:-1,ES:MOVISTAR DCINE
+http://ivue.co:5999/live/shane1/shane1/498.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA
+http://ivue.co:5999/live/shane1/shane1/499.ts
+#EXTINF:-1,ES:MOVISTAR ACCION
+http://ivue.co:5999/live/shane1/shane1/500.ts
+#EXTINF:-1,ES:MOVISTAR SERIES HD
+http://ivue.co:5999/live/shane1/shane1/501.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA
+http://ivue.co:5999/live/shane1/shane1/502.ts
+#EXTINF:-1,ES:Hollywood
+http://ivue.co:5999/live/shane1/shane1/503.ts
+#EXTINF:-1,ES:MOVISTAR XTRA
+http://ivue.co:5999/live/shane1/shane1/504.ts
+#EXTINF:-1,ES:Fox
+http://ivue.co:5999/live/shane1/shane1/505.ts
+#EXTINF:-1,ES:FOX LIFE HD
+http://ivue.co:5999/live/shane1/shane1/506.ts
+#EXTINF:-1,ES:Cosmo HD
+http://ivue.co:5999/live/shane1/shane1/507.ts
+#EXTINF:-1,ES:TNT
+http://ivue.co:5999/live/shane1/shane1/508.ts
+#EXTINF:-1,ES:AMC
+http://ivue.co:5999/live/shane1/shane1/509.ts
+#EXTINF:-1,ES:SYFY HD
+http://ivue.co:5999/live/shane1/shane1/510.ts
+#EXTINF:-1,ES:Calle 13
+http://ivue.co:5999/live/shane1/shane1/511.ts
+#EXTINF:-1,ES:AXN WHITE HD
+http://ivue.co:5999/live/shane1/shane1/512.ts
+#EXTINF:-1,ES:AXN HD
+http://ivue.co:5999/live/shane1/shane1/513.ts
+#EXTINF:-1,ES:TCM HD
+http://ivue.co:5999/live/shane1/shane1/514.ts
+#EXTINF:-1,ES:Comedy Central HD
+http://ivue.co:5999/live/shane1/shane1/515.ts
+#EXTINF:-1,ES:VIAJAR HD
+http://ivue.co:5999/live/shane1/shane1/517.ts
+#EXTINF:-1,ES:Viajar
+http://ivue.co:5999/live/shane1/shane1/518.ts
+#EXTINF:-1,ES:HISTORIA
+http://ivue.co:5999/live/shane1/shane1/519.ts
+#EXTINF:-1,ES:Nat Geographic
+http://ivue.co:5999/live/shane1/shane1/521.ts
+#EXTINF:-1,ES:NAT GEO WILD HD
+http://ivue.co:5999/live/shane1/shane1/522.ts
+#EXTINF:-1,ES:CAZA Y PESCA
+http://ivue.co:5999/live/shane1/shane1/523.ts
+#EXTINF:-1,ES:Canal Cocina
+http://ivue.co:5999/live/shane1/shane1/525.ts
+#EXTINF:-1,ES:Disney Xd
+http://ivue.co:5999/live/shane1/shane1/527.ts
+#EXTINF:-1,ES:Disney Channel
+http://ivue.co:5999/live/shane1/shane1/528.ts
+#EXTINF:-1,ES:DISNEY JR
+http://ivue.co:5999/live/shane1/shane1/529.ts
+#EXTINF:-1,ES:Taquilla 1
+http://ivue.co:5999/live/shane1/shane1/531.ts
+#EXTINF:-1,ES:Taquilla 2
+http://ivue.co:5999/live/shane1/shane1/532.ts
+#EXTINF:-1,ES:Taquilla 3
+http://ivue.co:5999/live/shane1/shane1/533.ts
+#EXTINF:-1,ES:Taquilla 4
+http://ivue.co:5999/live/shane1/shane1/534.ts
+#EXTINF:-1,ES:Taquilla 5
+http://ivue.co:5999/live/shane1/shane1/535.ts
+#EXTINF:-1,ES:Taquilla 6
+http://ivue.co:5999/live/shane1/shane1/536.ts
+#EXTINF:-1,ES:Taquilla 7
+http://ivue.co:5999/live/shane1/shane1/537.ts
+#EXTINF:-1,ES:Taquilla 8
+http://ivue.co:5999/live/shane1/shane1/538.ts
+#EXTINF:-1,-----:DUTCH-CHANNELS:-----
+http://ivue.co:5999/live/shane1/shane1/2740.ts
+#EXTINF:-1,[VIP-NL]NPO 1
+http://ivue.co:5999/live/shane1/shane1/541.ts
+#EXTINF:-1,[VIP-NL]NPO 2
+http://ivue.co:5999/live/shane1/shane1/542.ts
+#EXTINF:-1,[VIP-NL]NPO 3
+http://ivue.co:5999/live/shane1/shane1/543.ts
+#EXTINF:-1,[VIP-NL]NET5
+http://ivue.co:5999/live/shane1/shane1/544.ts
+#EXTINF:-1,[VIP-NL]RTL4
+http://ivue.co:5999/live/shane1/shane1/545.ts
+#EXTINF:-1,[VIP-NL]RTL5
+http://ivue.co:5999/live/shane1/shane1/546.ts
+#EXTINF:-1,[VIP-NL]RTL7
+http://ivue.co:5999/live/shane1/shane1/547.ts
+#EXTINF:-1,[VIP-NL]RTL8
+http://ivue.co:5999/live/shane1/shane1/548.ts
+#EXTINF:-1,[VIP-NL]SBS_9
+http://ivue.co:5999/live/shane1/shane1/549.ts
+#EXTINF:-1,[VIP-NL]SBS 6
+http://ivue.co:5999/live/shane1/shane1/550.ts
+#EXTINF:-1,[VIP-NL]HBO1
+http://ivue.co:5999/live/shane1/shane1/558.ts
+#EXTINF:-1,[VIP-NL]HBO2
+http://ivue.co:5999/live/shane1/shane1/559.ts
+#EXTINF:-1,[VIP-NL]HBO3
+http://ivue.co:5999/live/shane1/shane1/560.ts
+#EXTINF:-1,[VIP-NL]Film1 Action
+http://ivue.co:5999/live/shane1/shane1/561.ts
+#EXTINF:-1,[VIP-NL]Film1 Spotlght
+http://ivue.co:5999/live/shane1/shane1/562.ts
+#EXTINF:-1,[VIP-NL]Film 1 Sundance
+http://ivue.co:5999/live/shane1/shane1/563.ts
+#EXTINF:-1,[VIP-NL]Film1 Premiere
+http://ivue.co:5999/live/shane1/shane1/564.ts
+#EXTINF:-1,[VIP-NL]Film1 Comedy Kids
+http://ivue.co:5999/live/shane1/shane1/565.ts
+#EXTINF:-1,[VIP-NL]Nat GeO WILD
+http://ivue.co:5999/live/shane1/shane1/566.ts
+#EXTINF:-1,[VIP-NL]Nat Geo
+http://ivue.co:5999/live/shane1/shane1/567.ts
+#EXTINF:-1,[VIP-NL]FOX
+http://ivue.co:5999/live/shane1/shane1/568.ts
+#EXTINF:-1,[VIP-NL]Comedy Central
+http://ivue.co:5999/live/shane1/shane1/569.ts
+#EXTINF:-1,[VIP-NL]Discovery Channel
+http://ivue.co:5999/live/shane1/shane1/570.ts
+#EXTINF:-1,[VIP-NL]NICKELODEON
+http://ivue.co:5999/live/shane1/shane1/571.ts
+#EXTINF:-1,[VIP-NL]Disney Channel
+http://ivue.co:5999/live/shane1/shane1/572.ts
+#EXTINF:-1,[VIP-NL]CarTooN Network
+http://ivue.co:5999/live/shane1/shane1/573.ts
+#EXTINF:-1,[VIP-NL]MTV
+http://ivue.co:5999/live/shane1/shane1/574.ts
+#EXTINF:-1,-----:GERMANY-CHANNELS:-----
+http://ivue.co:5999/live/shane1/shane1/2741.ts
+#EXTINF:-1,DE:Sky Select  HD 1
+http://ivue.co:5999/live/shane1/shane1/577.ts
+#EXTINF:-1,DE:Sky Select  HD 2
+http://ivue.co:5999/live/shane1/shane1/578.ts
+#EXTINF:-1,DE:Sky Select  HD 3
+http://ivue.co:5999/live/shane1/shane1/579.ts
+#EXTINF:-1,DE:Sky Select  HD 4
+http://ivue.co:5999/live/shane1/shane1/580.ts
+#EXTINF:-1,DE:Sky Select  HD 5
+http://ivue.co:5999/live/shane1/shane1/581.ts
+#EXTINF:-1,DE:Sky Select  HD 6
+http://ivue.co:5999/live/shane1/shane1/582.ts
+#EXTINF:-1,DE:Sky Select  HD 7
+http://ivue.co:5999/live/shane1/shane1/583.ts
+#EXTINF:-1,DE:Sky Select  HD 8
+http://ivue.co:5999/live/shane1/shane1/584.ts
+#EXTINF:-1,DE:Sky Select HD 9
+http://ivue.co:5999/live/shane1/shane1/585.ts
+#EXTINF:-1,DE:Sky Cinema HD
+http://ivue.co:5999/live/shane1/shane1/599.ts
+#EXTINF:-1,DE:Sky Cinema 24
+http://ivue.co:5999/live/shane1/shane1/600.ts
+#EXTINF:-1,DE:Sky Comedy
+http://ivue.co:5999/live/shane1/shane1/601.ts
+#EXTINF:-1,DE:Sky Nostalgie
+http://ivue.co:5999/live/shane1/shane1/602.ts
+#EXTINF:-1,DE:Sky Krimi
+http://ivue.co:5999/live/shane1/shane1/603.ts
+#EXTINF:-1,DE:Sky Atlantic
+http://ivue.co:5999/live/shane1/shane1/604.ts
+#EXTINF:-1,DE:Sky Action
+http://ivue.co:5999/live/shane1/shane1/605.ts
+#EXTINF:-1,DE:Sky Hits
+http://ivue.co:5999/live/shane1/shane1/606.ts
+#EXTINF:-1,DE:Sky Emotion
+http://ivue.co:5999/live/shane1/shane1/607.ts
+#EXTINF:-1,DE:Sky Kinowelt
+http://ivue.co:5999/live/shane1/shane1/608.ts
+#EXTINF:-1,DE:TNT Film
+http://ivue.co:5999/live/shane1/shane1/609.ts
+#EXTINF:-1,DE:TNT Comedy
+http://ivue.co:5999/live/shane1/shane1/610.ts
+#EXTINF:-1,DE:TNT SERIE
+http://ivue.co:5999/live/shane1/shane1/611.ts
+#EXTINF:-1,DE:13th Street HD
+http://ivue.co:5999/live/shane1/shane1/612.ts
+#EXTINF:-1,DE:Fox
+http://ivue.co:5999/live/shane1/shane1/613.ts
+#EXTINF:-1,DE:Fox Serie
+http://ivue.co:5999/live/shane1/shane1/614.ts
+#EXTINF:-1,DE:BR HD
+http://ivue.co:5999/live/shane1/shane1/615.ts
+#EXTINF:-1,DE:ARTEHD
+http://ivue.co:5999/live/shane1/shane1/616.ts
+#EXTINF:-1,DE:DMAX HD
+http://ivue.co:5999/live/shane1/shane1/617.ts
+#EXTINF:-1,DE:RBB HD
+http://ivue.co:5999/live/shane1/shane1/618.ts
+#EXTINF:-1,DE:Jukebox
+http://ivue.co:5999/live/shane1/shane1/619.ts
+#EXTINF:-1,DE:Eins Festival
+http://ivue.co:5999/live/shane1/shane1/620.ts
+#EXTINF:-1,DE:Goldstar
+http://ivue.co:5999/live/shane1/shane1/621.ts
+#EXTINF:-1,DE:A&E
+http://ivue.co:5999/live/shane1/shane1/622.ts
+#EXTINF:-1,DE:CLASSICA
+http://ivue.co:5999/live/shane1/shane1/623.ts
+#EXTINF:-1,DE:TLC
+http://ivue.co:5999/live/shane1/shane1/624.ts
+#EXTINF:-1,DE:E! Entertainment
+http://ivue.co:5999/live/shane1/shane1/625.ts
+#EXTINF:-1,DE:Syfy HD
+http://ivue.co:5999/live/shane1/shane1/626.ts
+#EXTINF:-1,DE:AXN HD
+http://ivue.co:5999/live/shane1/shane1/627.ts
+#EXTINF:-1,-----:PORTUGAL-CHANNELS:-----
+http://ivue.co:5999/live/shane1/shane1/2743.ts
+#EXTINF:-1,PT:RTP 1 HD
+http://ivue.co:5999/live/shane1/shane1/841.ts
+#EXTINF:-1,PT:RTP 2 HD
+http://ivue.co:5999/live/shane1/shane1/842.ts
+#EXTINF:-1,PT:RTP 3 HD
+http://ivue.co:5999/live/shane1/shane1/843.ts
+#EXTINF:-1,PT:RTP Memoria
+http://ivue.co:5999/live/shane1/shane1/844.ts
+#EXTINF:-1,PT:RTP Madeira
+http://ivue.co:5999/live/shane1/shane1/845.ts
+#EXTINF:-1,PT:RTP Acores
+http://ivue.co:5999/live/shane1/shane1/846.ts
+#EXTINF:-1,PT:RT GLOBAL
+http://ivue.co:5999/live/shane1/shane1/847.ts
+#EXTINF:-1,PT:TV Globo
+http://ivue.co:5999/live/shane1/shane1/848.ts
+#EXTINF:-1,PT:TVI Ficcao
+http://ivue.co:5999/live/shane1/shane1/849.ts
+#EXTINF:-1,PT:TVI
+http://ivue.co:5999/live/shane1/shane1/850.ts
+#EXTINF:-1,PT:tvi24
+http://ivue.co:5999/live/shane1/shane1/851.ts
+#EXTINF:-1,PT:TV Series
+http://ivue.co:5999/live/shane1/shane1/852.ts
+#EXTINF:-1,PT:SIC Noticias
+http://ivue.co:5999/live/shane1/shane1/853.ts
+#EXTINF:-1,PT:SIC Caras
+http://ivue.co:5999/live/shane1/shane1/854.ts
+#EXTINF:-1,PT:Sic Radical
+http://ivue.co:5999/live/shane1/shane1/855.ts
+#EXTINF:-1,PT:SIC  Mulher
+http://ivue.co:5999/live/shane1/shane1/856.ts
+#EXTINF:-1,PT:SIC
+http://ivue.co:5999/live/shane1/shane1/857.ts
+#EXTINF:-1,PT:CM TV
+http://ivue.co:5999/live/shane1/shane1/858.ts
+#EXTINF:-1,PT:TV Cine 1
+http://ivue.co:5999/live/shane1/shane1/860.ts
+#EXTINF:-1,PT:TV Cine 2
+http://ivue.co:5999/live/shane1/shane1/861.ts
+#EXTINF:-1,PT:TV Cine 3
+http://ivue.co:5999/live/shane1/shane1/862.ts
+#EXTINF:-1,PT:TV Cine 4
+http://ivue.co:5999/live/shane1/shane1/863.ts
+#EXTINF:-1,PT:Mov HD
+http://ivue.co:5999/live/shane1/shane1/865.ts
+#EXTINF:-1,PT:Cine Mundo
+http://ivue.co:5999/live/shane1/shane1/866.ts
+#EXTINF:-1,PT:Hollywood HD
+http://ivue.co:5999/live/shane1/shane1/867.ts
+#EXTINF:-1,PT:Fox Crime
+http://ivue.co:5999/live/shane1/shane1/868.ts
+#EXTINF:-1,PT:Fox Movies
+http://ivue.co:5999/live/shane1/shane1/869.ts
+#EXTINF:-1,PT:Fox Comedy
+http://ivue.co:5999/live/shane1/shane1/870.ts
+#EXTINF:-1,PT:Fox Life
+http://ivue.co:5999/live/shane1/shane1/871.ts
+#EXTINF:-1,PT:Fox HD
+http://ivue.co:5999/live/shane1/shane1/872.ts
+#EXTINF:-1,PT:SYFY
+http://ivue.co:5999/live/shane1/shane1/873.ts
+#EXTINF:-1,PT:AXN-HD
+http://ivue.co:5999/live/shane1/shane1/874.ts
+#EXTINF:-1,PT:AXN WhiteHD
+http://ivue.co:5999/live/shane1/shane1/875.ts
+#EXTINF:-1,PT:AXN Black HD
+http://ivue.co:5999/live/shane1/shane1/876.ts
+#EXTINF:-1,PT:24 Kitchen
+http://ivue.co:5999/live/shane1/shane1/878.ts
+#EXTINF:-1,PT:TVi Reality
+http://ivue.co:5999/live/shane1/shane1/879.ts
+#EXTINF:-1,PT:CBC Reality
+http://ivue.co:5999/live/shane1/shane1/880.ts
+#EXTINF:-1,PT:Odissia
+http://ivue.co:5999/live/shane1/shane1/881.ts
+#EXTINF:-1,PT:Caca Pesca
+http://ivue.co:5999/live/shane1/shane1/882.ts
+#EXTINF:-1,PT:NatGeoWild
+http://ivue.co:5999/live/shane1/shane1/883.ts
+#EXTINF:-1,PT:Discovery-HD
+http://ivue.co:5999/live/shane1/shane1/884.ts
+#EXTINF:-1,PT:JimJim
+http://ivue.co:5999/live/shane1/shane1/886.ts
+#EXTINF:-1,PT:SIC Kids
+http://ivue.co:5999/live/shane1/shane1/887.ts
+#EXTINF:-1,PT:Nickelodeon HD
+http://ivue.co:5999/live/shane1/shane1/888.ts
+#EXTINF:-1,PT:Cartoon Network HD
+http://ivue.co:5999/live/shane1/shane1/889.ts
+#EXTINF:-1,PT:Baby tv
+http://ivue.co:5999/live/shane1/shane1/890.ts
+#EXTINF:-1,PT:Canal Panda
+http://ivue.co:5999/live/shane1/shane1/891.ts
+#EXTINF:-1,PT:Disney Ju
+http://ivue.co:5999/live/shane1/shane1/892.ts
+#EXTINF:-1,PT:Disney Ch
+http://ivue.co:5999/live/shane1/shane1/893.ts
+#EXTINF:-1,-----:SWEDISH-CHANNELS:-----
+http://ivue.co:5999/live/shane1/shane1/2744.ts
+#EXTINF:-1,SE:C More First
+http://ivue.co:5999/live/shane1/shane1/1931.ts
+#EXTINF:-1,SE:C More Golf
+http://ivue.co:5999/live/shane1/shane1/1930.ts
+#EXTINF:-1,SE:C More Live
+http://ivue.co:5999/live/shane1/shane1/1928.ts
+#EXTINF:-1,SE:C More Series
+http://ivue.co:5999/live/shane1/shane1/1927.ts
+#EXTINF:-1,SE:C More Sport
+http://ivue.co:5999/live/shane1/shane1/1926.ts
+#EXTINF:-1,SE:C More Hockey
+http://ivue.co:5999/live/shane1/shane1/1925.ts
+#EXTINF:-1,SE:Comedy Central
+http://ivue.co:5999/live/shane1/shane1/1923.ts
+#EXTINF:-1,SE:Discovery Channel
+http://ivue.co:5999/live/shane1/shane1/1922.ts
+#EXTINF:-1,SE:Disney Channel
+http://ivue.co:5999/live/shane1/shane1/1921.ts
+#EXTINF:-1,SE:Disney XD
+http://ivue.co:5999/live/shane1/shane1/1920.ts
+#EXTINF:-1,SE:Fox
+http://ivue.co:5999/live/shane1/shane1/1918.ts
+#EXTINF:-1,SE:Kanal 11
+http://ivue.co:5999/live/shane1/shane1/1917.ts
+#EXTINF:-1,SE:Kanal 5
+http://ivue.co:5999/live/shane1/shane1/1916.ts
+#EXTINF:-1,SE:Kanal 9
+http://ivue.co:5999/live/shane1/shane1/1915.ts
+#EXTINF:-1,SE:Kunskapskanalen
+http://ivue.co:5999/live/shane1/shane1/1914.ts
+#EXTINF:-1,SE:MTV Sweden
+http://ivue.co:5999/live/shane1/shane1/1913.ts
+#EXTINF:-1,SE:National Geo Wild
+http://ivue.co:5999/live/shane1/shane1/1912.ts
+#EXTINF:-1,SE:National Geographic
+http://ivue.co:5999/live/shane1/shane1/1911.ts
+#EXTINF:-1,SE:Sjuan
+http://ivue.co:5999/live/shane1/shane1/1910.ts
+#EXTINF:-1,SE:SVT1
+http://ivue.co:5999/live/shane1/shane1/1909.ts
+#EXTINF:-1,SE:SVT2
+http://ivue.co:5999/live/shane1/shane1/1908.ts
+#EXTINF:-1,SE:SVTB/SVT24
+http://ivue.co:5999/live/shane1/shane1/1907.ts
+#EXTINF:-1,SE:TCM
+http://ivue.co:5999/live/shane1/shane1/1906.ts
+#EXTINF:-1,SE:TLC
+http://ivue.co:5999/live/shane1/shane1/1905.ts
+#EXTINF:-1,SE:TV10
+http://ivue.co:5999/live/shane1/shane1/1904.ts
+#EXTINF:-1,SE:TV12
+http://ivue.co:5999/live/shane1/shane1/1903.ts
+#EXTINF:-1,SE:TV3
+http://ivue.co:5999/live/shane1/shane1/1902.ts
+#EXTINF:-1,SE:TV4 Fakta
+http://ivue.co:5999/live/shane1/shane1/1901.ts
+#EXTINF:-1,SE:TV4 Fakta XL
+http://ivue.co:5999/live/shane1/shane1/1900.ts
+#EXTINF:-1,SE:TV4 Film
+http://ivue.co:5999/live/shane1/shane1/1899.ts
+#EXTINF:-1,SE:TV4 Guld
+http://ivue.co:5999/live/shane1/shane1/1898.ts
+#EXTINF:-1,SE:TV4 HD
+http://ivue.co:5999/live/shane1/shane1/1897.ts
+#EXTINF:-1,SE:TV6
+http://ivue.co:5999/live/shane1/shane1/1896.ts
+#EXTINF:-1,SE:TV8
+http://ivue.co:5999/live/shane1/shane1/1895.ts
+#EXTINF:-1,SE:Viasat Explore
+http://ivue.co:5999/live/shane1/shane1/1892.ts
+#EXTINF:-1,SE:Viasat Film Action
+http://ivue.co:5999/live/shane1/shane1/1891.ts
+#EXTINF:-1,SE:Viasat Film Family
+http://ivue.co:5999/live/shane1/shane1/1889.ts
+#EXTINF:-1,SE:Viasat Film Hits
+http://ivue.co:5999/live/shane1/shane1/1888.ts
+#EXTINF:-1,SE:Viasat Film Premiere
+http://ivue.co:5999/live/shane1/shane1/1887.ts
+#EXTINF:-1,SE:Viasat Motor
+http://ivue.co:5999/live/shane1/shane1/1883.ts
+#EXTINF:-1,SE:Viasat Nature
+http://ivue.co:5999/live/shane1/shane1/1882.ts
+#EXTINF:-1,SE:Viasat Series
+http://ivue.co:5999/live/shane1/shane1/1881.ts
+#EXTINF:-1,-----:DANISH-CHANNELS:-----
+http://ivue.co:5999/live/shane1/shane1/2745.ts
+#EXTINF:-1,DK:6 Eren
+http://ivue.co:5999/live/shane1/shane1/1878.ts
+#EXTINF:-1,DK:Canal 9
+http://ivue.co:5999/live/shane1/shane1/1877.ts
+#EXTINF:-1,DK:Discovery Channel
+http://ivue.co:5999/live/shane1/shane1/1875.ts
+#EXTINF:-1,DK:Disney Channel
+http://ivue.co:5999/live/shane1/shane1/1874.ts
+#EXTINF:-1,DK:Disney XD
+http://ivue.co:5999/live/shane1/shane1/1873.ts
+#EXTINF:-1,DK:DK4
+http://ivue.co:5999/live/shane1/shane1/1872.ts
+#EXTINF:-1,DK:DR K
+http://ivue.co:5999/live/shane1/shane1/1871.ts
+#EXTINF:-1,DK:DR Ramasjang
+http://ivue.co:5999/live/shane1/shane1/1870.ts
+#EXTINF:-1,DK:DR1
+http://ivue.co:5999/live/shane1/shane1/1869.ts
+#EXTINF:-1,DK:DR2
+http://ivue.co:5999/live/shane1/shane1/1868.ts
+#EXTINF:-1,DK:DR3
+http://ivue.co:5999/live/shane1/shane1/1867.ts
+#EXTINF:-1,DK:Kanal 4
+http://ivue.co:5999/live/shane1/shane1/1866.ts
+#EXTINF:-1,DK:Kanal 5
+http://ivue.co:5999/live/shane1/shane1/1865.ts
+#EXTINF:-1,DK:MTV Denmark
+http://ivue.co:5999/live/shane1/shane1/1864.ts
+#EXTINF:-1,DK:National Geographic
+http://ivue.co:5999/live/shane1/shane1/1863.ts
+#EXTINF:-1,DK:Nickelodeon Denmark
+http://ivue.co:5999/live/shane1/shane1/1862.ts
+#EXTINF:-1,DK:TV2 charlie
+http://ivue.co:5999/live/shane1/shane1/1860.ts
+#EXTINF:-1,DK:TV2 Fri
+http://ivue.co:5999/live/shane1/shane1/1859.ts
+#EXTINF:-1,DK:TV2 News
+http://ivue.co:5999/live/shane1/shane1/1857.ts
+#EXTINF:-1,DK:TV2 Zulu
+http://ivue.co:5999/live/shane1/shane1/1855.ts
+#EXTINF:-1,DK:TV3
+http://ivue.co:5999/live/shane1/shane1/1850.ts
+#EXTINF:-1,DK:TV3 Puls
+http://ivue.co:5999/live/shane1/shane1/1853.ts
+#EXTINF:-1,--------------------BELGIQUE--------------------
+http://ivue.co:5999/live/shane1/shane1/428.ts
+#EXTINF:-1,Voo Sport 1
+http://ivue.co:5999/live/shane1/shane1/435.ts
+#EXTINF:-1,Voo Sport 2
+http://ivue.co:5999/live/shane1/shane1/436.ts
+#EXTINF:-1,BE: Voo Sport World 1
+http://ivue.co:5999/live/shane1/shane1/9045.ts
+#EXTINF:-1,BE: Voo Sport World 2
+http://ivue.co:5999/live/shane1/shane1/9046.ts
+#EXTINF:-1,BE: Voo Sport World 3
+http://ivue.co:5999/live/shane1/shane1/9047.ts
+#EXTINF:-1,BE:2BE
+http://ivue.co:5999/live/shane1/shane1/2267.ts
+#EXTINF:-1,BE:Acht
+http://ivue.co:5999/live/shane1/shane1/2266.ts
+#EXTINF:-1,BE:Canvas HD
+http://ivue.co:5999/live/shane1/shane1/2265.ts
+#EXTINF:-1,BE:Club RTL
+http://ivue.co:5999/live/shane1/shane1/2264.ts
+#EXTINF:-1,BE:EEN HD
+http://ivue.co:5999/live/shane1/shane1/2263.ts
+#EXTINF:-1,BE:Ketnet HD
+http://ivue.co:5999/live/shane1/shane1/2262.ts
+#EXTINF:-1,BE:La Deux
+http://ivue.co:5999/live/shane1/shane1/2261.ts
+#EXTINF:-1,BE:La Trois
+http://ivue.co:5999/live/shane1/shane1/2260.ts
+#EXTINF:-1,BE:La Une HD
+http://ivue.co:5999/live/shane1/shane1/2259.ts
+#EXTINF:-1,BE:Novele
+http://ivue.co:5999/live/shane1/shane1/2258.ts
+#EXTINF:-1,BE:Plug RTL
+http://ivue.co:5999/live/shane1/shane1/2257.ts
+#EXTINF:-1,BE:RTL TVI
+http://ivue.co:5999/live/shane1/shane1/2256.ts
+#EXTINF:-1,BE:TV Lux
+http://ivue.co:5999/live/shane1/shane1/2255.ts
+#EXTINF:-1,BE:Vier HD
+http://ivue.co:5999/live/shane1/shane1/2254.ts
+#EXTINF:-1,BE:Vijf
+http://ivue.co:5999/live/shane1/shane1/2253.ts
+#EXTINF:-1,BE:Vitaya
+http://ivue.co:5999/live/shane1/shane1/2252.ts
+#EXTINF:-1,BE:VTM
+http://ivue.co:5999/live/shane1/shane1/2251.ts
+#EXTINF:-1,BE:VTM Kazoom
+http://ivue.co:5999/live/shane1/shane1/2250.ts
+#EXTINF:-1,--------------------ITALIA--------------------
+http://ivue.co:5999/live/shane1/shane1/745.ts
+#EXTINF:-1,IT:Rai 1 HD
+http://ivue.co:5999/live/shane1/shane1/747.ts
+#EXTINF:-1,IT:Rai 2 HD
+http://ivue.co:5999/live/shane1/shane1/748.ts
+#EXTINF:-1,IT:Rai 3 HD
+http://ivue.co:5999/live/shane1/shane1/749.ts
+#EXTINF:-1,IT:Rai 4 HD
+http://ivue.co:5999/live/shane1/shane1/750.ts
+#EXTINF:-1,IT:Rai 5 HD
+http://ivue.co:5999/live/shane1/shane1/751.ts
+#EXTINF:-1,IT:Rai Gulp
+http://ivue.co:5999/live/shane1/shane1/760.ts
+#EXTINF:-1,IT:Rai Movie
+http://ivue.co:5999/live/shane1/shane1/756.ts
+#EXTINF:-1,IT:Rai News
+http://ivue.co:5999/live/shane1/shane1/755.ts
+#EXTINF:-1,IT:Rai Premium
+http://ivue.co:5999/live/shane1/shane1/758.ts
+#EXTINF:-1,IT:Rai Scuola
+http://ivue.co:5999/live/shane1/shane1/757.ts
+#EXTINF:-1,IT:RAI STORIA
+http://ivue.co:5999/live/shane1/shane1/759.ts
+#EXTINF:-1,IT:Rai Yoyo
+http://ivue.co:5999/live/shane1/shane1/763.ts
+#EXTINF:-1,IT:Discovery
+http://ivue.co:5999/live/shane1/shane1/803.ts
+#EXTINF:-1,IT:Discovery Science
+http://ivue.co:5999/live/shane1/shane1/802.ts
+#EXTINF:-1,IT:Discovery Travel HD
+http://ivue.co:5999/live/shane1/shane1/805.ts
+#EXTINF:-1,IT:Disney Channel HD
+http://ivue.co:5999/live/shane1/shane1/765.ts
+#EXTINF:-1,IT:Disney Junior HD
+http://ivue.co:5999/live/shane1/shane1/764.ts
+#EXTINF:-1,IT:Fox Animation
+http://ivue.co:5999/live/shane1/shane1/772.ts
+#EXTINF:-1,IT:Fox Comedy HD
+http://ivue.co:5999/live/shane1/shane1/769.ts
+#EXTINF:-1,IT:Fox Crime HD
+http://ivue.co:5999/live/shane1/shane1/771.ts
+#EXTINF:-1,IT:Fox HD
+http://ivue.co:5999/live/shane1/shane1/768.ts
+#EXTINF:-1,IT:Fox Life
+http://ivue.co:5999/live/shane1/shane1/770.ts
+#EXTINF:-1,IT:Fox Sports HD
+http://ivue.co:5999/live/shane1/shane1/796.ts
+#EXTINF:-1,IT:Animal Planet
+http://ivue.co:5999/live/shane1/shane1/806.ts
+#EXTINF:-1,IT:Axn
+http://ivue.co:5999/live/shane1/shane1/767.ts
+#EXTINF:-1,IT:Canale 5 HD
+http://ivue.co:5999/live/shane1/shane1/754.ts
+#EXTINF:-1,IT:Comedy Central
+http://ivue.co:5999/live/shane1/shane1/773.ts
+#EXTINF:-1,IT:Inter Channel
+http://ivue.co:5999/live/shane1/shane1/787.ts
+#EXTINF:-1,IT:Italia 1 HD
+http://ivue.co:5999/live/shane1/shane1/752.ts
+#EXTINF:-1,IT:La7
+http://ivue.co:5999/live/shane1/shane1/761.ts
+#EXTINF:-1,IT:Nat Geo People
+http://ivue.co:5999/live/shane1/shane1/800.ts
+#EXTINF:-1,IT:Nat Geo Wild
+http://ivue.co:5999/live/shane1/shane1/799.ts
+#EXTINF:-1,IT:National Geo
+http://ivue.co:5999/live/shane1/shane1/801.ts
+#EXTINF:-1,IT:Pesca
+http://ivue.co:5999/live/shane1/shane1/804.ts
+#EXTINF:-1,IT:Premium Action 24 HD
+http://ivue.co:5999/live/shane1/shane1/818.ts
+#EXTINF:-1,IT:Premium Action HD
+http://ivue.co:5999/live/shane1/shane1/817.ts
+#EXTINF:-1,IT:Premium Calcio 1
+http://ivue.co:5999/live/shane1/shane1/810.ts
+#EXTINF:-1,IT:Premium Calcio 2
+http://ivue.co:5999/live/shane1/shane1/811.ts
+#EXTINF:-1,IT:Premium Cartoon Network HD
+http://ivue.co:5999/live/shane1/shane1/824.ts
+#EXTINF:-1,IT:Premium Cinema 2 HD
+http://ivue.co:5999/live/shane1/shane1/815.ts
+#EXTINF:-1,IT:Premium Cinema 24 HD
+http://ivue.co:5999/live/shane1/shane1/816.ts
+#EXTINF:-1,IT:Premium Cinema HD
+http://ivue.co:5999/live/shane1/shane1/814.ts
+#EXTINF:-1,IT:Premium Comedy HD
+http://ivue.co:5999/live/shane1/shane1/821.ts
+#EXTINF:-1,IT:Premium Crime 24 HD
+http://ivue.co:5999/live/shane1/shane1/813.ts
+#EXTINF:-1,IT:Premium Crime HD
+http://ivue.co:5999/live/shane1/shane1/812.ts
+#EXTINF:-1,IT:Premium Emotion HD
+http://ivue.co:5999/live/shane1/shane1/820.ts
+#EXTINF:-1,IT:Premium Energy HD
+http://ivue.co:5999/live/shane1/shane1/819.ts
+#EXTINF:-1,IT:Premium Joi HD
+http://ivue.co:5999/live/shane1/shane1/823.ts
+#EXTINF:-1,IT:Premium Sport 2 HD
+http://ivue.co:5999/live/shane1/shane1/809.ts
+#EXTINF:-1,IT:Premium Sport HD
+http://ivue.co:5999/live/shane1/shane1/808.ts
+#EXTINF:-1,IT:Premium Stories HD
+http://ivue.co:5999/live/shane1/shane1/822.ts
+#EXTINF:-1,IT:Premium Studio Universal HD
+http://ivue.co:5999/live/shane1/shane1/825.ts
+#EXTINF:-1,IT:Primafila 1 HD
+http://ivue.co:5999/live/shane1/shane1/827.ts
+#EXTINF:-1,IT:Primafila 10 HD
+http://ivue.co:5999/live/shane1/shane1/836.ts
+#EXTINF:-1,IT:Primafila 17 HD
+http://ivue.co:5999/live/shane1/shane1/837.ts
+#EXTINF:-1,IT:Primafila 2 HD
+http://ivue.co:5999/live/shane1/shane1/828.ts
+#EXTINF:-1,IT:Primafila 3 HD
+http://ivue.co:5999/live/shane1/shane1/829.ts
+#EXTINF:-1,IT:Primafila 4 HD
+http://ivue.co:5999/live/shane1/shane1/830.ts
+#EXTINF:-1,IT:Primafila 5 HD
+http://ivue.co:5999/live/shane1/shane1/831.ts
+#EXTINF:-1,IT:Primafila 6 HD
+http://ivue.co:5999/live/shane1/shane1/832.ts
+#EXTINF:-1,IT:Primafila 7 HD
+http://ivue.co:5999/live/shane1/shane1/833.ts
+#EXTINF:-1,IT:Primafila 8 HD
+http://ivue.co:5999/live/shane1/shane1/834.ts
+#EXTINF:-1,IT:Primafila 9 HD
+http://ivue.co:5999/live/shane1/shane1/835.ts
+#EXTINF:-1,IT:Rete 4 HD
+http://ivue.co:5999/live/shane1/shane1/753.ts
+#EXTINF:-1,IT:Sky 3D
+http://ivue.co:5999/live/shane1/shane1/774.ts
+#EXTINF:-1,IT:Sky Atlantic
+http://ivue.co:5999/live/shane1/shane1/776.ts
+#EXTINF:-1,IT:Sky Calcio 1
+http://ivue.co:5999/live/shane1/shane1/793.ts
+#EXTINF:-1,IT:Sky Calcio 2
+http://ivue.co:5999/live/shane1/shane1/794.ts
+#EXTINF:-1,IT:Sky Cinema 1
+http://ivue.co:5999/live/shane1/shane1/777.ts
+#EXTINF:-1,IT:Sky Cinema 24 HD
+http://ivue.co:5999/live/shane1/shane1/778.ts
+#EXTINF:-1,IT:Sky Cinema Classic HD
+http://ivue.co:5999/live/shane1/shane1/785.ts
+#EXTINF:-1,IT:Sky Cinema Comedy HD
+http://ivue.co:5999/live/shane1/shane1/781.ts
+#EXTINF:-1,IT:Sky Cinema Cult HD
+http://ivue.co:5999/live/shane1/shane1/784.ts
+#EXTINF:-1,IT:Sky Cinema Family
+http://ivue.co:5999/live/shane1/shane1/780.ts
+#EXTINF:-1,IT:Sky Cinema Hits HD
+http://ivue.co:5999/live/shane1/shane1/783.ts
+#EXTINF:-1,IT:Sky Cinema Max HD
+http://ivue.co:5999/live/shane1/shane1/779.ts
+#EXTINF:-1,IT:Sky Cinema Passion HD
+http://ivue.co:5999/live/shane1/shane1/782.ts
+#EXTINF:-1,IT:Sky Uno HD
+http://ivue.co:5999/live/shane1/shane1/775.ts
+#EXTINF:-1,------------TURKISH--------------------
+http://ivue.co:5999/live/shane1/shane1/8146.ts
+#EXTINF:-1,TK:SALON 1 HD
+http://ivue.co:5999/live/shane1/shane1/960.ts
+#EXTINF:-1,TK:SALON 2  HD
+http://ivue.co:5999/live/shane1/shane1/961.ts
+#EXTINF:-1,TK:SALON 3 HD
+http://ivue.co:5999/live/shane1/shane1/962.ts
+#EXTINF:-1,TK:CINESTAR VIZYON
+http://ivue.co:5999/live/shane1/shane1/964.ts
+#EXTINF:-1,TK:CINESTAR TÜRK 1
+http://ivue.co:5999/live/shane1/shane1/966.ts
+#EXTINF:-1,TK:CINESTAR TÜRK 2
+http://ivue.co:5999/live/shane1/shane1/967.ts
+#EXTINF:-1,TK:CINESTAR NOSTALJI
+http://ivue.co:5999/live/shane1/shane1/968.ts
+#EXTINF:-1,TK:CINESTAR KORKU
+http://ivue.co:5999/live/shane1/shane1/969.ts
+#EXTINF:-1,TK:CINESTAR KOMEDI
+http://ivue.co:5999/live/shane1/shane1/970.ts
+#EXTINF:-1,TK:Star TV
+http://ivue.co:5999/live/shane1/shane1/971.ts
+#EXTINF:-1,TK:atv HD
+http://ivue.co:5999/live/shane1/shane1/973.ts
+#EXTINF:-1,TK:TRT 1 HD
+http://ivue.co:5999/live/shane1/shane1/974.ts
+#EXTINF:-1,TK:4 karamel
+http://ivue.co:5999/live/shane1/shane1/989.ts
+#EXTINF:-1,TK:Fox  HD
+http://ivue.co:5999/live/shane1/shane1/972.ts
+#EXTINF:-1,TK:haber turk
+http://ivue.co:5999/live/shane1/shane1/988.ts
+#EXTINF:-1,TK:kanal 24
+http://ivue.co:5999/live/shane1/shane1/987.ts
+#EXTINF:-1,TK:Kanal 7 HD
+http://ivue.co:5999/live/shane1/shane1/979.ts
+#EXTINF:-1,TK:Kanal D HD
+http://ivue.co:5999/live/shane1/shane1/975.ts
+#EXTINF:-1,TK:kanal 26
+http://ivue.co:5999/live/shane1/shane1/978.ts
+#EXTINF:-1,TK:LIG TV  3
+http://ivue.co:5999/live/shane1/shane1/992.ts
+#EXTINF:-1,TK:LIG TV 1
+http://ivue.co:5999/live/shane1/shane1/990.ts
+#EXTINF:-1,TK:LIG TV 2
+http://ivue.co:5999/live/shane1/shane1/991.ts
+#EXTINF:-1,TK:MOVIEMAX TURK HD
+http://ivue.co:5999/live/shane1/shane1/1006.ts
+#EXTINF:-1,TK:Showtv
+http://ivue.co:5999/live/shane1/shane1/977.ts
+#EXTINF:-1,TK:Sinema Turku 1
+http://ivue.co:5999/live/shane1/shane1/1002.ts
+#EXTINF:-1,TK:SINEMA TV
+http://ivue.co:5999/live/shane1/shane1/998.ts
+#EXTINF:-1,TK:SINEMA2
+http://ivue.co:5999/live/shane1/shane1/999.ts
+#EXTINF:-1,TK:SINEMAKORKU1
+http://ivue.co:5999/live/shane1/shane1/1004.ts
+#EXTINF:-1,TK:Sports tv
+http://ivue.co:5999/live/shane1/shane1/993.ts
+#EXTINF:-1,TK:TR-SAMANYOLU-TV-HD
+http://ivue.co:5999/live/shane1/shane1/981.ts
+#EXTINF:-1,TK:TR-ULKE-HD
+http://ivue.co:5999/live/shane1/shane1/980.ts
+#EXTINF:-1,TK:TRT BELGESEL
+http://ivue.co:5999/live/shane1/shane1/983.ts
+#EXTINF:-1,TK:TRT COCUK
+http://ivue.co:5999/live/shane1/shane1/982.ts
+#EXTINF:-1,TK:TRT HABER HD
+http://ivue.co:5999/live/shane1/shane1/985.ts
+#EXTINF:-1,TK:TRT Sport
+http://ivue.co:5999/live/shane1/shane1/994.ts
+#EXTINF:-1,TK:TRT WORLD
+http://ivue.co:5999/live/shane1/shane1/984.ts
+#EXTINF:-1,TK:TV2
+http://ivue.co:5999/live/shane1/shane1/976.ts
+#EXTINF:-1,:!p:------ARABIC------:!p:
+http://ivue.co:5999/live/shane1/shane1/5609.ts
+#EXTINF:-1,MA:2M TV
+http://ivue.co:5999/live/shane1/shane1/48.ts
+#EXTINF:-1,MA:AFLAM TV
+http://ivue.co:5999/live/shane1/shane1/4528.ts
+#EXTINF:-1,MA:Al AOULA
+http://ivue.co:5999/live/shane1/shane1/47.ts
+#EXTINF:-1,MA:Al Maghribia
+http://ivue.co:5999/live/shane1/shane1/49.ts
+#EXTINF:-1,MA:Arrabia
+http://ivue.co:5999/live/shane1/shane1/51.ts
+#EXTINF:-1,MA:arriadia
+http://ivue.co:5999/live/shane1/shane1/50.ts
+#EXTINF:-1,MA:assadissa
+http://ivue.co:5999/live/shane1/shane1/52.ts
+#EXTINF:-1,MA:medi1 TV
+http://ivue.co:5999/live/shane1/shane1/46.ts
+#EXTINF:-1,MA:Tamazight
+http://ivue.co:5999/live/shane1/shane1/53.ts
+#EXTINF:-1,MA:TELE MAROC
+http://ivue.co:5999/live/shane1/shane1/4527.ts
+#EXTINF:-1,ALG:A3
+http://ivue.co:5999/live/shane1/shane1/56.ts
+#EXTINF:-1,ALG:Algerie 1
+http://ivue.co:5999/live/shane1/shane1/68.ts
+#EXTINF:-1,ALG:Beur TV
+http://ivue.co:5999/live/shane1/shane1/69.ts
+#EXTINF:-1,ALG:Djazairia
+http://ivue.co:5999/live/shane1/shane1/66.ts
+#EXTINF:-1,ALG:Dzaier TV
+http://ivue.co:5999/live/shane1/shane1/67.ts
+#EXTINF:-1,ALG:Echourook Beena
+http://ivue.co:5999/live/shane1/shane1/62.ts
+#EXTINF:-1,ALG:Echourrouk
+http://ivue.co:5999/live/shane1/shane1/61.ts
+#EXTINF:-1,ALG:Echourrouk News
+http://ivue.co:5999/live/shane1/shane1/63.ts
+#EXTINF:-1,ALG:El Heddaf
+http://ivue.co:5999/live/shane1/shane1/65.ts
+#EXTINF:-1,ALG:Ennahar
+http://ivue.co:5999/live/shane1/shane1/60.ts
+#EXTINF:-1,ALG:Kbc Algerie
+http://ivue.co:5999/live/shane1/shane1/64.ts
+#EXTINF:-1,ALG:Samira TV
+http://ivue.co:5999/live/shane1/shane1/59.ts
+#EXTINF:-1,TN:Al Insen
+http://ivue.co:5999/live/shane1/shane1/79.ts
+#EXTINF:-1,TN:ALMUSTAKILLAH
+http://ivue.co:5999/live/shane1/shane1/78.ts
+#EXTINF:-1,TN:ATTESSIA
+http://ivue.co:5999/live/shane1/shane1/77.ts
+#EXTINF:-1,TN:Elhiwar ettounsi
+http://ivue.co:5999/live/shane1/shane1/81.ts
+#EXTINF:-1,TN:Hannibal TV
+http://ivue.co:5999/live/shane1/shane1/74.ts
+#EXTINF:-1,TN:M Tunisian
+http://ivue.co:5999/live/shane1/shane1/83.ts
+#EXTINF:-1,TN:Nessma tv
+http://ivue.co:5999/live/shane1/shane1/73.ts
+#EXTINF:-1,TN:tayba
+http://ivue.co:5999/live/shane1/shane1/84.ts
+#EXTINF:-1,TN:Telvza TV
+http://ivue.co:5999/live/shane1/shane1/80.ts
+#EXTINF:-1,TN:Tounesna TV
+http://ivue.co:5999/live/shane1/shane1/75.ts
+#EXTINF:-1,TN:Watanya 1
+http://ivue.co:5999/live/shane1/shane1/71.ts
+#EXTINF:-1,TN:Watanya 2
+http://ivue.co:5999/live/shane1/shane1/72.ts
+#EXTINF:-1,VIP:Rotana Cinema HD
+http://ivue.co:5999/live/shane1/shane1/4008.ts
+#EXTINF:-1,VIP:Rotana Classic HD
+http://ivue.co:5999/live/shane1/shane1/4006.ts
+#EXTINF:-1,VIP:Rotana Khaliji HD
+http://ivue.co:5999/live/shane1/shane1/4005.ts
+#EXTINF:-1,VIP:Rotana Massrya HD
+http://ivue.co:5999/live/shane1/shane1/4007.ts
+#EXTINF:-1,VIP:Rotana Music HD
+http://ivue.co:5999/live/shane1/shane1/4004.ts
+#EXTINF:-1,AR:Abu Dhabi 1
+http://ivue.co:5999/live/shane1/shane1/151.ts
+#EXTINF:-1,AR:Abu Dhabi Drama
+http://ivue.co:5999/live/shane1/shane1/152.ts
+#EXTINF:-1,AR:AD Nat Geo HD
+http://ivue.co:5999/live/shane1/shane1/153.ts
+#EXTINF:-1,AR:AJYAL
+http://ivue.co:5999/live/shane1/shane1/171.ts
+#EXTINF:-1,AR:Ajyal Kids
+http://ivue.co:5999/live/shane1/shane1/233.ts
+#EXTINF:-1,AR:AL Arabiya HD
+http://ivue.co:5999/live/shane1/shane1/209.ts
+#EXTINF:-1,AR:AL fajertv
+http://ivue.co:5999/live/shane1/shane1/145.ts
+#EXTINF:-1,AR:Al Hadath
+http://ivue.co:5999/live/shane1/shane1/2693.ts
+#EXTINF:-1,AR:Al Jazeera Doc
+http://ivue.co:5999/live/shane1/shane1/195.ts
+#EXTINF:-1,AR:Al Jazeera HD
+http://ivue.co:5999/live/shane1/shane1/194.ts
+#EXTINF:-1,AR:Al Jazeera Mubasher
+http://ivue.co:5999/live/shane1/shane1/196.ts
+#EXTINF:-1,AR:Al Kahera WaAlnas
+http://ivue.co:5999/live/shane1/shane1/140.ts
+#EXTINF:-1,AR:Al Kahera WaAlnas2
+http://ivue.co:5999/live/shane1/shane1/141.ts
+#EXTINF:-1,AR:al maali
+http://ivue.co:5999/live/shane1/shane1/217.ts
+#EXTINF:-1,AR:Al Majd Al Hadeeth
+http://ivue.co:5999/live/shane1/shane1/228.ts
+#EXTINF:-1,AR:Al Majd Al Scientific
+http://ivue.co:5999/live/shane1/shane1/227.ts
+#EXTINF:-1,AR:Al Nahar Alyoum
+http://ivue.co:5999/live/shane1/shane1/135.ts
+#EXTINF:-1,AR:Al Nahar Cinema
+http://ivue.co:5999/live/shane1/shane1/136.ts
+#EXTINF:-1,AR:AL nahar Drama
+http://ivue.co:5999/live/shane1/shane1/134.ts
+#EXTINF:-1,AR:Al Nass
+http://ivue.co:5999/live/shane1/shane1/213.ts
+#EXTINF:-1,AR:Al Quds
+http://ivue.co:5999/live/shane1/shane1/197.ts
+#EXTINF:-1,AR:Al Rahma
+http://ivue.co:5999/live/shane1/shane1/223.ts
+#EXTINF:-1,AR:AL RAYAN
+http://ivue.co:5999/live/shane1/shane1/192.ts
+#EXTINF:-1,AR:Al Resalah
+http://ivue.co:5999/live/shane1/shane1/222.ts
+#EXTINF:-1,AR:Al Sharkia
+http://ivue.co:5999/live/shane1/shane1/170.ts
+#EXTINF:-1,AR:Al Sharqiya
+http://ivue.co:5999/live/shane1/shane1/2682.ts
+#EXTINF:-1,AR:Alarabiya Alhadath
+http://ivue.co:5999/live/shane1/shane1/210.ts
+#EXTINF:-1,AR:Alerth Al Nabawi
+http://ivue.co:5999/live/shane1/shane1/219.ts
+#EXTINF:-1,AR:Alfath
+http://ivue.co:5999/live/shane1/shane1/221.ts
+#EXTINF:-1,AR:Alhayah
+http://ivue.co:5999/live/shane1/shane1/130.ts
+#EXTINF:-1,AR:Alhayah 2
+http://ivue.co:5999/live/shane1/shane1/131.ts
+#EXTINF:-1,AR:Alhayah Series
+http://ivue.co:5999/live/shane1/shane1/132.ts
+#EXTINF:-1,AR:alhiwar
+http://ivue.co:5999/live/shane1/shane1/202.ts
+#EXTINF:-1,AR:Aljadeed
+http://ivue.co:5999/live/shane1/shane1/188.ts
+#EXTINF:-1,AR:Almajd
+http://ivue.co:5999/live/shane1/shane1/225.ts
+#EXTINF:-1,AR:Almajd Quran
+http://ivue.co:5999/live/shane1/shane1/226.ts
+#EXTINF:-1,AR:Almanar TV
+http://ivue.co:5999/live/shane1/shane1/190.ts
+#EXTINF:-1,AR:Almayadeen
+http://ivue.co:5999/live/shane1/shane1/2684.ts
+#EXTINF:-1,AR:Almehwar
+http://ivue.co:5999/live/shane1/shane1/203.ts
+#EXTINF:-1,AR:Alnahar
+http://ivue.co:5999/live/shane1/shane1/133.ts
+#EXTINF:-1,AR:Alrai TV
+http://ivue.co:5999/live/shane1/shane1/191.ts
+#EXTINF:-1,AR:Art Aflam 1
+http://ivue.co:5999/live/shane1/shane1/103.ts
+#EXTINF:-1,AR:Art Aflam 2
+http://ivue.co:5999/live/shane1/shane1/104.ts
+#EXTINF:-1,AR:Art Cinema
+http://ivue.co:5999/live/shane1/shane1/107.ts
+#EXTINF:-1,AR:Art Hekayat
+http://ivue.co:5999/live/shane1/shane1/105.ts
+#EXTINF:-1,AR:Art Hekayat 2
+http://ivue.co:5999/live/shane1/shane1/106.ts
+#EXTINF:-1,AR:assalamu alayka
+http://ivue.co:5999/live/shane1/shane1/216.ts
+#EXTINF:-1,AR:B4U Aflam
+http://ivue.co:5999/live/shane1/shane1/2576.ts
+#EXTINF:-1,AR:Baraem
+http://ivue.co:5999/live/shane1/shane1/236.ts
+#EXTINF:-1,AR:BBC_News
+http://ivue.co:5999/live/shane1/shane1/205.ts
+#EXTINF:-1,AR:BERBERE TV
+http://ivue.co:5999/live/shane1/shane1/55.ts
+#EXTINF:-1,AR:Cairo Cinema
+http://ivue.co:5999/live/shane1/shane1/129.ts
+#EXTINF:-1,AR:Cairo Drama
+http://ivue.co:5999/live/shane1/shane1/121.ts
+#EXTINF:-1,AR:Cbc
+http://ivue.co:5999/live/shane1/shane1/116.ts
+#EXTINF:-1,AR:Cbc Drama
+http://ivue.co:5999/live/shane1/shane1/118.ts
+#EXTINF:-1,AR:Cbc Extra
+http://ivue.co:5999/live/shane1/shane1/120.ts
+#EXTINF:-1,AR:Cbc Sofra
+http://ivue.co:5999/live/shane1/shane1/119.ts
+#EXTINF:-1,AR:Cbc Two
+http://ivue.co:5999/live/shane1/shane1/117.ts
+#EXTINF:-1,AR:CN arabia
+http://ivue.co:5999/live/shane1/shane1/237.ts
+#EXTINF:-1,AR:Dream 1
+http://ivue.co:5999/live/shane1/shane1/137.ts
+#EXTINF:-1,AR:Dream 2
+http://ivue.co:5999/live/shane1/shane1/138.ts
+#EXTINF:-1,AR:Dubai
+http://ivue.co:5999/live/shane1/shane1/146.ts
+#EXTINF:-1,AR:Dubai One
+http://ivue.co:5999/live/shane1/shane1/148.ts
+#EXTINF:-1,AR:Dubai Zaman
+http://ivue.co:5999/live/shane1/shane1/147.ts
+#EXTINF:-1,AR:El Sharq
+http://ivue.co:5999/live/shane1/shane1/200.ts
+#EXTINF:-1,AR:Elbilad
+http://ivue.co:5999/live/shane1/shane1/58.ts
+#EXTINF:-1,AR:ENTV RTA
+http://ivue.co:5999/live/shane1/shane1/57.ts
+#EXTINF:-1,AR:France 24
+http://ivue.co:5999/live/shane1/shane1/206.ts
+#EXTINF:-1,AR:Future TV
+http://ivue.co:5999/live/shane1/shane1/186.ts
+#EXTINF:-1,AR:hounabaghdad
+http://ivue.co:5999/live/shane1/shane1/193.ts
+#EXTINF:-1,AR:Iqraa
+http://ivue.co:5999/live/shane1/shane1/211.ts
+#EXTINF:-1,AR:Iqrae Europe
+http://ivue.co:5999/live/shane1/shane1/212.ts
+#EXTINF:-1,AR:JEEM EU
+http://ivue.co:5999/live/shane1/shane1/234.ts
+#EXTINF:-1,AR:Kaif
+http://ivue.co:5999/live/shane1/shane1/218.ts
+#EXTINF:-1,AR:KTV 1
+http://ivue.co:5999/live/shane1/shane1/176.ts
+#EXTINF:-1,AR:KTV 2
+http://ivue.co:5999/live/shane1/shane1/177.ts
+#EXTINF:-1,AR:KTV Al Majlis
+http://ivue.co:5999/live/shane1/shane1/181.ts
+#EXTINF:-1,AR:KTV Arabe
+http://ivue.co:5999/live/shane1/shane1/180.ts
+#EXTINF:-1,AR:KTV Ethraa
+http://ivue.co:5999/live/shane1/shane1/179.ts
+#EXTINF:-1,AR:KTV Plus
+http://ivue.co:5999/live/shane1/shane1/178.ts
+#EXTINF:-1,AR:LBC HD
+http://ivue.co:5999/live/shane1/shane1/2686.ts
+#EXTINF:-1,AR:LDC
+http://ivue.co:5999/live/shane1/shane1/187.ts
+#EXTINF:-1,AR:Lebanon Al Hiwar
+http://ivue.co:5999/live/shane1/shane1/2681.ts
+#EXTINF:-1,AR:Lebanon Alaan
+http://ivue.co:5999/live/shane1/shane1/2680.ts
+#EXTINF:-1,AR:Majid Kids
+http://ivue.co:5999/live/shane1/shane1/2671.ts
+#EXTINF:-1,AR:Makmeleen
+http://ivue.co:5999/live/shane1/shane1/201.ts
+#EXTINF:-1,AR:MBC 1
+http://ivue.co:5999/live/shane1/shane1/87.ts
+#EXTINF:-1,AR:MBC 2
+http://ivue.co:5999/live/shane1/shane1/89.ts
+#EXTINF:-1,AR:MBC 3
+http://ivue.co:5999/live/shane1/shane1/91.ts
+#EXTINF:-1,AR:MBC 4
+http://ivue.co:5999/live/shane1/shane1/93.ts
+#EXTINF:-1,AR:MBC Action
+http://ivue.co:5999/live/shane1/shane1/99.ts
+#EXTINF:-1,AR:MBC Action HD
+http://ivue.co:5999/live/shane1/shane1/98.ts
+#EXTINF:-1,AR:MBC Bollywood
+http://ivue.co:5999/live/shane1/shane1/102.ts
+#EXTINF:-1,AR:MBC Drama
+http://ivue.co:5999/live/shane1/shane1/97.ts
+#EXTINF:-1,AR:MBC Drama HD
+http://ivue.co:5999/live/shane1/shane1/96.ts
+#EXTINF:-1,AR:MBC Drama+ HD
+http://ivue.co:5999/live/shane1/shane1/2699.ts
+#EXTINF:-1,AR:MBC Masr
+http://ivue.co:5999/live/shane1/shane1/100.ts
+#EXTINF:-1,AR:Mbc Masr 2
+http://ivue.co:5999/live/shane1/shane1/101.ts
+#EXTINF:-1,AR:MBC Max
+http://ivue.co:5999/live/shane1/shane1/95.ts
+#EXTINF:-1,AR:MBC Max HD
+http://ivue.co:5999/live/shane1/shane1/94.ts
+#EXTINF:-1,AR:Mecca
+http://ivue.co:5999/live/shane1/shane1/220.ts
+#EXTINF:-1,AR:Mickey
+http://ivue.co:5999/live/shane1/shane1/2690.ts
+#EXTINF:-1,AR:Moga Comedy
+http://ivue.co:5999/live/shane1/shane1/115.ts
+#EXTINF:-1,AR:Mtv Leb
+http://ivue.co:5999/live/shane1/shane1/189.ts
+#EXTINF:-1,AR:NBN
+http://ivue.co:5999/live/shane1/shane1/2687.ts
+#EXTINF:-1,AR:Nile Cinma
+http://ivue.co:5999/live/shane1/shane1/174.ts
+#EXTINF:-1,AR:Nile Comedy
+http://ivue.co:5999/live/shane1/shane1/173.ts
+#EXTINF:-1,AR:Nile Drama
+http://ivue.co:5999/live/shane1/shane1/172.ts
+#EXTINF:-1,AR:Noor Dubai
+http://ivue.co:5999/live/shane1/shane1/150.ts
+#EXTINF:-1,AR:Noor Sham
+http://ivue.co:5999/live/shane1/shane1/2679.ts
+#EXTINF:-1,AR:Oman tv 1
+http://ivue.co:5999/live/shane1/shane1/165.ts
+#EXTINF:-1,AR:Oman tv 3
+http://ivue.co:5999/live/shane1/shane1/167.ts
+#EXTINF:-1,AR:OTV
+http://ivue.co:5999/live/shane1/shane1/2683.ts
+#EXTINF:-1,AR:Palastin
+http://ivue.co:5999/live/shane1/shane1/198.ts
+#EXTINF:-1,AR:Palastin  Live
+http://ivue.co:5999/live/shane1/shane1/199.ts
+#EXTINF:-1,AR:Panorama Drama
+http://ivue.co:5999/live/shane1/shane1/114.ts
+#EXTINF:-1,AR:Qatar
+http://ivue.co:5999/live/shane1/shane1/142.ts
+#EXTINF:-1,AR:Rotana Cinema
+http://ivue.co:5999/live/shane1/shane1/108.ts
+#EXTINF:-1,AR:Rotana Classic
+http://ivue.co:5999/live/shane1/shane1/109.ts
+#EXTINF:-1,AR:Rotana Clip
+http://ivue.co:5999/live/shane1/shane1/113.ts
+#EXTINF:-1,AR:Rotana Khalijia
+http://ivue.co:5999/live/shane1/shane1/112.ts
+#EXTINF:-1,AR:Rotana Masriya
+http://ivue.co:5999/live/shane1/shane1/111.ts
+#EXTINF:-1,AR:Rotana Music
+http://ivue.co:5999/live/shane1/shane1/110.ts
+#EXTINF:-1,AR:RT Arabia
+http://ivue.co:5999/live/shane1/shane1/204.ts
+#EXTINF:-1,AR:Sada ElBalad
+http://ivue.co:5999/live/shane1/shane1/139.ts
+#EXTINF:-1,AR:Sama Dubai
+http://ivue.co:5999/live/shane1/shane1/149.ts
+#EXTINF:-1,AR:Sama Syria
+http://ivue.co:5999/live/shane1/shane1/208.ts
+#EXTINF:-1,AR:SAT7 KIDS
+http://ivue.co:5999/live/shane1/shane1/2691.ts
+#EXTINF:-1,AR:Saudia 1
+http://ivue.co:5999/live/shane1/shane1/229.ts
+#EXTINF:-1,AR:Saudia 2
+http://ivue.co:5999/live/shane1/shane1/230.ts
+#EXTINF:-1,AR:Saudia Quran
+http://ivue.co:5999/live/shane1/shane1/232.ts
+#EXTINF:-1,AR:Saudia Sunna
+http://ivue.co:5999/live/shane1/shane1/231.ts
+#EXTINF:-1,AR:semsem
+http://ivue.co:5999/live/shane1/shane1/235.ts
+#EXTINF:-1,AR:Sharjah
+http://ivue.co:5999/live/shane1/shane1/215.ts
+#EXTINF:-1,AR:SPACETOON
+http://ivue.co:5999/live/shane1/shane1/239.ts
+#EXTINF:-1,AR:Star Cinema 1
+http://ivue.co:5999/live/shane1/shane1/127.ts
+#EXTINF:-1,AR:Star Cinema 2
+http://ivue.co:5999/live/shane1/shane1/128.ts
+#EXTINF:-1,AR:Syria
+http://ivue.co:5999/live/shane1/shane1/182.ts
+#EXTINF:-1,AR:Syria Aloula
+http://ivue.co:5999/live/shane1/shane1/185.ts
+#EXTINF:-1,AR:Syria ANN
+http://ivue.co:5999/live/shane1/shane1/2678.ts
+#EXTINF:-1,AR:Syria Drama
+http://ivue.co:5999/live/shane1/shane1/184.ts
+#EXTINF:-1,AR:Syria Education
+http://ivue.co:5999/live/shane1/shane1/2677.ts
+#EXTINF:-1,AR:Syria News
+http://ivue.co:5999/live/shane1/shane1/183.ts
+#EXTINF:-1,AR:Syrie medical
+http://ivue.co:5999/live/shane1/shane1/2689.ts
+#EXTINF:-1,AR:Time Cinema
+http://ivue.co:5999/live/shane1/shane1/126.ts
+#EXTINF:-1,AR:Time Comedy
+http://ivue.co:5999/live/shane1/shane1/125.ts
+#EXTINF:-1,AR:Time Film
+http://ivue.co:5999/live/shane1/shane1/123.ts
+#EXTINF:-1,AR:TIME QURAN
+http://ivue.co:5999/live/shane1/shane1/224.ts
+#EXTINF:-1,AR:Time Taxi
+http://ivue.co:5999/live/shane1/shane1/122.ts
+#EXTINF:-1,AR:TIME TURKI
+http://ivue.co:5999/live/shane1/shane1/124.ts
+#EXTINF:-1,AR:Toyor Al Janah
+http://ivue.co:5999/live/shane1/shane1/238.ts
+#EXTINF:-1,AR:Toyor Al Janah Baby
+http://ivue.co:5999/live/shane1/shane1/2709.ts
+#EXTINF:-1,AR:TRT ARABIA
+http://ivue.co:5999/live/shane1/shane1/175.ts
+#EXTINF:-1,AR:Wesal
+http://ivue.co:5999/live/shane1/shane1/214.ts
+#EXTINF:-1,AR:Zee Aflam
+http://ivue.co:5999/live/shane1/shane1/144.ts
+#EXTINF:-1,AR:Zee Alwan
+http://ivue.co:5999/live/shane1/shane1/143.ts
+#EXTINF:-1,AR2:Abu Dhabi 1
+http://ivue.co:5999/live/shane1/shane1/5579.ts
+#EXTINF:-1,AR2:Abu Dhabi Drama
+http://ivue.co:5999/live/shane1/shane1/5578.ts
+#EXTINF:-1,AR2:Abu Dhabi Emaraat
+http://ivue.co:5999/live/shane1/shane1/5577.ts
+#EXTINF:-1,AR2:AD Nat Geo HD
+http://ivue.co:5999/live/shane1/shane1/5575.ts
+#EXTINF:-1,AR2:ADJYAL
+http://ivue.co:5999/live/shane1/shane1/5585.ts
+#EXTINF:-1,AR2:Ajyal Kids
+http://ivue.co:5999/live/shane1/shane1/5403.ts
+#EXTINF:-1,AR2:Al Aan Tv
+http://ivue.co:5999/live/shane1/shane1/5490.ts
+#EXTINF:-1,AR2:AL Arabiya HD
+http://ivue.co:5999/live/shane1/shane1/5453.ts
+#EXTINF:-1,AR2:Al Dafrah
+http://ivue.co:5999/live/shane1/shane1/5497.ts
+#EXTINF:-1,--------------------INDIAN--------------------
+http://ivue.co:5999/live/shane1/shane1/939.ts
+#EXTINF:-1,IN:&Pictures HD
+http://ivue.co:5999/live/shane1/shane1/4140.ts
+#EXTINF:-1,IN:&TV HD
+http://ivue.co:5999/live/shane1/shane1/4139.ts
+#EXTINF:-1,IN:9X Jhakaas
+http://ivue.co:5999/live/shane1/shane1/4137.ts
+#EXTINF:-1,IN:9XM
+http://ivue.co:5999/live/shane1/shane1/4134.ts
+#EXTINF:-1,IN:AAJ Tak
+http://ivue.co:5999/live/shane1/shane1/4133.ts
+#EXTINF:-1,IN:Aastha Bhajan
+http://ivue.co:5999/live/shane1/shane1/4132.ts
+#EXTINF:-1,IN:ABP News
+http://ivue.co:5999/live/shane1/shane1/4131.ts
+#EXTINF:-1,IN:Asianet
+http://ivue.co:5999/live/shane1/shane1/4130.ts
+#EXTINF:-1,IN:Asianet Plus
+http://ivue.co:5999/live/shane1/shane1/4129.ts
+#EXTINF:-1,IN:B4U Movies
+http://ivue.co:5999/live/shane1/shane1/4128.ts
+#EXTINF:-1,IN:B4U Music
+http://ivue.co:5999/live/shane1/shane1/4127.ts
+#EXTINF:-1,IN:B4U Plus
+http://ivue.co:5999/live/shane1/shane1/4126.ts
+#EXTINF:-1,IN:Colors Gujarati
+http://ivue.co:5999/live/shane1/shane1/4123.ts
+#EXTINF:-1,IN:Colors TV IND
+http://ivue.co:5999/live/shane1/shane1/4120.ts
+#EXTINF:-1,IN:India TV
+http://ivue.co:5999/live/shane1/shane1/4116.ts
+#EXTINF:-1,IN:Life OK
+http://ivue.co:5999/live/shane1/shane1/4114.ts
+#EXTINF:-1,IN:MTV India
+http://ivue.co:5999/live/shane1/shane1/4111.ts
+#EXTINF:-1,IN:Music India
+http://ivue.co:5999/live/shane1/shane1/4110.ts
+#EXTINF:-1,IN:NDTV
+http://ivue.co:5999/live/shane1/shane1/4108.ts
+#EXTINF:-1,IN:NDTV 24x7
+http://ivue.co:5999/live/shane1/shane1/4107.ts
+#EXTINF:-1,IN:Rishtey
+http://ivue.co:5999/live/shane1/shane1/4100.ts
+#EXTINF:-1,IN:Sony Max
+http://ivue.co:5999/live/shane1/shane1/4097.ts
+#EXTINF:-1,IN:Sony Max 2
+http://ivue.co:5999/live/shane1/shane1/4096.ts
+#EXTINF:-1,IN:Sony Sab Asia
+http://ivue.co:5999/live/shane1/shane1/4094.ts
+#EXTINF:-1,IN:Sony Setmax
+http://ivue.co:5999/live/shane1/shane1/4093.ts
+#EXTINF:-1,IN:Sony TV HD
+http://ivue.co:5999/live/shane1/shane1/4091.ts
+#EXTINF:-1,IN:Star Gold
+http://ivue.co:5999/live/shane1/shane1/4090.ts
+#EXTINF:-1,IN:Star Plus HD
+http://ivue.co:5999/live/shane1/shane1/4088.ts
+#EXTINF:-1,IN:Sun TV
+http://ivue.co:5999/live/shane1/shane1/4085.ts
+#EXTINF:-1,IN:TV9 Gujarati
+http://ivue.co:5999/live/shane1/shane1/4084.ts
+#EXTINF:-1,IN:UTV Movies
+http://ivue.co:5999/live/shane1/shane1/4082.ts
+#EXTINF:-1,IN:Zee Action
+http://ivue.co:5999/live/shane1/shane1/4081.ts
+#EXTINF:-1,IN:Zee Bangla
+http://ivue.co:5999/live/shane1/shane1/4079.ts
+#EXTINF:-1,IN:Zee Bollywood HD
+http://ivue.co:5999/live/shane1/shane1/4078.ts
+#EXTINF:-1,IN:Zee Business
+http://ivue.co:5999/live/shane1/shane1/4077.ts
+#EXTINF:-1,IN:Zee Cinema
+http://ivue.co:5999/live/shane1/shane1/4075.ts
+#EXTINF:-1,IN:Zee Classic
+http://ivue.co:5999/live/shane1/shane1/4074.ts
+#EXTINF:-1,IN:Zee ETC
+http://ivue.co:5999/live/shane1/shane1/4073.ts
+#EXTINF:-1,IN:Zee Living
+http://ivue.co:5999/live/shane1/shane1/4070.ts
+#EXTINF:-1,IN:Zee Marathi
+http://ivue.co:5999/live/shane1/shane1/4069.ts
+#EXTINF:-1,IN:Zee News
+http://ivue.co:5999/live/shane1/shane1/4068.ts
+#EXTINF:-1,IN:Zee Punjabi
+http://ivue.co:5999/live/shane1/shane1/4066.ts
+#EXTINF:-1,IN:Zee Studio
+http://ivue.co:5999/live/shane1/shane1/4063.ts
+#EXTINF:-1,IN:Zee Talkies
+http://ivue.co:5999/live/shane1/shane1/4062.ts
+#EXTINF:-1,IN:Zee Tamil
+http://ivue.co:5999/live/shane1/shane1/4061.ts
+#EXTINF:-1,IN:Zee TV
+http://ivue.co:5999/live/shane1/shane1/4060.ts
+#EXTINF:-1,IN:Zing
+http://ivue.co:5999/live/shane1/shane1/4058.ts
+#EXTINF:-1,IN:Zoom
+http://ivue.co:5999/live/shane1/shane1/4057.ts
+#EXTINF:-1,====== Pakistan ======
+http://ivue.co:5999/live/shane1/shane1/4232.ts
+#EXTINF:-1,PK:92 NEWS HD
+http://ivue.co:5999/live/shane1/shane1/4229.ts
+#EXTINF:-1,PK:ARY DIGITAL PAK
+http://ivue.co:5999/live/shane1/shane1/4221.ts
+#EXTINF:-1,PK:ARY MUSIC
+http://ivue.co:5999/live/shane1/shane1/4218.ts
+#EXTINF:-1,PK:ARY NEWS HD
+http://ivue.co:5999/live/shane1/shane1/4217.ts
+#EXTINF:-1,PK:ARY QTV
+http://ivue.co:5999/live/shane1/shane1/4215.ts
+#EXTINF:-1,PK:ARY ZAIQA
+http://ivue.co:5999/live/shane1/shane1/4214.ts
+#EXTINF:-1,PK:CAPITAL NEWS
+http://ivue.co:5999/live/shane1/shane1/4207.ts
+#EXTINF:-1,PK:DAWN NEWS
+http://ivue.co:5999/live/shane1/shane1/4204.ts
+#EXTINF:-1,PK:DUNIYA NEWS
+http://ivue.co:5999/live/shane1/shane1/4200.ts
+#EXTINF:-1,PK:Geo Kahani
+http://ivue.co:5999/live/shane1/shane1/4193.ts
+#EXTINF:-1,PK:Geo News
+http://ivue.co:5999/live/shane1/shane1/4192.ts
+#EXTINF:-1,PK:Geo Tezz
+http://ivue.co:5999/live/shane1/shane1/4191.ts
+#EXTINF:-1,PK:GEO TV HD
+http://ivue.co:5999/live/shane1/shane1/4190.ts
+#EXTINF:-1,PK:Hum Sitaray
+http://ivue.co:5999/live/shane1/shane1/4184.ts
+#EXTINF:-1,PK:KHYBER NEWS
+http://ivue.co:5999/live/shane1/shane1/4176.ts
+#EXTINF:-1,PK:MUSIC NOW
+http://ivue.co:5999/live/shane1/shane1/4169.ts
+#EXTINF:-1,PK:Samaa TV
+http://ivue.co:5999/live/shane1/shane1/4156.ts
+#EXTINF:-1,PK:SEE TV HD
+http://ivue.co:5999/live/shane1/shane1/4155.ts
+#EXTINF:-1,PK:TV ONE
+http://ivue.co:5999/live/shane1/shane1/4149.ts
+#EXTINF:-1,PK:Waseb TV
+http://ivue.co:5999/live/shane1/shane1/4145.ts
+#EXTINF:-1,====== Africa & World =======
+http://ivue.co:5999/live/shane1/shane1/4351.ts
+#EXTINF:-1,AF:2s TV
+http://ivue.co:5999/live/shane1/shane1/4349.ts
+#EXTINF:-1,AF:Adom TV ( Ghana )
+http://ivue.co:5999/live/shane1/shane1/4346.ts
+#EXTINF:-1,AF:Africa 24
+http://ivue.co:5999/live/shane1/shane1/4345.ts
+#EXTINF:-1,AF:ANN 7 South Africa
+http://ivue.co:5999/live/shane1/shane1/4338.ts
+#EXTINF:-1,AF:Ben TV ( Ghana )
+http://ivue.co:5999/live/shane1/shane1/4337.ts
+#EXTINF:-1,AF:Crtv TV ( Cameroun )
+http://ivue.co:5999/live/shane1/shane1/4330.ts
+#EXTINF:-1,AF:Diaspora24 (Ghana)
+http://ivue.co:5999/live/shane1/shane1/4326.ts
+#EXTINF:-1,AF:Emmanuel TV
+http://ivue.co:5999/live/shane1/shane1/4322.ts
+#EXTINF:-1,AF:Impact TV (Burkina Faso)
+http://ivue.co:5999/live/shane1/shane1/4311.ts
+#EXTINF:-1,AF:Joy News
+http://ivue.co:5999/live/shane1/shane1/4308.ts
+#EXTINF:-1,AF:Kalsan TV
+http://ivue.co:5999/live/shane1/shane1/4303.ts
+#EXTINF:-1,AF:KTN ( Somali)
+http://ivue.co:5999/live/shane1/shane1/4299.ts
+#EXTINF:-1,AF:Loveworld Plus TV ( Nigeria )
+http://ivue.co:5999/live/shane1/shane1/4298.ts
+#EXTINF:-1,AF:Mourchid TV (Senegal)
+http://ivue.co:5999/live/shane1/shane1/4294.ts
+#EXTINF:-1,AF:Nollywood Movies
+http://ivue.co:5999/live/shane1/shane1/4286.ts
+#EXTINF:-1,AF:Ortb TV Benin
+http://ivue.co:5999/live/shane1/shane1/4280.ts
+#EXTINF:-1,AF:ORTM ( Mali )
+http://ivue.co:5999/live/shane1/shane1/4279.ts
+#EXTINF:-1,AF:Rave TV ( Nigeria )
+http://ivue.co:5999/live/shane1/shane1/4277.ts
+#EXTINF:-1,AF:Rok TV ( Nigeria )
+http://ivue.co:5999/live/shane1/shane1/4275.ts
+#EXTINF:-1,AF:RTi1 TV ( Cote d'Ivoir )
+http://ivue.co:5999/live/shane1/shane1/4272.ts
+#EXTINF:-1,AF:RTI2 TV ( Cote d'Ivoir )
+http://ivue.co:5999/live/shane1/shane1/4271.ts
+#EXTINF:-1,AF:RTS1 Senegal
+http://ivue.co:5999/live/shane1/shane1/4268.ts
+#EXTINF:-1,AF:RTV Rwanda
+http://ivue.co:5999/live/shane1/shane1/4266.ts
+#EXTINF:-1,AF:Sen TV ( Senegal )
+http://ivue.co:5999/live/shane1/shane1/4263.ts
+#EXTINF:-1,AF:SNTV
+http://ivue.co:5999/live/shane1/shane1/4261.ts
+#EXTINF:-1,AF:Somali Cable
+http://ivue.co:5999/live/shane1/shane1/4260.ts
+#EXTINF:-1,AF:Tchad TV
+http://ivue.co:5999/live/shane1/shane1/4258.ts
+#EXTINF:-1,AF:Telesud TV
+http://ivue.co:5999/live/shane1/shane1/4253.ts
+#EXTINF:-1,AF:TFM (Senegal)
+http://ivue.co:5999/live/shane1/shane1/4252.ts
+#EXTINF:-1,AF:TM2 ( Mali )
+http://ivue.co:5999/live/shane1/shane1/4249.ts
+#EXTINF:-1,AF:TPA (Angola)
+http://ivue.co:5999/live/shane1/shane1/4246.ts
+#EXTINF:-1,AF:TVC News ( Nigeria )
+http://ivue.co:5999/live/shane1/shane1/4241.ts
+#EXTINF:-1,----------------VOD-------------------
+http://ivue.co:5999/live/shane1/shane1/8207.ts
+#EXTINF:-1,All Nighter. 2017
+http://ivue.co:5999/movie/shane1/shane1/8155.mp4
+#EXTINF:-1,47 Meters Down. 2017
+http://ivue.co:5999/movie/shane1/shane1/8157.mp4
+#EXTINF:-1,Alien_ Covenant. 2017
+http://ivue.co:5999/movie/shane1/shane1/8174.mp4
+#EXTINF:-1,American Justice. 2017
+http://ivue.co:5999/movie/shane1/shane1/8158.mp4
+#EXTINF:-1,American Violence. 2017
+http://ivue.co:5999/movie/shane1/shane1/8173.mp4
+#EXTINF:-1,Armed Response. 2017
+http://ivue.co:5999/movie/shane1/shane1/8159.mp4
+#EXTINF:-1,Arsenal. 2017
+http://ivue.co:5999/movie/shane1/shane1/8175.mp4
+#EXTINF:-1,Band Aid. 2017
+http://ivue.co:5999/movie/shane1/shane1/8164.mp4
+#EXTINF:-1,Beauty and the Beast. 2017
+http://ivue.co:5999/movie/shane1/shane1/8176.mp4
+#EXTINF:-1,Bon Cop Bad Cop2. 2017
+http://ivue.co:5999/movie/shane1/shane1/8177.mp4
+#EXTINF:-1,Bushwick. 2017
+http://ivue.co:5999/movie/shane1/shane1/8165.mp4
+#EXTINF:-1,Captain Underpants_ The First Epic Movie. 2017
+http://ivue.co:5999/movie/shane1/shane1/8166.mp4
+#EXTINF:-1,CHIPS. 2017
+http://ivue.co:5999/movie/shane1/shane1/8178.mp4
+#EXTINF:-1,Cult of Chucky. 2017
+http://ivue.co:5999/movie/shane1/shane1/8179.mp4
+#EXTINF:-1,Dead Again in Tombstone. 2017
+http://ivue.co:5999/movie/shane1/shane1/8180.mp4
+#EXTINF:-1,Death Race 2050. 2017
+http://ivue.co:5999/movie/shane1/shane1/8181.mp4
+#EXTINF:-1,Despicable Me 3. 2017
+http://ivue.co:5999/movie/shane1/shane1/8183.mp4
+#EXTINF:-1,Drone 2017
+http://ivue.co:5999/movie/shane1/shane1/8184.mp4
+#EXTINF:-1,Dunkirk. 2017
+http://ivue.co:5999/movie/shane1/shane1/8185.mp4
+#EXTINF:-1,Ferrari_ Race to Immortality. 2017
+http://ivue.co:5999/movie/shane1/shane1/8186.mp4
+#EXTINF:-1,First Kill. 2017
+http://ivue.co:5999/movie/shane1/shane1/8167.mp4
+#EXTINF:-1,Fun Mom Dinner. 2017
+http://ivue.co:5999/movie/shane1/shane1/8168.mp4
+#EXTINF:-1,Get the Girl. 2017
+http://ivue.co:5999/movie/shane1/shane1/8187.mp4
+#EXTINF:-1,Gifted. 2017
+http://ivue.co:5999/movie/shane1/shane1/8169.mp4
+#EXTINF:-1,Goon_ Last of the Enforcers. 2017
+http://ivue.co:5999/movie/shane1/shane1/8188.mp4
+#EXTINF:-1,How to Be a Latin Lover. 2017
+http://ivue.co:5999/movie/shane1/shane1/8160.mp4
+#EXTINF:-1,Inconceivable. 2017
+http://ivue.co:5999/movie/shane1/shane1/8189.mp4
+#EXTINF:-1,It Comes at Night. 2017
+http://ivue.co:5999/movie/shane1/shane1/8170.mp4
+#EXTINF:-1,Justice. 2017
+http://ivue.co:5999/movie/shane1/shane1/8190.mp4
+#EXTINF:-1,Justice League Dark. 2017
+http://ivue.co:5999/movie/shane1/shane1/8191.mp4
+#EXTINF:-1,Khali The Killer. 2017
+http://ivue.co:5999/movie/shane1/shane1/8182.mp4
+#EXTINF:-1,Kill Switch. 2017
+http://ivue.co:5999/movie/shane1/shane1/8192.mp4
+#EXTINF:-1,King Arthur_ Legend of the Sword. 2017
+http://ivue.co:5999/movie/shane1/shane1/8193.mp4
+#EXTINF:-1,Leatherface. 2017
+http://ivue.co:5999/movie/shane1/shane1/8133.mp4
+#EXTINF:-1,Logan Lucky 2017
+http://ivue.co:5999/movie/shane1/shane1/8099.avi
+#EXTINF:-1,Love of My Life. 2017
+http://ivue.co:5999/movie/shane1/shane1/8194.mp4
+#EXTINF:-1,Pirates of the Caribbean_ Dead Men Tell No Tales. 2017
+http://ivue.co:5999/movie/shane1/shane1/8195.mp4
+#EXTINF:-1,Pire soirée 2017
+http://ivue.co:5999/movie/shane1/shane1/8098.avi
+#EXTINF:-1,Savage Dog. 2017
+http://ivue.co:5999/movie/shane1/shane1/8196.mp4
+#EXTINF:-1,Shot Caller. 2017
+http://ivue.co:5999/movie/shane1/shane1/8197.mp4
+#EXTINF:-1,Smurfs_ The Lost Village. 2017
+http://ivue.co:5999/movie/shane1/shane1/8198.mp4
+#EXTINF:-1,Star Raiders_ The Adventures of Saber Raine. 2017
+http://ivue.co:5999/movie/shane1/shane1/8161.mp4
+#EXTINF:-1,Stratton. 2017
+http://ivue.co:5999/movie/shane1/shane1/8199.mp4
+#EXTINF:-1,The Case for Christ. 2017
+http://ivue.co:5999/movie/shane1/shane1/8162.mp4
+#EXTINF:-1,The Institute. 2017
+http://ivue.co:5999/movie/shane1/shane1/8200.mp4
+#EXTINF:-1,The LEGO Ninjago Movie. 2017
+http://ivue.co:5999/movie/shane1/shane1/8134.mp4
+#EXTINF:-1,The Marine 5_ Battleground. 2017
+http://ivue.co:5999/movie/shane1/shane1/8201.mp4
+#EXTINF:-1,The Mummy. 2017
+http://ivue.co:5999/movie/shane1/shane1/8202.mp4
+#EXTINF:-1,The Sense of an Ending. 2017
+http://ivue.co:5999/movie/shane1/shane1/8203.mp4
+#EXTINF:-1,The Zookeeper's Wife. 2017
+http://ivue.co:5999/movie/shane1/shane1/8204.mp4
+#EXTINF:-1,Transformers_ The Last Knight. 2017
+http://ivue.co:5999/movie/shane1/shane1/8163.mp4
+#EXTINF:-1,Unlocked. 2017
+http://ivue.co:5999/movie/shane1/shane1/8171.mp4
+#EXTINF:-1,Valerian and the City of a Thousand Planets. 2017
+http://ivue.co:5999/movie/shane1/shane1/8172.mp4
+#EXTINF:-1,War for the Planet of the Apes. 2017
+http://ivue.co:5999/movie/shane1/shane1/8205.mp4
+#EXTINF:-1,Wish Upon. 2017
+http://ivue.co:5999/movie/shane1/shane1/8206.mp4
+#EXTINF:-1,2:22. 2017
+http://ivue.co:5999/movie/shane1/shane1/8156.mp4
+#EXTINF:-1,A Few Less Men. 2017
+http://ivue.co:5999/movie/shane1/shane1/8312.mp4
+#EXTINF:-1,A Very Sordid Wedding. 2017
+http://ivue.co:5999/movie/shane1/shane1/8409.mp4
+#EXTINF:-1,Baywatch. 2017
+http://ivue.co:5999/movie/shane1/shane1/8412.mp4
+#EXTINF:-1,Berlin Syndrome. 2017
+http://ivue.co:5999/movie/shane1/shane1/8413.mp4
+#EXTINF:-1,Churchill. 2017
+http://ivue.co:5999/movie/shane1/shane1/8414.mp4
+#EXTINF:-1,Dirty Dancing. 2017
+http://ivue.co:5999/movie/shane1/shane1/8415.mp4
+#EXTINF:-1,Girls Trip. 2017
+http://ivue.co:5999/movie/shane1/shane1/8416.mp4
+#EXTINF:-1,Kidnap. 2017
+http://ivue.co:5999/movie/shane1/shane1/8417.mp4
+#EXTINF:-1,Rough Night. 2017
+http://ivue.co:5999/movie/shane1/shane1/8418.mp4
+#EXTINF:-1,Sharknado 5_ Global Swarming. 2017
+http://ivue.co:5999/movie/shane1/shane1/8419.mp4
+#EXTINF:-1,The Big Sick. 2017
+http://ivue.co:5999/movie/shane1/shane1/8420.mp4
+#EXTINF:-1,The Circle. 2017
+http://ivue.co:5999/movie/shane1/shane1/8421.mp4
+#EXTINF:-1,The Girl from the Song. 2017
+http://ivue.co:5999/movie/shane1/shane1/8422.mp4
+#EXTINF:-1,The Recall. 2017
+http://ivue.co:5999/movie/shane1/shane1/8423.mp4
+#EXTINF:-1,Throne of Elves. 2017
+http://ivue.co:5999/movie/shane1/shane1/8424.mp4
+#EXTINF:-1,Whitney_ Can I Be Me. 2017
+http://ivue.co:5999/movie/shane1/shane1/8425.mp4
+#EXTINF:-1,Williams. 2017
+http://ivue.co:5999/movie/shane1/shane1/8426.mp4
+#EXTINF:-1,1 Buck. 2017
+http://ivue.co:5999/movie/shane1/shane1/8556.mp4
+#EXTINF:-1,Submerged. 2016
+http://ivue.co:5999/movie/shane1/shane1/8706.mp4
+#EXTINF:-1,Super Dark Times. 2017
+http://ivue.co:5999/movie/shane1/shane1/8707.mp4
+#EXTINF:-1,The Axe Murders of Villisca. 2016
+http://ivue.co:5999/movie/shane1/shane1/8708.mp4
+#EXTINF:-1,The Conjuring 2. 2016
+http://ivue.co:5999/movie/shane1/shane1/8709.mp4
+#EXTINF:-1,The Duel. 2016
+http://ivue.co:5999/movie/shane1/shane1/8710.mp4
+#EXTINF:-1,The Foreigner. 2017
+http://ivue.co:5999/movie/shane1/shane1/8711.mp4
+#EXTINF:-1,The Matchbreaker. 2016
+http://ivue.co:5999/movie/shane1/shane1/8712.mp4
+#EXTINF:-1,The Mountain Between Us. 2017
+http://ivue.co:5999/movie/shane1/shane1/8713.mp4
+#EXTINF:-1,The Neighbor. 2016
+http://ivue.co:5999/movie/shane1/shane1/8714.mp4
+#EXTINF:-1,The Nut Job 2_ Nutty by Nature. 2017
+http://ivue.co:5999/movie/shane1/shane1/8626.mp4
+#EXTINF:-1,The Party. 2017
+http://ivue.co:5999/movie/shane1/shane1/8715.mp4
+#EXTINF:-1,The Purge_ Election Year. 2016
+http://ivue.co:5999/movie/shane1/shane1/8716.mp4
+#EXTINF:-1,The Remains. 2016
+http://ivue.co:5999/movie/shane1/shane1/8717.mp4
+#EXTINF:-1,The Shack. 2017
+http://ivue.co:5999/movie/shane1/shane1/8627.mp4
+#EXTINF:-1,The Shadow Effect. 2017
+http://ivue.co:5999/movie/shane1/shane1/8628.mp4
+#EXTINF:-1,The Space Between Us. 2017
+http://ivue.co:5999/movie/shane1/shane1/8629.mp4
+#EXTINF:-1,The Vault. 2017
+http://ivue.co:5999/movie/shane1/shane1/8630.mp4
+#EXTINF:-1,The Veil. 2016
+http://ivue.co:5999/movie/shane1/shane1/8718.mp4
+#EXTINF:-1,The Wizard of Lies. 2017
+http://ivue.co:5999/movie/shane1/shane1/8631.mp4
+#EXTINF:-1,Their Finest. 2016
+http://ivue.co:5999/movie/shane1/shane1/8719.mp4
+#EXTINF:-1,This Is Your Death. 2017
+http://ivue.co:5999/movie/shane1/shane1/8632.mp4
+#EXTINF:-1,Tulip Fever. 2017
+http://ivue.co:5999/movie/shane1/shane1/8720.mp4
+#EXTINF:-1,Unforgettable. 2017
+http://ivue.co:5999/movie/shane1/shane1/8633.mp4
+#EXTINF:-1,Viking Legacy. 2016
+http://ivue.co:5999/movie/shane1/shane1/8721.mp4
+#EXTINF:-1,War on Everyone. 2016
+http://ivue.co:5999/movie/shane1/shane1/8722.mp4
+#EXTINF:-1,We Still Steal the Old Way. 2017
+http://ivue.co:5999/movie/shane1/shane1/8635.mp4
+#EXTINF:-1,When the Bough Breaks. 2016
+http://ivue.co:5999/movie/shane1/shane1/8723.mp4
+#EXTINF:-1,Wiener-Dog. 2016
+http://ivue.co:5999/movie/shane1/shane1/8724.mp4
+#EXTINF:-1,Woodshock. 2017
+http://ivue.co:5999/movie/shane1/shane1/8725.mp4
+#EXTINF:-1,Zoolander 2. 2016
+http://ivue.co:5999/movie/shane1/shane1/8726.mp4
+#EXTINF:-1,Zootopia. 2016
+http://ivue.co:5999/movie/shane1/shane1/8727.mp4
+#EXTINF:-1,Rings. 2017
+http://ivue.co:5999/movie/shane1/shane1/8608.mp4
+#EXTINF:-1,Risen. 2016
+http://ivue.co:5999/movie/shane1/shane1/8701.mp4
+#EXTINF:-1,Risk. 2016
+http://ivue.co:5999/movie/shane1/shane1/8702.mp4
+#EXTINF:-1,Phoenix Forgotten. 2017
+http://ivue.co:5999/movie/shane1/shane1/8605.mp4
+#EXTINF:-1,Pilgrimage. 2017
+http://ivue.co:5999/movie/shane1/shane1/8606.mp4
+#EXTINF:-1,Playing with Dolls_ Bloodlust. 2016
+http://ivue.co:5999/movie/shane1/shane1/8696.mp4
+#EXTINF:-1,Pride and Prejudice and Zombies. 2016
+http://ivue.co:5999/movie/shane1/shane1/8697.mp4
+#EXTINF:-1,Sing Street. 2016
+http://ivue.co:5999/movie/shane1/shane1/8703.mp4
+#EXTINF:-1,Singularity. 2017
+http://ivue.co:5999/movie/shane1/shane1/8704.mp4
+#EXTINF:-1,Moontrap_ Target Earth. 2017
+http://ivue.co:5999/movie/shane1/shane1/8598.mp4
+#EXTINF:-1,Mother Krampus. 2017
+http://ivue.co:5999/movie/shane1/shane1/8687.mp4
+#EXTINF:-1,Mother!. 2017
+http://ivue.co:5999/movie/shane1/shane1/8688.mp4
+#EXTINF:-1,Night of Something Strange. 2016
+http://ivue.co:5999/movie/shane1/shane1/8689.mp4
+#EXTINF:-1,M.F.A. 2017
+http://ivue.co:5999/movie/shane1/shane1/8683.mp4
+#EXTINF:-1,Marshall. 2017
+http://ivue.co:5999/movie/shane1/shane1/8684.mp4
+#EXTINF:-1,68 Kill. 2017
+http://ivue.co:5999/movie/shane1/shane1/8557.mp4
+#EXTINF:-1,A Dog's Purpose. 2017
+http://ivue.co:5999/movie/shane1/shane1/8558.mp4
+#EXTINF:-1,A Ghost Story. 2017
+http://ivue.co:5999/movie/shane1/shane1/8540.mp4
+#EXTINF:-1,Atomic Blonde. 2017
+http://ivue.co:5999/movie/shane1/shane1/8562.mp4
+#EXTINF:-1,Atomica. 2017
+http://ivue.co:5999/movie/shane1/shane1/8563.mp4
+#EXTINF:-1,Baby Driver. 2017
+http://ivue.co:5999/movie/shane1/shane1/8541.mp4
+#EXTINF:-1,Batman vs. Two-Face. 2017
+http://ivue.co:5999/movie/shane1/shane1/8542.mp4
+#EXTINF:-1,Before I Fall. 2017
+http://ivue.co:5999/movie/shane1/shane1/8564.mp4
+#EXTINF:-1,Black Butterfly. 2017
+http://ivue.co:5999/movie/shane1/shane1/8565.mp4
+#EXTINF:-1,Blind. 2017
+http://ivue.co:5999/movie/shane1/shane1/8566.mp4
+#EXTINF:-1,Bonded by Blood 2. 2017
+http://ivue.co:5999/movie/shane1/shane1/8567.mp4
+#EXTINF:-1,Brawl in Cell Block 99. 2017
+http://ivue.co:5999/movie/shane1/shane1/8568.mp4
+#EXTINF:-1,Brigsby Bear. 2017
+http://ivue.co:5999/movie/shane1/shane1/8570.mp4
+#EXTINF:-1,Cargo. 2017
+http://ivue.co:5999/movie/shane1/shane1/8571.mp4
+#EXTINF:-1,Check Point. 2017
+http://ivue.co:5999/movie/shane1/shane1/8572.mp4
+#EXTINF:-1,Cross Wars. 2017
+http://ivue.co:5999/movie/shane1/shane1/8573.mp4
+#EXTINF:-1,Eloise. 2017
+http://ivue.co:5999/movie/shane1/shane1/8543.mp4
+#EXTINF:-1,Escape Room. 2017
+http://ivue.co:5999/movie/shane1/shane1/8544.mp4
+#EXTINF:-1,Gook. 2017
+http://ivue.co:5999/movie/shane1/shane1/8545.mp4
+#EXTINF:-1,Guardians of the Galaxy Vol. 2. 2017
+http://ivue.co:5999/movie/shane1/shane1/8546.mp4
+#EXTINF:-1,My Cousin Rachel. 2017
+http://ivue.co:5999/movie/shane1/shane1/8547.mp4
+#EXTINF:-1,Oceans Rising. 2017
+http://ivue.co:5999/movie/shane1/shane1/8548.mp4
+#EXTINF:-1,Open Water 3_ Cage Dive. 2017
+http://ivue.co:5999/movie/shane1/shane1/8549.mp4
+#EXTINF:-1,Power Rangers. 2017
+http://ivue.co:5999/movie/shane1/shane1/8550.mp4
+#EXTINF:-1,Revolt. 2017
+http://ivue.co:5999/movie/shane1/shane1/8551.mp4
+#EXTINF:-1,Security. 2017
+http://ivue.co:5999/movie/shane1/shane1/8552.mp4
+#EXTINF:-1,Starship Troopers_ Traitor of Mars. 2017
+http://ivue.co:5999/movie/shane1/shane1/8553.mp4
+#EXTINF:-1,The Boss Baby. 2017
+http://ivue.co:5999/movie/shane1/shane1/8554.mp4
+#EXTINF:-1,The Bye Bye Man. 2017
+http://ivue.co:5999/movie/shane1/shane1/8555.mp4
+#EXTINF:-1,Aftermath. 2017
+http://ivue.co:5999/movie/shane1/shane1/8559.mp4
+#EXTINF:-1,Altitude. 2017
+http://ivue.co:5999/movie/shane1/shane1/8560.mp4
+#EXTINF:-1,American Gothic. 2017
+http://ivue.co:5999/movie/shane1/shane1/8569.mp4
+#EXTINF:-1,Annabelle_ Creation. 2017
+http://ivue.co:5999/movie/shane1/shane1/8561.mp4
+#EXTINF:-1,10 Cloverfield Lane. 2016
+http://ivue.co:5999/movie/shane1/shane1/8641.mp4
+#EXTINF:-1,A Dark Song. 2016
+http://ivue.co:5999/movie/shane1/shane1/8642.mp4
+#EXTINF:-1,A Family Man. 2016
+http://ivue.co:5999/movie/shane1/shane1/8643.mp4
+#EXTINF:-1,A Question of Faith. 2016
+http://ivue.co:5999/movie/shane1/shane1/8644.mp4
+#EXTINF:-1,Abattoir. 2016
+http://ivue.co:5999/movie/shane1/shane1/8645.mp4
+#EXTINF:-1,Albion_ The Enchanted Stallion. 2016
+http://ivue.co:5999/movie/shane1/shane1/8646.mp4
+#EXTINF:-1,All Saints. 2017
+http://ivue.co:5999/movie/shane1/shane1/8647.mp4
+#EXTINF:-1,American Made. 2016
+http://ivue.co:5999/movie/shane1/shane1/8648.mp4
+#EXTINF:-1,American Pastoral. 2016
+http://ivue.co:5999/movie/shane1/shane1/8649.mp4
+#EXTINF:-1,Amityville_ The Awakening. 2017
+http://ivue.co:5999/movie/shane1/shane1/8650.mp4
+#EXTINF:-1,Battle for Skyark. 2015
+http://ivue.co:5999/movie/shane1/shane1/8651.mp4
+#EXTINF:-1,Battle of the Sexes. 2015
+http://ivue.co:5999/movie/shane1/shane1/8652.mp4
+#EXTINF:-1,Beach Rats. 2017
+http://ivue.co:5999/movie/shane1/shane1/8653.mp4
+#EXTINF:-1,Bitch. 2017
+http://ivue.co:5999/movie/shane1/shane1/8654.mp4
+#EXTINF:-1,Bleed for This. 2016
+http://ivue.co:5999/movie/shane1/shane1/8655.mp4
+#EXTINF:-1,Blood Money. 2017
+http://ivue.co:5999/movie/shane1/shane1/8656.mp4
+#EXTINF:-1,Brad's Status. 2017
+http://ivue.co:5999/movie/shane1/shane1/8657.mp4
+#EXTINF:-1,Breathe. 2017
+http://ivue.co:5999/movie/shane1/shane1/8658.mp4
+#EXTINF:-1,Despite the Falling Snow. 2017
+http://ivue.co:5999/movie/shane1/shane1/8659.mp4
+#EXTINF:-1,Detroit. 2017
+http://ivue.co:5999/movie/shane1/shane1/8660.mp4
+#EXTINF:-1,Don't Kill It. 2016
+http://ivue.co:5999/movie/shane1/shane1/8661.mp4
+#EXTINF:-1,Elvis Lives!. 2016
+http://ivue.co:5999/movie/shane1/shane1/8662.mp4
+#EXTINF:-1,Empire of the Sharks. 2017
+http://ivue.co:5999/movie/shane1/shane1/8574.mp4
+#EXTINF:-1,Exposed. 2016
+http://ivue.co:5999/movie/shane1/shane1/8663.mp4
+#EXTINF:-1,Extortion. 2017
+http://ivue.co:5999/movie/shane1/shane1/8575.mp4
+#EXTINF:-1,Fender Bender. 2016
+http://ivue.co:5999/movie/shane1/shane1/8664.mp4
+#EXTINF:-1,Fifty Shades Darker. 2017
+http://ivue.co:5999/movie/shane1/shane1/8576.mp4
+#EXTINF:-1,Finding Altamira. 2016
+http://ivue.co:5999/movie/shane1/shane1/8665.mp4
+#EXTINF:-1,Fist Fight. 2017
+http://ivue.co:5999/movie/shane1/shane1/8577.mp4
+#EXTINF:-1,Friend Request. 2016
+http://ivue.co:5999/movie/shane1/shane1/8666.mp4
+#EXTINF:-1,Geo-Disaster. 2017
+http://ivue.co:5999/movie/shane1/shane1/8578.mp4
+#EXTINF:-1,Get Out. 2017
+http://ivue.co:5999/movie/shane1/shane1/8579.mp4
+#EXTINF:-1,Ghost in the Shell. 2017
+http://ivue.co:5999/movie/shane1/shane1/8580.mp4
+#EXTINF:-1,Gimme Danger. 2016
+http://ivue.co:5999/movie/shane1/shane1/8667.mp4
+#EXTINF:-1,God's Not Dead 2. 2016
+http://ivue.co:5999/movie/shane1/shane1/8668.mp4
+#EXTINF:-1,Going in Style. 2017
+http://ivue.co:5999/movie/shane1/shane1/8581.mp4
+#EXTINF:-1,Gun Shy. 2017
+http://ivue.co:5999/movie/shane1/shane1/8582.mp4
+#EXTINF:-1,Hail, Caesar!. 2016
+http://ivue.co:5999/movie/shane1/shane1/8669.mp4
+#EXTINF:-1,Heartbeats. 2017
+http://ivue.co:5999/movie/shane1/shane1/8670.mp4
+#EXTINF:-1,Hickok. 2017
+http://ivue.co:5999/movie/shane1/shane1/8583.mp4
+#EXTINF:-1,Hired Gun. 2016
+http://ivue.co:5999/movie/shane1/shane1/8671.mp4
+#EXTINF:-1,Ingrid Goes West. 2017
+http://ivue.co:5999/movie/shane1/shane1/8584.mp4
+#EXTINF:-1,ISRA 88. 2016
+http://ivue.co:5999/movie/shane1/shane1/8672.mp4
+#EXTINF:-1,It. 2017
+http://ivue.co:5999/movie/shane1/shane1/8673.mp4
+#EXTINF:-1,Jack Reacher_ Never Go Back. 2016
+http://ivue.co:5999/movie/shane1/shane1/8674.mp4
+#EXTINF:-1,Jawbone. 2017
+http://ivue.co:5999/movie/shane1/shane1/8585.mp4
+#EXTINF:-1,John Wick_ Chapter 2. 2017
+http://ivue.co:5999/movie/shane1/shane1/8586.mp4
+#EXTINF:-1,Joker's Wild. 2016
+http://ivue.co:5999/movie/shane1/shane1/8675.mp4
+#EXTINF:-1,Jungle. 2017
+http://ivue.co:5999/movie/shane1/shane1/8587.mp4
+#EXTINF:-1,Kickboxer_ Vengeance. 2016
+http://ivue.co:5999/movie/shane1/shane1/8676.mp4
+#EXTINF:-1,Kill Game. 2017
+http://ivue.co:5999/movie/shane1/shane1/8588.mp4
+#EXTINF:-1,Kill'em All. 2017
+http://ivue.co:5999/movie/shane1/shane1/8589.mp4
+#EXTINF:-1,Killing Gunther. 2017
+http://ivue.co:5999/movie/shane1/shane1/8677.mp4
+#EXTINF:-1,King Arthur and the Knights of the Round Table. 2017
+http://ivue.co:5999/movie/shane1/shane1/8590.mp4
+#EXTINF:-1,Kingsman_ The Golden Circle. 2017
+http://ivue.co:5999/movie/shane1/shane1/8678.mp4
+#EXTINF:-1,Knucklebones. 2016
+http://ivue.co:5999/movie/shane1/shane1/8679.mp4
+#EXTINF:-1,Kong_ Skull Island. 2017
+http://ivue.co:5999/movie/shane1/shane1/8591.mp4
+#EXTINF:-1,Kubo and the Two Strings. 2016
+http://ivue.co:5999/movie/shane1/shane1/8680.mp4
+#EXTINF:-1,Land of Smiles. 2017
+http://ivue.co:5999/movie/shane1/shane1/8592.mp4
+#EXTINF:-1,Lego Scooby-Doo! Blowout Beach Bash. 2017
+http://ivue.co:5999/movie/shane1/shane1/8593.mp4
+#EXTINF:-1,Life. 2017
+http://ivue.co:5999/movie/shane1/shane1/8594.mp4
+#EXTINF:-1,Logan Lucky. 2017
+http://ivue.co:5999/movie/shane1/shane1/8681.mp4
+#EXTINF:-1,Logan. 2017
+http://ivue.co:5999/movie/shane1/shane1/8595.mp4
+#EXTINF:-1,Lowriders. 2016
+http://ivue.co:5999/movie/shane1/shane1/8682.mp4
+#EXTINF:-1,Mayhem. 2017
+http://ivue.co:5999/movie/shane1/shane1/8685.mp4
+#EXTINF:-1,McLaren. 2017
+http://ivue.co:5999/movie/shane1/shane1/8596.mp4
+#EXTINF:-1,Megan Leavey. 2017
+http://ivue.co:5999/movie/shane1/shane1/8597.mp4
+#EXTINF:-1,Mindhorn. 2016
+http://ivue.co:5999/movie/shane1/shane1/8686.mp4
+#EXTINF:-1,My Name Is Lenny. 2017
+http://ivue.co:5999/movie/shane1/shane1/8599.mp4
+#EXTINF:-1,My Pet Dinosaur. 2017
+http://ivue.co:5999/movie/shane1/shane1/8600.mp4
+#EXTINF:-1,Nocturnal Animals. 2016
+http://ivue.co:5999/movie/shane1/shane1/8690.mp4
+#EXTINF:-1,Officer Downe. 2016
+http://ivue.co:5999/movie/shane1/shane1/8691.mp4
+#EXTINF:-1,Once Upon a Time in Venice. 2017
+http://ivue.co:5999/movie/shane1/shane1/8601.mp4
+#EXTINF:-1,Operation Dunkirk. 2017
+http://ivue.co:5999/movie/shane1/shane1/8602.mp4
+#EXTINF:-1,Outlaws and Angels. 2016
+http://ivue.co:5999/movie/shane1/shane1/8692.mp4
+#EXTINF:-1,Overdrive. 2017
+http://ivue.co:5999/movie/shane1/shane1/8603.mp4
+#EXTINF:-1,Pandemic. 2016
+http://ivue.co:5999/movie/shane1/shane1/8693.mp4
+#EXTINF:-1,Paterson. 2016
+http://ivue.co:5999/movie/shane1/shane1/8694.mp4
+#EXTINF:-1,Patriots Day. 2016
+http://ivue.co:5999/movie/shane1/shane1/8695.mp4
+#EXTINF:-1,Patti Cake$. 2017
+http://ivue.co:5999/movie/shane1/shane1/8604.mp4
+#EXTINF:-1,Race to Win. 2016
+http://ivue.co:5999/movie/shane1/shane1/8698.mp4
+#EXTINF:-1,Rebel in the Rye. 2016
+http://ivue.co:5999/movie/shane1/shane1/8699.mp4
+#EXTINF:-1,Rememory. 2017
+http://ivue.co:5999/movie/shane1/shane1/8700.mp4
+#EXTINF:-1,Resident Evil_ Vendetta. 2017
+http://ivue.co:5999/movie/shane1/shane1/8607.mp4
+#EXTINF:-1,S.W.A.T._ Under Siege. 2017
+http://ivue.co:5999/movie/shane1/shane1/8609.mp4
+#EXTINF:-1,Sleepless. 2017
+http://ivue.co:5999/movie/shane1/shane1/8610.mp4
+#EXTINF:-1,Snatched. 2017
+http://ivue.co:5999/movie/shane1/shane1/8611.mp4
+#EXTINF:-1,Song to Song. 2017
+http://ivue.co:5999/movie/shane1/shane1/8612.mp4
+#EXTINF:-1,Stronger. 2017
+http://ivue.co:5999/movie/shane1/shane1/8705.mp4
+#EXTINF:-1,T2 Trainspotting. 2017
+http://ivue.co:5999/movie/shane1/shane1/8613.mp4
+#EXTINF:-1,Table 19. 2017
+http://ivue.co:5999/movie/shane1/shane1/8614.mp4
+#EXTINF:-1,Teen Titans_ The Judas Contract. 2017
+http://ivue.co:5999/movie/shane1/shane1/8615.mp4
+#EXTINF:-1,The Beguiled. 2017
+http://ivue.co:5999/movie/shane1/shane1/8616.mp4
+#EXTINF:-1,The Dark Tower. 2016
+http://ivue.co:5999/movie/shane1/shane1/8617.mp4
+#EXTINF:-1,The Dinner. 2017
+http://ivue.co:5999/movie/shane1/shane1/8618.mp4
+#EXTINF:-1,The Emoji Movie. 2017
+http://ivue.co:5999/movie/shane1/shane1/8619.mp4
+#EXTINF:-1,The Evil Within. 2017
+http://ivue.co:5999/movie/shane1/shane1/8620.mp4
+#EXTINF:-1,The Fate of the Furious. 2017
+http://ivue.co:5999/movie/shane1/shane1/8621.mp4
+#EXTINF:-1,The Glass Castle. 2017
+http://ivue.co:5999/movie/shane1/shane1/8622.mp4
+#EXTINF:-1,The Good Catholic. 2017
+http://ivue.co:5999/movie/shane1/shane1/8623.mp4
+#EXTINF:-1,The Last Word. 2017
+http://ivue.co:5999/movie/shane1/shane1/8624.mp4
+#EXTINF:-1,The LEGO Batman Moviel. 2017
+http://ivue.co:5999/movie/shane1/shane1/8625.mp4
+#EXTINF:-1,Vengeance_ A Love Story. 2017
+http://ivue.co:5999/movie/shane1/shane1/8634.mp4
+#EXTINF:-1,Wilson. 2017
+http://ivue.co:5999/movie/shane1/shane1/8636.mp4
+#EXTINF:-1,Wind River. 2017
+http://ivue.co:5999/movie/shane1/shane1/8637.mp4
+#EXTINF:-1,Wonder Woman. 2017
+http://ivue.co:5999/movie/shane1/shane1/8638.mp4
+#EXTINF:-1,2 Lava 2 Lantula!. 2016
+http://ivue.co:5999/movie/shane1/shane1/8728.mp4
+#EXTINF:-1,A Christmas Star. 2016
+http://ivue.co:5999/movie/shane1/shane1/8729.mp4
+#EXTINF:-1,A Cure for Wellness. 2016
+http://ivue.co:5999/movie/shane1/shane1/8730.mp4
+#EXTINF:-1,Alien Arrival. 2016
+http://ivue.co:5999/movie/shane1/shane1/8731.mp4
+#EXTINF:-1,Anomalous. 2016
+http://ivue.co:5999/movie/shane1/shane1/8732.mp4
+#EXTINF:-1,Bad Moms. 2016
+http://ivue.co:5999/movie/shane1/shane1/8733.mp4
+#EXTINF:-1,Barbie_ Spy Squad. 2016
+http://ivue.co:5999/movie/shane1/shane1/8734.mp4
+#EXTINF:-1,Batman_ Bad Blood. 2016
+http://ivue.co:5999/movie/shane1/shane1/8735.mp4
+#EXTINF:-1,Batman_ The Killing Joke. 2016
+http://ivue.co:5999/movie/shane1/shane1/8736.mp4
+#EXTINF:-1,Blair Witch. 2016
+http://ivue.co:5999/movie/shane1/shane1/8737.mp4
+#EXTINF:-1,Blood Father. 2016
+http://ivue.co:5999/movie/shane1/shane1/8738.mp4
+#EXTINF:-1,Blue Mountain State_ The Rise of Thadland. 2016
+http://ivue.co:5999/movie/shane1/shane1/8739.mp4
+#EXTINF:-1,Cell. 2016
+http://ivue.co:5999/movie/shane1/shane1/8740.mp4
+#EXTINF:-1,Christine. 2016
+http://ivue.co:5999/movie/shane1/shane1/8741.mp4
+#EXTINF:-1,Chuck. 2016
+http://ivue.co:5999/movie/shane1/shane1/8742.mp4
+#EXTINF:-1,Churchill's Secret. 2016
+http://ivue.co:5999/movie/shane1/shane1/8743.mp4
+#EXTINF:-1,Collateral Beauty. 2016
+http://ivue.co:5999/movie/shane1/shane1/8744.mp4
+#EXTINF:-1,Colossal. 2016
+http://ivue.co:5999/movie/shane1/shane1/8745.mp4
+#EXTINF:-1,Complete Unknown. 2016
+http://ivue.co:5999/movie/shane1/shane1/8746.mp4
+#EXTINF:-1,Confirmation. 2016
+http://ivue.co:5999/movie/shane1/shane1/8747.mp4
+#EXTINF:-1,Dad's Army. 2016
+http://ivue.co:5999/movie/shane1/shane1/8748.mp4
+#EXTINF:-1,Deadpool. 2016
+http://ivue.co:5999/movie/shane1/shane1/8749.mp4
+#EXTINF:-1,Don't Think Twice. 2016
+http://ivue.co:5999/movie/shane1/shane1/8750.mp4
+#EXTINF:-1,Equity. 2016
+http://ivue.co:5999/movie/shane1/shane1/8751.mp4
+#EXTINF:-1,Fences. 2016
+http://ivue.co:5999/movie/shane1/shane1/8752.mp4
+#EXTINF:-1,Fifty Shades of Black. 2016
+http://ivue.co:5999/movie/shane1/shane1/8753.mp4
+#EXTINF:-1,For the Love of Spock. 2016
+http://ivue.co:5999/movie/shane1/shane1/8754.mp4
+#EXTINF:-1,Genius. 2016
+http://ivue.co:5999/movie/shane1/shane1/8755.mp4
+#EXTINF:-1,Get a Job. 2016
+http://ivue.co:5999/movie/shane1/shane1/8756.mp4
+#EXTINF:-1,Gods of Egypt. 2016
+http://ivue.co:5999/movie/shane1/shane1/8757.mp4
+#EXTINF:-1,Good Kids. 2016
+http://ivue.co:5999/movie/shane1/shane1/8758.mp4
+#EXTINF:-1,Holidays. 2016
+http://ivue.co:5999/movie/shane1/shane1/8759.mp4
+#EXTINF:-1,Hunt for the Wilderpeople. 2016
+http://ivue.co:5999/movie/shane1/shane1/8760.mp4
+#EXTINF:-1,Incarnate. 2016
+http://ivue.co:5999/movie/shane1/shane1/8761.mp4
+#EXTINF:-1,Independence Day_ Resurgence. 2016
+http://ivue.co:5999/movie/shane1/shane1/8762.mp4
+#EXTINF:-1,Indiscretion. 2016
+http://ivue.co:5999/movie/shane1/shane1/8763.mp4
+#EXTINF:-1,Inferno. 2016
+http://ivue.co:5999/movie/shane1/shane1/8764.mp4
+#EXTINF:-1,Jarhead 3_ The Siege. 2016
+http://ivue.co:5999/movie/shane1/shane1/8765.mp4
+#EXTINF:-1,Jason Bourne. 2016
+http://ivue.co:5999/movie/shane1/shane1/8766.mp4
+#EXTINF:-1,Justice League vs. Teen Titans. 2016
+http://ivue.co:5999/movie/shane1/shane1/8767.mp4
+#EXTINF:-1,Kill Command. 2016
+http://ivue.co:5999/movie/shane1/shane1/8768.mp4
+#EXTINF:-1,Killing Ground. 2016
+http://ivue.co:5999/movie/shane1/shane1/8769.mp4
+#EXTINF:-1,Lego DC Comics Superheroes_ Justice League - Gotham City Breakout. 2016
+http://ivue.co:5999/movie/shane1/shane1/8770.mp4
+#EXTINF:-1,Lost in the Sun. 2016
+http://ivue.co:5999/movie/shane1/shane1/8771.mp4
+#EXTINF:-1,Masterminds. 2016
+http://ivue.co:5999/movie/shane1/shane1/8772.mp4
+#EXTINF:-1,Maudie. 2016
+http://ivue.co:5999/movie/shane1/shane1/8773.mp4
+#EXTINF:-1,Michael Jackson's Journey from Motown to Off the Wall. 2016
+http://ivue.co:5999/movie/shane1/shane1/8774.mp4
+#EXTINF:-1,Mine. 2016
+http://ivue.co:5999/movie/shane1/shane1/8775.mp4
+#EXTINF:-1,Misconduct . 2016
+http://ivue.co:5999/movie/shane1/shane1/8776.mp4
+#EXTINF:-1,Molot. 2016
+http://ivue.co:5999/movie/shane1/shane1/8777.mp4
+#EXTINF:-1,Morgan. 2016
+http://ivue.co:5999/movie/shane1/shane1/8778.mp4
+#EXTINF:-1,Morris from America. 2016
+http://ivue.co:5999/movie/shane1/shane1/8779.mp4
+#EXTINF:-1,Neighbors 2_ Sorority Rising. 2016
+http://ivue.co:5999/movie/shane1/shane1/8780.mp4
+#EXTINF:-1,Nina. 2016
+http://ivue.co:5999/movie/shane1/shane1/8781.mp4
+#EXTINF:-1,Nine Lives. 2016
+http://ivue.co:5999/movie/shane1/shane1/8782.mp4
+#EXTINF:-1,Race. 2016
+http://ivue.co:5999/movie/shane1/shane1/8784.mp4
+#EXTINF:-1,Red Christmas. 2016
+http://ivue.co:5999/movie/shane1/shane1/8785.mp4
+#EXTINF:-1,Resident Evil_ The Final Chapter. 2016
+http://ivue.co:5999/movie/shane1/shane1/8786.mp4
+#EXTINF:-1,Ride Along 2. 2016
+http://ivue.co:5999/movie/shane1/shane1/8787.mp4
+#EXTINF:-1,Sex Doll. 2016
+http://ivue.co:5999/movie/shane1/shane1/8788.mp4
+#EXTINF:-1,Shin Godzilla. 2016
+http://ivue.co:5999/movie/shane1/shane1/8789.mp4
+#EXTINF:-1,Silence. 2016
+http://ivue.co:5999/movie/shane1/shane1/8790.mp4
+#EXTINF:-1,Snowden. 2016
+http://ivue.co:5999/movie/shane1/shane1/8791.mp4
+#EXTINF:-1,Space Cop. 2016
+http://ivue.co:5999/movie/shane1/shane1/8792.mp4
+#EXTINF:-1,Standoff. 2016
+http://ivue.co:5999/movie/shane1/shane1/8793.mp4
+#EXTINF:-1,Star Trek_ Beyond. 2016
+http://ivue.co:5999/movie/shane1/shane1/8794.mp4
+#EXTINF:-1,Stockholm, My Love. 2016
+http://ivue.co:5999/movie/shane1/shane1/8795.mp4
+#EXTINF:-1,The Bad Batch. 2016
+http://ivue.co:5999/movie/shane1/shane1/8796.mp4
+#EXTINF:-1,The Boy. 2016
+http://ivue.co:5999/movie/shane1/shane1/8797.mp4
+#EXTINF:-1,The Choice. 2016
+http://ivue.co:5999/movie/shane1/shane1/8798.mp4
+#EXTINF:-1,The Exception. 2016
+http://ivue.co:5999/movie/shane1/shane1/8799.mp4
+#EXTINF:-1,The Fall of the Krays. 2016
+http://ivue.co:5999/movie/shane1/shane1/8800.mp4
+#EXTINF:-1,The Forest. 2016
+http://ivue.co:5999/movie/shane1/shane1/8801.mp4
+#EXTINF:-1,The Fourth Phase. 2016
+http://ivue.co:5999/movie/shane1/shane1/8802.mp4
+#EXTINF:-1,The Ghoul. 2016
+http://ivue.co:5999/movie/shane1/shane1/8803.mp4
+#EXTINF:-1,The Girl on the Train. 2016
+http://ivue.co:5999/movie/shane1/shane1/8804.mp4
+#EXTINF:-1,The Jungle Book. 2016
+http://ivue.co:5999/movie/shane1/shane1/8805.AG]
+#EXTINF:-1,The Levelling. 2016
+http://ivue.co:5999/movie/shane1/shane1/8806.mp4
+#EXTINF:-1,The Other Side of the Door. 2016
+http://ivue.co:5999/movie/shane1/shane1/8807.mp4
+#EXTINF:-1,The Phenom. 2016
+http://ivue.co:5999/movie/shane1/shane1/8808.mp4
+#EXTINF:-1,The Whole Truth. 2016
+http://ivue.co:5999/movie/shane1/shane1/8809.mp4
+#EXTINF:-1,Till We Meet Again. 2016
+http://ivue.co:5999/movie/shane1/shane1/8810.mp4
+#EXTINF:-1,Tonight She Comes. 2016
+http://ivue.co:5999/movie/shane1/shane1/8811.mp4
+#EXTINF:-1,Triple 9. 2016
+http://ivue.co:5999/movie/shane1/shane1/8812.mp4
+#EXTINF:-1,Voyage of Time_ Life's Journey. 2016
+http://ivue.co:5999/movie/shane1/shane1/8813.mp4
+#EXTINF:-1,Wakefield. 2016
+http://ivue.co:5999/movie/shane1/shane1/8814.mp4
+#EXTINF:-1,Whiskey Tango Foxtrot. 2016
+http://ivue.co:5999/movie/shane1/shane1/8815.mp4
+#EXTINF:-1,100 Streets. 2016
+http://ivue.co:5999/movie/shane1/shane1/8822.mp4
+#EXTINF:-1,20th Century Women. 2016
+http://ivue.co:5999/movie/shane1/shane1/8908.mp4
+#EXTINF:-1,A Kind of Murder. 2016
+http://ivue.co:5999/movie/shane1/shane1/8823.mp4
+#EXTINF:-1,A Monster Calls. 2016
+http://ivue.co:5999/movie/shane1/shane1/8909.mp4
+#EXTINF:-1,A Street Cat Named Bob. 2016
+http://ivue.co:5999/movie/shane1/shane1/8824.mp4
+#EXTINF:-1,Alice Through the Looking Glass. 2016
+http://ivue.co:5999/movie/shane1/shane1/8910.mp4
+#EXTINF:-1,All Girls Weekend. 2016
+http://ivue.co:5999/movie/shane1/shane1/8911.mp4
+#EXTINF:-1,All the Way. 2016
+http://ivue.co:5999/movie/shane1/shane1/8825.mp4
+#EXTINF:-1,Alleycats. 2016
+http://ivue.co:5999/movie/shane1/shane1/8826.mp4
+#EXTINF:-1,Allied. 2016
+http://ivue.co:5999/movie/shane1/shane1/8912.mp4
+#EXTINF:-1,Alone in Berlin. 2016
+http://ivue.co:5999/movie/shane1/shane1/8913.mp4
+#EXTINF:-1,Always Shine. 2016
+http://ivue.co:5999/movie/shane1/shane1/8827.mp4
+#EXTINF:-1,AmeriGeddon. 2016
+http://ivue.co:5999/movie/shane1/shane1/8828.mp4
+#EXTINF:-1,Angry Birds. 2016
+http://ivue.co:5999/movie/shane1/shane1/8829.mp4
+#EXTINF:-1,Another Evil. 2016
+http://ivue.co:5999/movie/shane1/shane1/8830.mp4
+#EXTINF:-1,Anthropoid. 2016
+http://ivue.co:5999/movie/shane1/shane1/8831.mp4
+#EXTINF:-1,Apprentice. 2016
+http://ivue.co:5999/movie/shane1/shane1/8914.mp4
+#EXTINF:-1,Army of One. 2016
+http://ivue.co:5999/movie/shane1/shane1/8832.mp4
+#EXTINF:-1,Bad Santa 2. 2016
+http://ivue.co:5999/movie/shane1/shane1/8833.mp4
+#EXTINF:-1,Baked in Brooklyn. 2016
+http://ivue.co:5999/movie/shane1/shane1/8834.mp4
+#EXTINF:-1,Bakery in Brooklyn. 2016
+http://ivue.co:5999/movie/shane1/shane1/8915.mp4
+#EXTINF:-1,Batman v Superman_ Dawn of Justice. 2016
+http://ivue.co:5999/movie/shane1/shane1/8835.mp4
+#EXTINF:-1,Billionaire Ransom. 2016
+http://ivue.co:5999/movie/shane1/shane1/8836.mp4
+#EXTINF:-1,Bling. 2016
+http://ivue.co:5999/movie/shane1/shane1/8837.mp4
+#EXTINF:-1,Broken Vows. 2016
+http://ivue.co:5999/movie/shane1/shane1/8838.mp4
+#EXTINF:-1,Cabin Fever. 2016
+http://ivue.co:5999/movie/shane1/shane1/8839.mp4
+#EXTINF:-1,Captain Fantastic. 2016
+http://ivue.co:5999/movie/shane1/shane1/8840.mp4
+#EXTINF:-1,Cardboard Boxer. 2016
+http://ivue.co:5999/movie/shane1/shane1/8841.mp4
+#EXTINF:-1,Carnage Park. 2016
+http://ivue.co:5999/movie/shane1/shane1/8842.mp4
+#EXTINF:-1,Catfight. 2016
+http://ivue.co:5999/movie/shane1/shane1/8843.mp4
+#EXTINF:-1,Chosen. 2016
+http://ivue.co:5999/movie/shane1/shane1/8844.mp4
+#EXTINF:-1,Collide. 2016
+http://ivue.co:5999/movie/shane1/shane1/8916.mp4
+#EXTINF:-1,Contract to Kill. 2016
+http://ivue.co:5999/movie/shane1/shane1/8917.mp4
+#EXTINF:-1,David and Goliath. 2016
+http://ivue.co:5999/movie/shane1/shane1/8918.mp4
+#EXTINF:-1,Daylight's End. 2016
+http://ivue.co:5999/movie/shane1/shane1/8845.mp4
+#EXTINF:-1,Ditch Day Massacre. 2016
+http://ivue.co:5999/movie/shane1/shane1/8919.mp4
+#EXTINF:-1,Dog Eat Dog. 2016
+http://ivue.co:5999/movie/shane1/shane1/8846.mp4
+#EXTINF:-1,Eddie the Eagle. 2016
+http://ivue.co:5999/movie/shane1/shane1/8847.mp4
+#EXTINF:-1,Edgar Allan Poe's Lighthouse Keeper. 2016
+http://ivue.co:5999/movie/shane1/shane1/8920.mp4
+#EXTINF:-1,Everybody Wants Some!!. 2016
+http://ivue.co:5999/movie/shane1/shane1/8848.mp4
+#EXTINF:-1,Fallen. 2016
+http://ivue.co:5999/movie/shane1/shane1/8849.mp4
+#EXTINF:-1,Fight Valley. 2016
+http://ivue.co:5999/movie/shane1/shane1/8850.mp4
+#EXTINF:-1,Finding Dory. 2016
+http://ivue.co:5999/movie/shane1/shane1/8851.mp4
+#EXTINF:-1,Ghostbusters. 2016
+http://ivue.co:5999/movie/shane1/shane1/8921.mp4
+#EXTINF:-1,Gold. 2016
+http://ivue.co:5999/movie/shane1/shane1/8852.mp4
+#EXTINF:-1,Greater. 2016
+http://ivue.co:5999/movie/shane1/shane1/8922.mp4
+#EXTINF:-1,Hacker. 2016
+http://ivue.co:5999/movie/shane1/shane1/8923.mp4
+#EXTINF:-1,Hacksaw Ridge. 2016
+http://ivue.co:5999/movie/shane1/shane1/8924.mp4
+#EXTINF:-1,Hidden Figures. 2016
+http://ivue.co:5999/movie/shane1/shane1/8853.mp4
+#EXTINF:-1,House of Flying Arrows. 2016
+http://ivue.co:5999/movie/shane1/shane1/8854.mp4
+#EXTINF:-1,I, Daniel Blake. 2016
+http://ivue.co:5999/movie/shane1/shane1/8855.mp4
+#EXTINF:-1,I.T. 2016
+http://ivue.co:5999/movie/shane1/shane1/8925.mp4
+#EXTINF:-1,I'm Not Ashamed. 2016
+http://ivue.co:5999/movie/shane1/shane1/8856.mp4
+#EXTINF:-1,In a Valley of Violence. 2016
+http://ivue.co:5999/movie/shane1/shane1/8857.mp4
+#EXTINF:-1,Indignation. 2016
+http://ivue.co:5999/movie/shane1/shane1/8926.mp4
+#EXTINF:-1,Interrogation. 2016
+http://ivue.co:5999/movie/shane1/shane1/8858.mp4
+#EXTINF:-1,Jackie. 2016
+http://ivue.co:5999/movie/shane1/shane1/8859.mp4
+#EXTINF:-1,Joshy. 2016
+http://ivue.co:5999/movie/shane1/shane1/8927.mp4
+#EXTINF:-1,Keanu. 2016
+http://ivue.co:5999/movie/shane1/shane1/8928.mp4
+#EXTINF:-1,Kicks. 2016
+http://ivue.co:5999/movie/shane1/shane1/8929.mp4
+#EXTINF:-1,Kingsglaive_ Final Fantasy XV. 2016
+http://ivue.co:5999/movie/shane1/shane1/8860.mp4
+#EXTINF:-1,Krampus_ The Devil Returns. 2016
+http://ivue.co:5999/movie/shane1/shane1/8861.mp4
+#EXTINF:-1,Kung Fu Panda 3. 2016
+http://ivue.co:5999/movie/shane1/shane1/8862.mp4
+#EXTINF:-1,Laid in America. 2016
+http://ivue.co:5999/movie/shane1/shane1/8863.mp4
+#EXTINF:-1,Lake Eerie. 2016
+http://ivue.co:5999/movie/shane1/shane1/8864.mp4
+#EXTINF:-1,Leap. 2016
+http://ivue.co:5999/movie/shane1/shane1/8865.mp4
+#EXTINF:-1,Let's Be Evil. 2016
+http://ivue.co:5999/movie/shane1/shane1/8866.mp4
+#EXTINF:-1,Lipstick Under My Burkha. 2016
+http://ivue.co:5999/movie/shane1/shane1/8867.mp4
+#EXTINF:-1,Live by Night. 2016
+http://ivue.co:5999/movie/shane1/shane1/8930.mp4
+#EXTINF:-1,Lo and Behold, Reveries of the Connected World. 2016
+http://ivue.co:5999/movie/shane1/shane1/8868.mp4
+#EXTINF:-1,Manchester by the Sea. 2016
+http://ivue.co:5999/movie/shane1/shane1/8931.mp4
+#EXTINF:-1,Manhattan Night. 2016
+http://ivue.co:5999/movie/shane1/shane1/8869.mp4
+#EXTINF:-1,Marauders. 2016
+http://ivue.co:5999/movie/shane1/shane1/8932.mp4
+#EXTINF:-1,Mechanic_ Resurrection. 2016
+http://ivue.co:5999/movie/shane1/shane1/8870.mp4
+#EXTINF:-1,Meet the Blacks. 2016
+http://ivue.co:5999/movie/shane1/shane1/8871.mp4
+#EXTINF:-1,Midnight Special. 2016
+http://ivue.co:5999/movie/shane1/shane1/8872.mp4
+#EXTINF:-1,Miss Saigon_ 25th Anniversary. 2016
+http://ivue.co:5999/movie/shane1/shane1/8933.mp4
+#EXTINF:-1,Money Monster. 2016
+http://ivue.co:5999/movie/shane1/shane1/8874.mp4
+#EXTINF:-1,Money. 2016
+http://ivue.co:5999/movie/shane1/shane1/8873.mp4
+#EXTINF:-1,Monster Trucks. 2016
+http://ivue.co:5999/movie/shane1/shane1/8875.mp4
+#EXTINF:-1,Moonlight. 2016
+http://ivue.co:5999/movie/shane1/shane1/8934.mp4
+#EXTINF:-1,Mothers and Daughters. 2016
+http://ivue.co:5999/movie/shane1/shane1/8876.mp4
+#EXTINF:-1,My Big Fat Greek Wedding 2. 2016
+http://ivue.co:5999/movie/shane1/shane1/8877.mp4
+#EXTINF:-1,Mythica_ The Iron Crown. 2016
+http://ivue.co:5999/movie/shane1/shane1/8935.mp4
+#EXTINF:-1,Now You See Me 2. 2016
+http://ivue.co:5999/movie/shane1/shane1/8878.mp4
+#EXTINF:-1,Oasis_ Supersonic. 2016
+http://ivue.co:5999/movie/shane1/shane1/8936.mp4
+#EXTINF:-1,Off Piste. 2016
+http://ivue.co:5999/movie/shane1/shane1/8937.mp4
+#EXTINF:-1,Ouija_ Origin of Evi. 2016
+http://ivue.co:5999/movie/shane1/shane1/8938.mp4
+#EXTINF:-1,Our Kind of Traitor. 2016
+http://ivue.co:5999/movie/shane1/shane1/8879.mp4
+#EXTINF:-1,Paris Can Wait. 2016
+http://ivue.co:5999/movie/shane1/shane1/8939.mp4
+#EXTINF:-1,Personal Shopper. 2016
+http://ivue.co:5999/movie/shane1/shane1/8880.mp4
+#EXTINF:-1,Precious Cargo. 2016
+http://ivue.co:5999/movie/shane1/shane1/8881.mp4
+#EXTINF:-1,Prevenge. 2016
+http://ivue.co:5999/movie/shane1/shane1/8940.mp4
+#EXTINF:-1,Queen of Katwe. 2016
+http://ivue.co:5999/movie/shane1/shane1/8941.mp4
+#EXTINF:-1,Red Billabong. 2016
+http://ivue.co:5999/movie/shane1/shane1/8882.mp4
+#EXTINF:-1,Rogue One. 2016
+http://ivue.co:5999/movie/shane1/shane1/8942.mp4
+#EXTINF:-1,Rupture. 2016
+http://ivue.co:5999/movie/shane1/shane1/8883.mp4
+#EXTINF:-1,Scooby-Doo! and WWE_ Curse of the Speed Demon. 2016
+http://ivue.co:5999/movie/shane1/shane1/8884.mp4
+#EXTINF:-1,Shut In. 2016
+http://ivue.co:5999/movie/shane1/shane1/8943.mp4
+#EXTINF:-1,Sinbad and the War of the Furies. 2016
+http://ivue.co:5999/movie/shane1/shane1/8885.mp4
+#EXTINF:-1,Sing. 2016
+http://ivue.co:5999/movie/shane1/shane1/8944.mp4
+#EXTINF:-1,Sinister Squad. 2016
+http://ivue.co:5999/movie/shane1/shane1/8945.mp4
+#EXTINF:-1,Split. 2016
+http://ivue.co:5999/movie/shane1/shane1/8886.mp4
+#EXTINF:-1,Storks. 2016
+http://ivue.co:5999/movie/shane1/shane1/8887.mp4
+#EXTINF:-1,Suicide Squad. 2016
+http://ivue.co:5999/movie/shane1/shane1/8888.mp4
+#EXTINF:-1,Swallows and Amazons. 2016
+http://ivue.co:5999/movie/shane1/shane1/8946.mp4
+#EXTINF:-1,Swiss Army Man. 2016
+http://ivue.co:5999/movie/shane1/shane1/8889.mp4
+#EXTINF:-1,The 9th Life of Louis Drax. 2016
+http://ivue.co:5999/movie/shane1/shane1/8947.mp4
+#EXTINF:-1,The Accountant. 2016
+http://ivue.co:5999/movie/shane1/shane1/8948.mp4
+#EXTINF:-1,The Age of Shadows. 2016
+http://ivue.co:5999/movie/shane1/shane1/8890.mp4
+#EXTINF:-1,The Assignment. 2016
+http://ivue.co:5999/movie/shane1/shane1/8949.mp4
+#EXTINF:-1,The BFG. 2016
+http://ivue.co:5999/movie/shane1/shane1/8891.mp4
+#EXTINF:-1,The Binding. 2015
+http://ivue.co:5999/movie/shane1/shane1/8892.mp4
+#EXTINF:-1,The Brothers Grimsby. 2016
+http://ivue.co:5999/movie/shane1/shane1/8893.mp4
+#EXTINF:-1,The Darkness. 2016
+http://ivue.co:5999/movie/shane1/shane1/8894.mp4
+#EXTINF:-1,The Disappointments Room. 2016
+http://ivue.co:5999/movie/shane1/shane1/8950.mp4
+#EXTINF:-1,The Edge of Seventeen. 2016
+http://ivue.co:5999/movie/shane1/shane1/8895.mp4
+#EXTINF:-1,The Evil in Us. 2016
+http://ivue.co:5999/movie/shane1/shane1/8896.mp4
+#EXTINF:-1,The Girl with All the Gifts. 2016
+http://ivue.co:5999/movie/shane1/shane1/8897.mp4
+#EXTINF:-1,The Great Wall. 2016
+http://ivue.co:5999/movie/shane1/shane1/8951.mp4
+#EXTINF:-1,The Limehouse Golem. 2016
+http://ivue.co:5999/movie/shane1/shane1/8898.mp4
+#EXTINF:-1,The Magnificent Seven. 2016
+http://ivue.co:5999/movie/shane1/shane1/8899.mp4
+#EXTINF:-1,The Neon Demon. 2016
+http://ivue.co:5999/movie/shane1/shane1/8900.mp4
+#EXTINF:-1,The Offering. 2016
+http://ivue.co:5999/movie/shane1/shane1/8952.mp4
+#EXTINF:-1,The Perfect Match. 2016
+http://ivue.co:5999/movie/shane1/shane1/8901.mp4
+#EXTINF:-1,The Perfect Weapon. 2016
+http://ivue.co:5999/movie/shane1/shane1/8902.mp4
+#EXTINF:-1,The Wild Life. 2016
+http://ivue.co:5999/movie/shane1/shane1/8953.mp4
+#EXTINF:-1,Traceroute. 2016
+http://ivue.co:5999/movie/shane1/shane1/8954.mp4
+#EXTINF:-1,Trespass Against Us. 2016
+http://ivue.co:5999/movie/shane1/shane1/8903.mp4
+#EXTINF:-1,Trolls. 2016
+http://ivue.co:5999/movie/shane1/shane1/8904.mp4
+#EXTINF:-1,Urge . 2016
+http://ivue.co:5999/movie/shane1/shane1/8905.mp4
+#EXTINF:-1,USS Indianapolis_ Men of Courage. 2016
+http://ivue.co:5999/movie/shane1/shane1/8955.mp4
+#EXTINF:-1,War Dogs. 2016
+http://ivue.co:5999/movie/shane1/shane1/8956.mp4
+#EXTINF:-1,We Go On. 2016
+http://ivue.co:5999/movie/shane1/shane1/8906.mp4
+#EXTINF:-1,X-Men_ Apocalypse. 2016
+http://ivue.co:5999/movie/shane1/shane1/8957.mp4
+#EXTINF:-1,Zero Days. 2016
+http://ivue.co:5999/movie/shane1/shane1/8907.mp4
+#EXTINF:-1,BOXSET Peaky.Blinders S1 E1
+http://ivue.co:5999/movie/shane1/shane1/8958.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S1 E2
+http://ivue.co:5999/movie/shane1/shane1/8959.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S1 E3
+http://ivue.co:5999/movie/shane1/shane1/8960.mp4
+#EXTINF:-1,BOXSET Peaky.Blinders S1 E4
+http://ivue.co:5999/movie/shane1/shane1/8961.mp4
+#EXTINF:-1,BOXSET Peaky.Blinders S1 E5
+http://ivue.co:5999/movie/shane1/shane1/8962.mp4
+#EXTINF:-1,BOXSET Peaky.Blinders S1 E6
+http://ivue.co:5999/movie/shane1/shane1/8963.mp4
+#EXTINF:-1,BOXSET Mid Morning Matters S1 E1
+http://ivue.co:5999/movie/shane1/shane1/8816.mp4
+#EXTINF:-1,BOXSET Mid Morning Matters S1 E2
+http://ivue.co:5999/movie/shane1/shane1/8817.mp4
+#EXTINF:-1,BOXSET Mid Morning Matters S1 E3
+http://ivue.co:5999/movie/shane1/shane1/8818.mp4
+#EXTINF:-1,BOXSET Mid Morning Matters S1 E4
+http://ivue.co:5999/movie/shane1/shane1/8819.mp4
+#EXTINF:-1,BOXSET Mid Morning Matters S1 E5
+http://ivue.co:5999/movie/shane1/shane1/8820.mp4
+#EXTINF:-1,BOXSET Mid Morning Matters S1 E6
+http://ivue.co:5999/movie/shane1/shane1/8821.mp4
+#EXTINF:-1,BOXSET Silent Witness S1 E1
+http://ivue.co:5999/movie/shane1/shane1/8965.avi
+#EXTINF:-1,BOXSET Silent Witness S1 E2
+http://ivue.co:5999/movie/shane1/shane1/8966.avi
+#EXTINF:-1,BOXSET Silent Witness S1 E3
+http://ivue.co:5999/movie/shane1/shane1/8967.avi
+#EXTINF:-1,BOXSET Silent Witness S1 E4
+http://ivue.co:5999/movie/shane1/shane1/8968.avi
+#EXTINF:-1,BOXSET Silent Witness S1 E5
+http://ivue.co:5999/movie/shane1/shane1/8973.avi
+#EXTINF:-1,BOXSET Silent Witness S1 E6
+http://ivue.co:5999/movie/shane1/shane1/8969.avi
+#EXTINF:-1,BOXSET Silent Witness S1 E7
+http://ivue.co:5999/movie/shane1/shane1/8971.avi
+#EXTINF:-1,BOXSET Silent Witness S1 E8
+http://ivue.co:5999/movie/shane1/shane1/8972.avi
+#EXTINF:-1,BOXSET Luther S3 E1
+http://ivue.co:5999/movie/shane1/shane1/8994.part
+#EXTINF:-1,BOXSET Luther S3 E2
+http://ivue.co:5999/movie/shane1/shane1/8993.part
+#EXTINF:-1,BOXSET Luther S3 E3
+http://ivue.co:5999/movie/shane1/shane1/8992.part
+#EXTINF:-1,BOXSET Luther S3 E4
+http://ivue.co:5999/movie/shane1/shane1/8991.part
+#EXTINF:-1,BOXSET Peaky.Blinders S2 E1
+http://ivue.co:5999/movie/shane1/shane1/9000.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S2 E2
+http://ivue.co:5999/movie/shane1/shane1/8999.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S2 E3
+http://ivue.co:5999/movie/shane1/shane1/8998.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S2 E4
+http://ivue.co:5999/movie/shane1/shane1/8997.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S2 E5
+http://ivue.co:5999/movie/shane1/shane1/8996.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S2 E6
+http://ivue.co:5999/movie/shane1/shane1/8995.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S3 E1
+http://ivue.co:5999/movie/shane1/shane1/9006.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S3 E2
+http://ivue.co:5999/movie/shane1/shane1/9005.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S3 E3
+http://ivue.co:5999/movie/shane1/shane1/9004.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S3 E4
+http://ivue.co:5999/movie/shane1/shane1/9003.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S3 E5
+http://ivue.co:5999/movie/shane1/shane1/9002.mkv
+#EXTINF:-1,BOXSET Peaky.Blinders S3 E6
+http://ivue.co:5999/movie/shane1/shane1/9001.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E1
+http://ivue.co:5999/movie/shane1/shane1/9026.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E2
+http://ivue.co:5999/movie/shane1/shane1/9025.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E3
+http://ivue.co:5999/movie/shane1/shane1/9024.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E4
+http://ivue.co:5999/movie/shane1/shane1/9023.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E5
+http://ivue.co:5999/movie/shane1/shane1/9022.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E6
+http://ivue.co:5999/movie/shane1/shane1/9021.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E7
+http://ivue.co:5999/movie/shane1/shane1/9020.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E8
+http://ivue.co:5999/movie/shane1/shane1/9019.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E9
+http://ivue.co:5999/movie/shane1/shane1/9018.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E10
+http://ivue.co:5999/movie/shane1/shane1/9017.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E11
+http://ivue.co:5999/movie/shane1/shane1/9016.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E12
+http://ivue.co:5999/movie/shane1/shane1/9015.mkv
+#EXTINF:-1,BOXSET Breaking bad S3 E13
+http://ivue.co:5999/movie/shane1/shane1/9014.mkv
+#EXTINF:-1,BOXSET Game of thrones S7 E1
+http://ivue.co:5999/movie/shane1/shane1/9013.mkv
+#EXTINF:-1,BOXSET Game of thrones S7 E2
+http://ivue.co:5999/movie/shane1/shane1/9012.mkv
+#EXTINF:-1,BOXSET Game of thrones S7 E3
+http://ivue.co:5999/movie/shane1/shane1/9011.mkv
+#EXTINF:-1,BOXSET Game of thrones S7 E4
+http://ivue.co:5999/movie/shane1/shane1/9010.mkv
+#EXTINF:-1,BOXSET Game of thrones S7 E5
+http://ivue.co:5999/movie/shane1/shane1/9009.mkv
+#EXTINF:-1,BOXSET Game of thrones S7 E6
+http://ivue.co:5999/movie/shane1/shane1/9008.mkv
+#EXTINF:-1,BOXSET Game of thrones S7 E7
+http://ivue.co:5999/movie/shane1/shane1/9007.mkv
+#EXTINF:-1,--------------------VOD & SERIES FRENCH--------------------
+http://ivue.co:5999/live/shane1/shane1/9048.ts
+#EXTINF:-1,[2017]_Aftermath
+http://ivue.co:5999/movie/shane1/shane1/4541.avi
+#EXTINF:-1,[2017]_Alibi.com
+http://ivue.co:5999/movie/shane1/shane1/4796.avi
+#EXTINF:-1,[2017]_Alien_Covenant
+http://ivue.co:5999/movie/shane1/shane1/4538.avi
+#EXTINF:-1,[2017]_All_Eyez_On_Me
+http://ivue.co:5999/movie/shane1/shane1/4781.avi
+#EXTINF:-1,[2017]_Amar
+http://ivue.co:5999/movie/shane1/shane1/4389.avi
+#EXTINF:-1,[2017]_Baby_Boss
+http://ivue.co:5999/movie/shane1/shane1/4039.avi
+#EXTINF:-1,[2017]_Bad_Cat
+http://ivue.co:5999/movie/shane1/shane1/4777.avi
+#EXTINF:-1,[2017]_BAD_SANTA_2
+http://ivue.co:5999/movie/shane1/shane1/2870.mp4
+#EXTINF:-1,[2017]_Barbie_Video_Game_Hero
+http://ivue.co:5999/movie/shane1/shane1/2923.mp4
+#EXTINF:-1,[2017]_Bienvenue_au_Gondwana
+http://ivue.co:5999/movie/shane1/shane1/4778.avi
+#EXTINF:-1,[2017]_Blame
+http://ivue.co:5999/movie/shane1/shane1/4047.avi
+#EXTINF:-1,[2017]_Boyka_Undisputed_IV
+http://ivue.co:5999/movie/shane1/shane1/3651.mkv
+#EXTINF:-1,[2017]_Braquage_a_l ancienne
+http://ivue.co:5999/movie/shane1/shane1/4534.avi
+#EXTINF:-1,[2017]_CARNAGE_PARK
+http://ivue.co:5999/movie/shane1/shane1/2873.mp4
+#EXTINF:-1,[2017]_Cinquante_nuances_de_black
+http://ivue.co:5999/movie/shane1/shane1/2924.mp4
+#EXTINF:-1,[2017]_Clinical
+http://ivue.co:5999/movie/shane1/shane1/2921.mp4
+#EXTINF:-1,[2017]_Clown
+http://ivue.co:5999/movie/shane1/shane1/4793.avi
+#EXTINF:-1,[2017]_Commando_2
+http://ivue.co:5999/movie/shane1/shane1/3644.mp4
+#EXTINF:-1,[2017]_Cross_Wars
+http://ivue.co:5999/movie/shane1/shane1/2659.avi
+#EXTINF:-1,[2017]_Dead_Again_In_Tombstone
+http://ivue.co:5999/movie/shane1/shane1/4794.avi
+#EXTINF:-1,[2017]_Dead_Race_2050
+http://ivue.co:5999/movie/shane1/shane1/2591.avi
+#EXTINF:-1,[2017]_Demain_tout_commence
+http://ivue.co:5999/movie/shane1/shane1/4795.avi
+#EXTINF:-1,[2017]_Descendants_2
+http://ivue.co:5999/movie/shane1/shane1/4782.avi
+#EXTINF:-1,[2017]_Goon_Last_of_the_Enforcers
+http://ivue.co:5999/movie/shane1/shane1/4788.avi
+#EXTINF:-1,[2017]_Guardians
+http://ivue.co:5999/movie/shane1/shane1/4531.avi
+#EXTINF:-1,[2017]_I_Am_Not_a_Serial_Killer
+http://ivue.co:5999/movie/shane1/shane1/2911.mp4
+#EXTINF:-1,[2017]_iBoy
+http://ivue.co:5999/movie/shane1/shane1/2580.avi
+#EXTINF:-1,[2017]_Jolly_LLB_2
+http://ivue.co:5999/movie/shane1/shane1/3643.mp4
+#EXTINF:-1,[2017]_Jour_J
+http://ivue.co:5999/movie/shane1/shane1/4797.avi
+#EXTINF:-1,[2017]_JUSTICE_LEAGUE_DARK
+http://ivue.co:5999/movie/shane1/shane1/2925.mp4
+#EXTINF:-1,[2017]_Kaabil
+http://ivue.co:5999/movie/shane1/shane1/3645.mp4
+#EXTINF:-1,[2017]_Kong_Skull_Island
+http://ivue.co:5999/movie/shane1/shane1/4539.avi
+#EXTINF:-1,[2017]_L'Empereur
+http://ivue.co:5999/movie/shane1/shane1/4783.avi
+#EXTINF:-1,[2017]_La_Colère_d’un_homme_patient
+http://ivue.co:5999/movie/shane1/shane1/2910.mp4
+#EXTINF:-1,[2017]_La_Momie
+http://ivue.co:5999/movie/shane1/shane1/4798.avi
+#EXTINF:-1,[2017]_Larguées
+http://ivue.co:5999/movie/shane1/shane1/4540.avi
+#EXTINF:-1,[2017]_LE_CLIENT
+http://ivue.co:5999/movie/shane1/shane1/2909.mp4
+#EXTINF:-1,[2017]_Le_Diner_des_vampires
+http://ivue.co:5999/movie/shane1/shane1/4536.avi
+#EXTINF:-1,[2017]_Les_Animaux_fantastiques
+http://ivue.co:5999/movie/shane1/shane1/3633.mp4
+#EXTINF:-1,[2017]_Les_Oubliés
+http://ivue.co:5999/movie/shane1/shane1/4779.avi
+#EXTINF:-1,[2017]_Les_Rois_de_la_glisse_2
+http://ivue.co:5999/movie/shane1/shane1/2922.mp4
+#EXTINF:-1,[2017]_Les_Schtroumpfs_et_le_village_perdu
+http://ivue.co:5999/movie/shane1/shane1/4375.avi
+#EXTINF:-1,[2017]_Logan
+http://ivue.co:5999/movie/shane1/shane1/3627.mp4
+#EXTINF:-1,[2017]_MA_VIE_DE_COURGETTE
+http://ivue.co:5999/movie/shane1/shane1/2871.mp4
+#EXTINF:-1,[2017]_Max_2_White_House_Hero
+http://ivue.co:5999/movie/shane1/shane1/3628.mp4
+#EXTINF:-1,[2017]_Max_Steel
+http://ivue.co:5999/movie/shane1/shane1/2579.mkv
+#EXTINF:-1,[2017]_Megan_Leavey
+http://ivue.co:5999/movie/shane1/shane1/4780.avi
+#EXTINF:-1,[2017]_Monsieur_et_Madame_Adelman
+http://ivue.co:5999/movie/shane1/shane1/4388.avi
+#EXTINF:-1,[2017]_Mythica_Le_crépuscules_des_Dieux
+http://ivue.co:5999/movie/shane1/shane1/4548.avi
+#EXTINF:-1,[2017]_Norman_The_Moderate_Rise
+http://ivue.co:5999/movie/shane1/shane1/4784.avi
+#EXTINF:-1,[2017]_Papa_Ou_Maman_2
+http://ivue.co:5999/movie/shane1/shane1/4532.avi
+#EXTINF:-1,[2017]_Power_Rangers
+http://ivue.co:5999/movie/shane1/shane1/4792.avi
+#EXTINF:-1,[2017]_Pris_au_piège
+http://ivue.co:5999/movie/shane1/shane1/4787.avi
+#EXTINF:-1,[2017]_ROGER_CORMANS_DEATH_RACE_2050
+http://ivue.co:5999/movie/shane1/shane1/2904.mp4
+#EXTINF:-1,[2017]_Security
+http://ivue.co:5999/movie/shane1/shane1/4553.avi
+#EXTINF:-1,[2017]_Sharknado_5_Global_Swarming
+http://ivue.co:5999/movie/shane1/shane1/4550.avi
+#EXTINF:-1,[2017]_Shot_Caller
+http://ivue.co:5999/movie/shane1/shane1/4529.avi
+#EXTINF:-1,[2017]_Telle_Mere_Telle_Fille
+http://ivue.co:5999/movie/shane1/shane1/4530.avi
+#EXTINF:-1,[2017]_THE_ESCORT
+http://ivue.co:5999/movie/shane1/shane1/2903.mp4
+#EXTINF:-1,[2017]_The_Fate_Of_The_Furious_8
+http://ivue.co:5999/movie/shane1/shane1/3352.avi
+#EXTINF:-1,[2017]_THE_HITMANS_BODYGUARD
+http://ivue.co:5999/movie/shane1/shane1/4800.avi
+#EXTINF:-1,[2017]_The_Whole_Truth
+http://ivue.co:5999/movie/shane1/shane1/2920.mp4
+#EXTINF:-1,[2017]_TOUS_EN_SCENE
+http://ivue.co:5999/movie/shane1/shane1/2872.mp4
+#EXTINF:-1,[2017]_VICTORIA
+http://ivue.co:5999/movie/shane1/shane1/2905.mp4
+#EXTINF:-1,[2017]_Wonder_Woman
+http://ivue.co:5999/movie/shane1/shane1/4785.avi
+#EXTINF:-1,[2017]_xXx_Return_of_Xander_Cage
+http://ivue.co:5999/movie/shane1/shane1/3630.mp4
+#EXTINF:-1,2017 24H Limit
+http://ivue.co:5999/movie/shane1/shane1/5816.mkv
+#EXTINF:-1,2017 Atomic Blonde
+http://ivue.co:5999/movie/shane1/shane1/5817.avi
+#EXTINF:-1,2017 Baby Driver
+http://ivue.co:5999/movie/shane1/shane1/5818.avi
+#EXTINF:-1,2017 Brigsby Bear
+http://ivue.co:5999/movie/shane1/shane1/5819.avi
+#EXTINF:-1,2017 Bruno and Boots This Cant Be Happening at Macdonald Hall
+http://ivue.co:5999/movie/shane1/shane1/5820.avi
+#EXTINF:-1,2017 Bushwick
+http://ivue.co:5999/movie/shane1/shane1/5821.avi
+#EXTINF:-1,2017 Ce qui Nous Lie
+http://ivue.co:5999/movie/shane1/shane1/5822.avi
+#EXTINF:-1,2017 Churchill
+http://ivue.co:5999/movie/shane1/shane1/5823.avi
+#EXTINF:-1,2017 Comment J'ai Rencontre Mon Pere
+http://ivue.co:5999/movie/shane1/shane1/5824.avi
+#EXTINF:-1,2017 Cult of Chucky
+http://ivue.co:5999/movie/shane1/shane1/5825.avi
+#EXTINF:-1,2017 First Kill
+http://ivue.co:5999/movie/shane1/shane1/5826.avi
+#EXTINF:-1,2017 Gremlin
+http://ivue.co:5999/movie/shane1/shane1/5827.avi
+#EXTINF:-1,2017 Le Manoir
+http://ivue.co:5999/movie/shane1/shane1/5829.avi
+#EXTINF:-1,2017 Le Serpent aux Mille Coupures
+http://ivue.co:5999/movie/shane1/shane1/5830.avi
+#EXTINF:-1,2017 Les Ex
+http://ivue.co:5999/movie/shane1/shane1/5831.avi
+#EXTINF:-1,2017 My Pet Dinosaur
+http://ivue.co:5999/movie/shane1/shane1/5833.avi
+#EXTINF:-1,2017 Nos Patriotes
+http://ivue.co:5999/movie/shane1/shane1/5834.avi
+#EXTINF:-1,2017 Spider-Man Homecoming
+http://ivue.co:5999/movie/shane1/shane1/5836.avi
+#EXTINF:-1,2017 The Bittersweet
+http://ivue.co:5999/movie/shane1/shane1/5838.avi
+#EXTINF:-1,2017 The Shack
+http://ivue.co:5999/movie/shane1/shane1/5840.avi
+#EXTINF:-1,2017 The Wilde Wedding
+http://ivue.co:5999/movie/shane1/shane1/5841.avi
+#EXTINF:-1,2017 Transformers The Last Knight
+http://ivue.co:5999/movie/shane1/shane1/5842.avi
+#EXTINF:-1,2017 Un Profil Pour Deux
+http://ivue.co:5999/movie/shane1/shane1/5844.avi
+#EXTINF:-1,2017 Undercover Grandpa
+http://ivue.co:5999/movie/shane1/shane1/5845.avi
+#EXTINF:-1,2017 Valerian and the City of a Thousand Planets
+http://ivue.co:5999/movie/shane1/shane1/5846.avi
+#EXTINF:-1,2017 Viceroys House
+http://ivue.co:5999/movie/shane1/shane1/5847.avi
+#EXTINF:-1,2017 War for the Planet of the Apes
+http://ivue.co:5999/movie/shane1/shane1/5848.avi
+#EXTINF:-1,A Cure For Wellness 2017
+http://ivue.co:5999/movie/shane1/shane1/8292.mp4
+#EXTINF:-1,A Dogs Purpose 2017
+http://ivue.co:5999/movie/shane1/shane1/8291.mp4
+#EXTINF:-1,Alien-covenant 2017
+http://ivue.co:5999/movie/shane1/shane1/8391.mp4
+#EXTINF:-1,Altitude2017
+http://ivue.co:5999/movie/shane1/shane1/8396.mp4
+#EXTINF:-1,Awakening The Zodiac 2017
+http://ivue.co:5999/movie/shane1/shane1/8290.mp4
+#EXTINF:-1,Baywatch 2017 Multi 1080p
+http://ivue.co:5999/movie/shane1/shane1/8403.mp4
+#EXTINF:-1,Boyka Undisputed 2017 Multi 1080p
+http://ivue.co:5999/movie/shane1/shane1/8402.mp4
+#EXTINF:-1,Burning Sands 2017
+http://ivue.co:5999/movie/shane1/shane1/8230.mp4
+#EXTINF:-1,Cross Wars 2017
+http://ivue.co:5999/movie/shane1/shane1/8349.mp4
+#EXTINF:-1,Dode Hoek 2017
+http://ivue.co:5999/movie/shane1/shane1/8376.mp4
+#EXTINF:-1,Everything Everything 2017
+http://ivue.co:5999/movie/shane1/shane1/8309.mp4
+#EXTINF:-1,Fifty Shades Darker 2017
+http://ivue.co:5999/movie/shane1/shane1/8266.mp4
+#EXTINF:-1,Ghost In The Shell 2017 1080p
+http://ivue.co:5999/movie/shane1/shane1/8399.mp4
+#EXTINF:-1,Guardians Of The Galaxy Vol 2 2017
+http://ivue.co:5999/movie/shane1/shane1/8408.mp4
+#EXTINF:-1,Iboy 2017
+http://ivue.co:5999/movie/shane1/shane1/8347.mp4
+#EXTINF:-1,Immigration Game 2017
+http://ivue.co:5999/movie/shane1/shane1/8383.mp4
+#EXTINF:-1,Isabelle Et Le Secret De D'artagnan 2017
+http://ivue.co:5999/movie/shane1/shane1/8286.mp4
+#EXTINF:-1,John Wick Chapter 2 2017
+http://ivue.co:5999/movie/shane1/shane1/8385.mp4
+#EXTINF:-1,Kill'em All (2017)
+http://ivue.co:5999/movie/shane1/shane1/8387.mp4
+#EXTINF:-1,King Arthur Legend Of The Sword 2017
+http://ivue.co:5999/movie/shane1/shane1/8393.mp4
+#EXTINF:-1,Kong Skull Island 2017
+http://ivue.co:5999/movie/shane1/shane1/8392.mp4
+#EXTINF:-1,L Ascension 2017
+http://ivue.co:5999/movie/shane1/shane1/8397.mp4
+#EXTINF:-1,Logan 2017
+http://ivue.co:5999/movie/shane1/shane1/8398.mp4
+#EXTINF:-1,My Cousin Rachel 2017
+http://ivue.co:5999/movie/shane1/shane1/8310.mp4
+#EXTINF:-1,Power Rangers 2017
+http://ivue.co:5999/movie/shane1/shane1/8384.mp4
+#EXTINF:-1,Running Wild 2017
+http://ivue.co:5999/movie/shane1/shane1/8275.mp4
+#EXTINF:-1,S W A T Under Siege 2017
+http://ivue.co:5999/movie/shane1/shane1/8407.mp4
+#EXTINF:-1,Sand Castle 2017
+http://ivue.co:5999/movie/shane1/shane1/8274.mp4
+#EXTINF:-1,T2 Trainspotting 2017
+http://ivue.co:5999/movie/shane1/shane1/8298.mp4
+#EXTINF:-1,The Hunters Prayer 2017
+http://ivue.co:5999/movie/shane1/shane1/8381.mp4
+#EXTINF:-1,The Hunters Prayer 2017 French 1080
+http://ivue.co:5999/movie/shane1/shane1/8401.mp4
+#EXTINF:-1,The Space Between Us 2017
+http://ivue.co:5999/movie/shane1/shane1/8272.mp4
+#EXTINF:-1,The Wizard Of Lies 2017
+http://ivue.co:5999/movie/shane1/shane1/8307.mp4
+#EXTINF:-1,To The Bone 2017
+http://ivue.co:5999/movie/shane1/shane1/8311.mp4
+#EXTINF:-1,Un Sac De Billes 2017
+http://ivue.co:5999/movie/shane1/shane1/8296.mp4
+#EXTINF:-1,Unforgettable 2017
+http://ivue.co:5999/movie/shane1/shane1/8306.mp4
+#EXTINF:-1,[2017]_Extortion
+http://ivue.co:5999/movie/shane1/shane1/4790.avi
+#EXTINF:-1,[2017]_Don't_Kill_It
+http://ivue.co:5999/movie/shane1/shane1/4791.avi
+#EXTINF:-1,[2017]_Educazione_Siberiana
+http://ivue.co:5999/movie/shane1/shane1/2697.avi
+#EXTINF:-1,[2017]_Everything_Everything
+http://ivue.co:5999/movie/shane1/shane1/4537.avi
+#EXTINF:-1,Voice From The Stone 2017
+http://ivue.co:5999/movie/shane1/shane1/8304.mp4
+#EXTINF:-1,Wonder Woman 2017
+http://ivue.co:5999/movie/shane1/shane1/8395.mp4
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E01
+http://ivue.co:5999/movie/shane1/shane1/4354.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E02
+http://ivue.co:5999/movie/shane1/shane1/4355.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E03
+http://ivue.co:5999/movie/shane1/shane1/4356.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E04
+http://ivue.co:5999/movie/shane1/shane1/4357.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E05
+http://ivue.co:5999/movie/shane1/shane1/4358.mkv
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E06
+http://ivue.co:5999/movie/shane1/shane1/4359.mkv
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E07
+http://ivue.co:5999/movie/shane1/shane1/4360.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E08
+http://ivue.co:5999/movie/shane1/shane1/4361.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E09
+http://ivue.co:5999/movie/shane1/shane1/4362.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E10
+http://ivue.co:5999/movie/shane1/shane1/4363.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E11
+http://ivue.co:5999/movie/shane1/shane1/4364.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E12
+http://ivue.co:5999/movie/shane1/shane1/4365.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E13
+http://ivue.co:5999/movie/shane1/shane1/4366.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E14
+http://ivue.co:5999/movie/shane1/shane1/4367.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E15
+http://ivue.co:5999/movie/shane1/shane1/4368.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E16
+http://ivue.co:5999/movie/shane1/shane1/4369.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E17
+http://ivue.co:5999/movie/shane1/shane1/4370.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E18
+http://ivue.co:5999/movie/shane1/shane1/4371.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E19
+http://ivue.co:5999/movie/shane1/shane1/4372.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E20
+http://ivue.co:5999/movie/shane1/shane1/4373.avi
+#EXTINF:-1,[2017]_Designated_Survivor_S01_E21
+http://ivue.co:5999/movie/shane1/shane1/4374.avi
+#EXTINF:-1,Arrow.S05E01
+http://ivue.co:5999/movie/shane1/shane1/7992.mp4
+#EXTINF:-1,Arrow.S05E02
+http://ivue.co:5999/movie/shane1/shane1/7991.mp4
+#EXTINF:-1,Arrow.S05E03
+http://ivue.co:5999/movie/shane1/shane1/7990.mp4
+#EXTINF:-1,Arrow.S05E04
+http://ivue.co:5999/movie/shane1/shane1/7989.mp4
+#EXTINF:-1,Arrow.S05E05
+http://ivue.co:5999/movie/shane1/shane1/7988.mp4
+#EXTINF:-1,Arrow.S05E06
+http://ivue.co:5999/movie/shane1/shane1/7987.mp4
+#EXTINF:-1,Arrow.S05E07
+http://ivue.co:5999/movie/shane1/shane1/7986.mp4
+#EXTINF:-1,Arrow.S05E08
+http://ivue.co:5999/movie/shane1/shane1/7985.mp4
+#EXTINF:-1,Arrow.S05E09
+http://ivue.co:5999/movie/shane1/shane1/7984.mp4
+#EXTINF:-1,Arrow.S05E10
+http://ivue.co:5999/movie/shane1/shane1/7983.mp4
+#EXTINF:-1,Arrow.S05E11
+http://ivue.co:5999/movie/shane1/shane1/7982.mp4
+#EXTINF:-1,Arrow.S05E12
+http://ivue.co:5999/movie/shane1/shane1/7981.mp4
+#EXTINF:-1,Arrow.S05E13
+http://ivue.co:5999/movie/shane1/shane1/7980.mp4
+#EXTINF:-1,Arrow.S05E14
+http://ivue.co:5999/movie/shane1/shane1/7979.mp4
+#EXTINF:-1,Arrow.S05E15
+http://ivue.co:5999/movie/shane1/shane1/7978.mp4
+#EXTINF:-1,Arrow.S05E16
+http://ivue.co:5999/movie/shane1/shane1/7977.mp4
+#EXTINF:-1,Arrow.S05E17
+http://ivue.co:5999/movie/shane1/shane1/7976.mp4
+#EXTINF:-1,Arrow.S05E18
+http://ivue.co:5999/movie/shane1/shane1/7975.mp4
+#EXTINF:-1,Arrow.S05E19
+http://ivue.co:5999/movie/shane1/shane1/7974.mp4
+#EXTINF:-1,Arrow.S05E20
+http://ivue.co:5999/movie/shane1/shane1/7973.mp4
+#EXTINF:-1,Arrow.S05E21
+http://ivue.co:5999/movie/shane1/shane1/7972.mp4
+#EXTINF:-1,Arrow.S05E22
+http://ivue.co:5999/movie/shane1/shane1/7971.mp4
+#EXTINF:-1,Ballers S01 E01
+http://ivue.co:5999/movie/shane1/shane1/7969.mp4
+#EXTINF:-1,Ballers S01 E02
+http://ivue.co:5999/movie/shane1/shane1/7968.mp4
+#EXTINF:-1,Ballers S01 E03
+http://ivue.co:5999/movie/shane1/shane1/7967.mp4
+#EXTINF:-1,Ballers S01 E04
+http://ivue.co:5999/movie/shane1/shane1/7966.mp4
+#EXTINF:-1,Ballers S01 E05
+http://ivue.co:5999/movie/shane1/shane1/7965.mp4
+#EXTINF:-1,Ballers S01 E06
+http://ivue.co:5999/movie/shane1/shane1/7964.mp4
+#EXTINF:-1,Ballers S01 E07
+http://ivue.co:5999/movie/shane1/shane1/7963.mp4
+#EXTINF:-1,Ballers S01 E08
+http://ivue.co:5999/movie/shane1/shane1/7962.mp4
+#EXTINF:-1,Ballers S01 E09
+http://ivue.co:5999/movie/shane1/shane1/7961.mp4
+#EXTINF:-1,Ballers S01 E10
+http://ivue.co:5999/movie/shane1/shane1/7960.mp4
+#EXTINF:-1,[2016]_agatha_raisin_S01_E00
+http://ivue.co:5999/movie/shane1/shane1/4495.avi
+#EXTINF:-1,[2016]_agatha_raisin_S01_E01
+http://ivue.co:5999/movie/shane1/shane1/4496.avi
+#EXTINF:-1,[2016]_agatha_raisin_S01_E02
+http://ivue.co:5999/movie/shane1/shane1/4497.avi
+#EXTINF:-1,[2016]_agatha_raisin_S01_E03
+http://ivue.co:5999/movie/shane1/shane1/4498.avi
+#EXTINF:-1,[2016]_agatha_raisin_S01_E04
+http://ivue.co:5999/movie/shane1/shane1/4499.avi
+#EXTINF:-1,[2016]_agatha_raisin_S01_E05
+http://ivue.co:5999/movie/shane1/shane1/4500.avi
+#EXTINF:-1,[2016]_agatha_raisin_S01_E06
+http://ivue.co:5999/movie/shane1/shane1/4501.avi
+#EXTINF:-1,[2016]_agatha_raisin_S01_E07
+http://ivue.co:5999/movie/shane1/shane1/4502.avi
+#EXTINF:-1,[2016]_agatha_raisin_S01_E08
+http://ivue.co:5999/movie/shane1/shane1/4503.avi
+#EXTINF:-1,[2013]_the_blacklist_s01_e01
+http://ivue.co:5999/movie/shane1/shane1/4390.mp4
+#EXTINF:-1,[2013]_the_blacklist_s01_e02
+http://ivue.co:5999/movie/shane1/shane1/4391.mp4
+#EXTINF:-1,[2013]_the_blacklist_s01_e03
+http://ivue.co:5999/movie/shane1/shane1/4392.mp4
+#EXTINF:-1,[2013]_the_blacklist_s01_e04
+http://ivue.co:5999/movie/shane1/shane1/4393.mp4
+#EXTINF:-1,[2013]_the_blacklist_s01_e05
+http://ivue.co:5999/movie/shane1/shane1/4394.mkv
+#EXTINF:-1,[2013]_the_blacklist_s01_e06
+http://ivue.co:5999/movie/shane1/shane1/4395.mkv
+#EXTINF:-1,[2013]_the_blacklist_s01_e07
+http://ivue.co:5999/movie/shane1/shane1/4396.mkv
+#EXTINF:-1,[2013]_the_blacklist_s01_e08
+http://ivue.co:5999/movie/shane1/shane1/4397.mkv
+#EXTINF:-1,[2013]_the_blacklist_s01_e09
+http://ivue.co:5999/movie/shane1/shane1/4398.mp4
+#EXTINF:-1,[2013]_the_blacklist_s01_e10
+http://ivue.co:5999/movie/shane1/shane1/4399.mp4
+#EXTINF:-1,[2013]_the_blacklist_s01_e11
+http://ivue.co:5999/movie/shane1/shane1/4400.mkv
+#EXTINF:-1,[2013]_the_blacklist_s01_e12
+http://ivue.co:5999/movie/shane1/shane1/4401.mkv
+#EXTINF:-1,[2013]_the_blacklist_s01_e13
+http://ivue.co:5999/movie/shane1/shane1/4402.mkv
+#EXTINF:-1,[2013]_the_blacklist_s01_e14
+http://ivue.co:5999/movie/shane1/shane1/4403.mkv
+#EXTINF:-1,[2013]_the_blacklist_s01_e15
+http://ivue.co:5999/movie/shane1/shane1/4404.avi
+#EXTINF:-1,[2013]_the_blacklist_s01_e16
+http://ivue.co:5999/movie/shane1/shane1/4405.avi
+#EXTINF:-1,[2013]_the_blacklist_s01_e17
+http://ivue.co:5999/movie/shane1/shane1/4406.avi
+#EXTINF:-1,[2013]_the_blacklist_s01_e18
+http://ivue.co:5999/movie/shane1/shane1/4407.avi
+#EXTINF:-1,[2013]_the_blacklist_s01_e19
+http://ivue.co:5999/movie/shane1/shane1/4408.avi
+#EXTINF:-1,[2013]_the_blacklist_s01_e20
+http://ivue.co:5999/movie/shane1/shane1/4409.avi
+#EXTINF:-1,[2013]_the_blacklist_s01_e21
+http://ivue.co:5999/movie/shane1/shane1/4410.avi
+#EXTINF:-1,[2013]_the_blacklist_s01_e22
+http://ivue.co:5999/movie/shane1/shane1/4411.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e01
+http://ivue.co:5999/movie/shane1/shane1/4412.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e02
+http://ivue.co:5999/movie/shane1/shane1/4413.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e03
+http://ivue.co:5999/movie/shane1/shane1/4414.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e04
+http://ivue.co:5999/movie/shane1/shane1/4415.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e05
+http://ivue.co:5999/movie/shane1/shane1/4416.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e06
+http://ivue.co:5999/movie/shane1/shane1/4417.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e07
+http://ivue.co:5999/movie/shane1/shane1/4418.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e08
+http://ivue.co:5999/movie/shane1/shane1/4420.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e09
+http://ivue.co:5999/movie/shane1/shane1/4421.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e10
+http://ivue.co:5999/movie/shane1/shane1/4422.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e11
+http://ivue.co:5999/movie/shane1/shane1/4423.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e12
+http://ivue.co:5999/movie/shane1/shane1/4424.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e13
+http://ivue.co:5999/movie/shane1/shane1/4425.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e14
+http://ivue.co:5999/movie/shane1/shane1/4426.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e15
+http://ivue.co:5999/movie/shane1/shane1/4427.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e16
+http://ivue.co:5999/movie/shane1/shane1/4428.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e17
+http://ivue.co:5999/movie/shane1/shane1/4429.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e18
+http://ivue.co:5999/movie/shane1/shane1/4430.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e19
+http://ivue.co:5999/movie/shane1/shane1/4431.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e20
+http://ivue.co:5999/movie/shane1/shane1/4432.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e21
+http://ivue.co:5999/movie/shane1/shane1/4433.avi
+#EXTINF:-1,[2013]_the_blacklist_s02_e22
+http://ivue.co:5999/movie/shane1/shane1/4434.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e01
+http://ivue.co:5999/movie/shane1/shane1/4435.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e02
+http://ivue.co:5999/movie/shane1/shane1/4436.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e03
+http://ivue.co:5999/movie/shane1/shane1/4437.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e04
+http://ivue.co:5999/movie/shane1/shane1/4438.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e05
+http://ivue.co:5999/movie/shane1/shane1/4439.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e06
+http://ivue.co:5999/movie/shane1/shane1/4440.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e07
+http://ivue.co:5999/movie/shane1/shane1/4441.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e08
+http://ivue.co:5999/movie/shane1/shane1/4442.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e09
+http://ivue.co:5999/movie/shane1/shane1/4443.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e10
+http://ivue.co:5999/movie/shane1/shane1/4444.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e11
+http://ivue.co:5999/movie/shane1/shane1/4445.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e12
+http://ivue.co:5999/movie/shane1/shane1/4446.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e13
+http://ivue.co:5999/movie/shane1/shane1/4453.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e14
+http://ivue.co:5999/movie/shane1/shane1/4447.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e15
+http://ivue.co:5999/movie/shane1/shane1/4448.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e16
+http://ivue.co:5999/movie/shane1/shane1/4449.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e17
+http://ivue.co:5999/movie/shane1/shane1/4450.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e18
+http://ivue.co:5999/movie/shane1/shane1/4451.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e19
+http://ivue.co:5999/movie/shane1/shane1/4452.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e20
+http://ivue.co:5999/movie/shane1/shane1/4454.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e21
+http://ivue.co:5999/movie/shane1/shane1/4455.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e22
+http://ivue.co:5999/movie/shane1/shane1/4456.avi
+#EXTINF:-1,[2013]_the_blacklist_s03_e23
+http://ivue.co:5999/movie/shane1/shane1/4457.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e01
+http://ivue.co:5999/movie/shane1/shane1/4458.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e02
+http://ivue.co:5999/movie/shane1/shane1/4459.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e03
+http://ivue.co:5999/movie/shane1/shane1/4460.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e04
+http://ivue.co:5999/movie/shane1/shane1/4461.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e05
+http://ivue.co:5999/movie/shane1/shane1/4462.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e06
+http://ivue.co:5999/movie/shane1/shane1/4463.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e07
+http://ivue.co:5999/movie/shane1/shane1/4464.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e08
+http://ivue.co:5999/movie/shane1/shane1/4465.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e09
+http://ivue.co:5999/movie/shane1/shane1/4466.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e10
+http://ivue.co:5999/movie/shane1/shane1/4467.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e11
+http://ivue.co:5999/movie/shane1/shane1/4468.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e12
+http://ivue.co:5999/movie/shane1/shane1/4469.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e13
+http://ivue.co:5999/movie/shane1/shane1/4470.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e14
+http://ivue.co:5999/movie/shane1/shane1/4471.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e15
+http://ivue.co:5999/movie/shane1/shane1/4472.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e16
+http://ivue.co:5999/movie/shane1/shane1/4473.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e17
+http://ivue.co:5999/movie/shane1/shane1/4474.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e18
+http://ivue.co:5999/movie/shane1/shane1/4475.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e19
+http://ivue.co:5999/movie/shane1/shane1/4476.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e20
+http://ivue.co:5999/movie/shane1/shane1/4477.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e21
+http://ivue.co:5999/movie/shane1/shane1/4478.avi
+#EXTINF:-1,[2013]_the_blacklist_s04_e22
+http://ivue.co:5999/movie/shane1/shane1/4479.avi
