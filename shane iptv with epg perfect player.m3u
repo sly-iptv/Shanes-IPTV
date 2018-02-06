@@ -1,8 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="-----:UK-CHANNELS:-----"  group-title="|------------|",-----:UK-CHANNELS:-----
-http://ivue.co:5999/live/shane1/shane1/2710.ts
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK:RT News HD"  group-title="|ENG|",UK:RT News HD
 http://ivue.co:5999/live/shane1/shane1/2454.ts
 
